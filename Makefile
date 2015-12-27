@@ -25,7 +25,7 @@ Sources += index.md posts.html
 not:
 	$(RMF) about.md feed.xml
 
-Sources += _config.yml Gemfile _posts/ _includes/ _layouts/ css/
+Sources += _config.yml Gemfile _posts/ _includes/ _layouts/ css/ _sass/
 
 ### Makestuff
 
