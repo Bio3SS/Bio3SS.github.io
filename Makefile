@@ -1,4 +1,5 @@
 # Bio3SS.github.io
+
 ### Hooks for the editor to set the default target
 current: target
 
@@ -18,6 +19,13 @@ include stuff.mk
 Sources += index.md posts.html
 
 ######################################################################
+
+# Jekyll
+
+not:
+	$(RMF) about.md feed.xml
+
+Sources += _config.yml Gemfile _posts/
 
 ### Makestuff
 
