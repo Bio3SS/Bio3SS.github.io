@@ -1,4 +1,4 @@
-# Bio3SS.github.io
+# http://Bio3SS.github.io
 
 ### Hooks for the editor to set the default target
 current: target
@@ -25,7 +25,7 @@ Sources += index.md posts.html
 not:
 	$(RMF) about.md feed.xml
 
-Sources += _config.yml Gemfile _posts/
+Sources += _config.yml Gemfile _posts/ _includes/ _layouts/ css/
 
 ### Makestuff
 
