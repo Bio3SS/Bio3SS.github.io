@@ -1,10 +1,8 @@
 # Site settings
 title: Bio 3SS, McMaster University
 email: dushoff@mcmaster.ca
-description: > # this means to ignore newlines until "baseurl:"
-  Resources for our Population Biology course
 baseurl: "" 
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://bio3ss.github.io" # the base hostname & protocol for your site
 twitter_username: jd_mathbio
 
 # Build settings

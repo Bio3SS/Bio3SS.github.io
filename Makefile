@@ -16,7 +16,7 @@ include stuff.mk
 
 ## Content
 
-Sources += index.md posts.html
+Sources += $(wildcard *.md) updates.html
 
 ######################################################################
 
