@@ -18,6 +18,9 @@ include stuff.mk
 
 Sources += $(wildcard *.md) updates.html
 
+Sources += $(wildcard materials/*.*)
+Sources += $(wildcard _posts/*.*)
+
 ######################################################################
 
 # Jekyll
@@ -25,7 +28,8 @@ Sources += $(wildcard *.md) updates.html
 not:
 	$(RMF) about.md feed.xml
 
-Sources += _config.yml Gemfile _posts/* _includes/* _layouts/* css/* _sass/*
+Sources += _config.yml Gemfile
+Source += _includes/* _layouts/* css/* _sass/*
 
 ### Makestuff
 
