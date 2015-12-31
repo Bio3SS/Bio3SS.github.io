@@ -2,7 +2,7 @@ Gemfile.lock
 _site
 .sass-cache
 
-commit.txt
+commit.time
 .*.sw*
 
 *.pdf

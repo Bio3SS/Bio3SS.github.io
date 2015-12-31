@@ -27,6 +27,7 @@ Sources += $(wildcard _drafts/*.md)
 
 # Posts
 
+Sources += post.pl
 welcome.post: _drafts/welcome.md post.pl
 	$(PUSH)
 	$(shell_execute)
