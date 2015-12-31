@@ -3,7 +3,7 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: notarget
+target pngtarget pdftarget vtarget acrtarget: welcome.post 
 
 ##################################################################
 
@@ -11,6 +11,7 @@ target pngtarget pdftarget vtarget acrtarget: notarget
 
 Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
 include stuff.mk
+include $(ms)/perl.def
 
 ##################################################################
 
@@ -20,6 +21,18 @@ Sources += $(wildcard *.md) updates.html
 
 Sources += $(wildcard materials/*.*)
 Sources += $(wildcard _posts/*.*)
+Sources += $(wildcard _drafts/*.md)
+
+######################################################################
+
+# Posts
+
+welcome.post: _drafts/welcome.md post.pl
+	$(PUSH)
+	$(shell_execute)
+
+%.post: _drafts/%.md post.pl
+	$(PUSH)
 
 ######################################################################
 
@@ -29,7 +42,7 @@ not:
 	$(RMF) about.md feed.xml
 
 Sources += _config.yml Gemfile
-Source += _includes/* _layouts/* css/* _sass/*
+Sources += _includes/* _layouts/* css/* _sass/*
 
 ### Makestuff
 
