@@ -3,7 +3,7 @@
 ### Hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: welcome.post 
+target pngtarget pdftarget vtarget acrtarget: caribou.crop.jpg 
 
 ##################################################################
 
@@ -25,7 +25,24 @@ Sources += $(wildcard _drafts/*.md)
 
 ######################################################################
 
+zebras.jpg:
+	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
+
+zebras.crop.jpg: zebras.jpg Makefile
+	convert -crop 800x440+0+60 $< $@
+
+######################################################################
+
+caribou.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
+
+caribou.crop.jpg: caribou.jpg Makefile
+	convert -crop 600x180+0+170 $< $@
+
+
+##################################################################
 # Posts
+
 
 Sources += post.pl
 welcome.post: _drafts/welcome.md post.pl
