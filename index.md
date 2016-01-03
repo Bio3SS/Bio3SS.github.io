@@ -17,8 +17,5 @@ title: Overview
 * [An interesting article about note-taking, from _Vox_](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop Note-taking article from ''Vox'')
 
 # Course content
-<<<<<<< HEAD
 
 * [Introductory unit](intro.html)
-=======
->>>>>>> Autocommit (Bio3SS.github.io)
