@@ -20,7 +20,6 @@ include $(ms)/perl.def
 Sources += $(wildcard *.md) updates.html
 
 Sources += $(wildcard materials/*.*)
-Sources += $(wildcard _posts/*.*)
 Sources += $(wildcard _drafts/*.md)
 
 ######################################################################
@@ -28,22 +27,25 @@ Sources += $(wildcard _drafts/*.md)
 zebras.jpg:
 	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
 
-zebras.crop.jpg: zebras.jpg Makefile
+zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
 
 ######################################################################
 
+Archive += caribou.crop.jpg
+
 caribou.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
 
-caribou.crop.jpg: caribou.jpg Makefile
+caribou.crop.jpg: caribou.jpg 
 	convert -crop 600x180+0+170 $< $@
 
 
 ##################################################################
 # Posts
 
-
+# Posts are made from drafts as a side effect of making *.post
+Sources += $(wildcard _posts/*.*)
 Sources += post.pl
 welcome.post: _drafts/welcome.md post.pl
 	$(PUSH)

@@ -27,4 +27,8 @@ testdir/
 .testdir/
 subclone_dir/
 
+caribou.jpg
+zebras.jpg
+
 *.makestuff
+*.post
