@@ -47,12 +47,10 @@ caribou.crop.jpg: caribou.jpg
 # Posts are made from drafts as a side effect of making *.post
 Sources += $(wildcard _posts/*.*)
 Sources += post.pl
-welcome.post: _drafts/welcome.md post.pl
-	$(PUSH)
-	$(shell_execute)
 
 %.post: _drafts/%.md post.pl
 	$(PUSH)
+	$(shell_execute)
 
 ######################################################################
 
