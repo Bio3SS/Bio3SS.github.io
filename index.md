@@ -25,6 +25,7 @@ title: Overview
 # Course content
 
 * [Introductory unit](intro.html)
+* [Unit 1: Linear population models](linear.html)
 
 # Policies
 
