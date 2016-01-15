@@ -14,4 +14,3 @@ _You are expected to attend the tutorial_. We don't try to enforce this; we expe
 This week's
 [not-for-credit assignment](../../../materials/intro.asn.pdf)
 will be very useful for most of you to get ready for impending for-credit assignments. You are expected to do it.
-
