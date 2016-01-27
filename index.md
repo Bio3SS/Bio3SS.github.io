@@ -3,7 +3,7 @@ layout: page
 title: Overview
 ---
 
-# Updates
+# Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
 <ul class="post-list">
@@ -31,6 +31,7 @@ title: Overview
 
 * [Introductory unit](intro.html)
 * [Unit 1: Linear population models](linear.html)
+* [Unit 2: Non-linear population models](nonlinear.html)
 
 # Policies
 
