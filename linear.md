@@ -3,11 +3,17 @@ layout: page
 title: Unit 1
 ---
 
+# Content
+
+* [Lecture notes](materials/linear.handouts.pdf)
+  * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
+
 # Resources
 
 * The suggested reading is:
-  * Molles and Cahill, Second Canadian Edition, 12.1 – 12.3, __or__
-  * Molles, Fourth Edition, 11.1 
+  * Molles and Cahill, Second (or Third) Canadian Edition, 12.1 – 12.3, __or__
+  * Molles, Fourth Edition,
+  11.1 (_this is an old book,_ not _the Canadian version we use now_)
 
 * An additional resource is
   * [Fun with dimensional analysis](http://www.alysion.org/dimensional/fun.htm)
