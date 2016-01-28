@@ -33,6 +33,9 @@ title: Overview
 * [Unit 1: Linear population models](linear.html)
 * [Unit 2: Non-linear population models](nonlinear.html)
 
+# Test resources
+* [Midterm 1](midterm1.html)
+
 # Policies
 
 * [Tutorial policy](Tutorials.html)
