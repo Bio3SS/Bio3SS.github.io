@@ -6,7 +6,7 @@ title: Unit 2
 # Content
 
 * [Lecture notes](materials/nonlinear.handouts.pdf)
-  * [Complete version (not ready yet)]
+  * [Complete version](materials/nonlinear.complete.pdf)
 
 # Resources
 
