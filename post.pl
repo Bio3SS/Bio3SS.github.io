@@ -3,7 +3,7 @@ use 5.10.0;
 
 my $fn = $ARGV[0];
 
-my ($bn, $ext) = $fn =~ m|_drafts/(.*)[.](.*)|;
+my ($bn, $ext) = $fn =~ m|(.*)[.](.*)|;
 
 my %att;
 $att{date} = `date +"%Y-%m-%d"`;

@@ -48,9 +48,11 @@ caribou.crop.jpg: caribou.jpg
 Sources += $(wildcard _posts/*.*)
 Sources += post.pl
 
-%.post: _drafts/%.md post.pl
+%.post: %.md post.pl
 	$(PUSH)
 	$(shell_execute)
+
+announce.post: announce.md
 
 ######################################################################
 
