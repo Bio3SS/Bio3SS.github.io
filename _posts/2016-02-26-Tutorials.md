@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week of 30 Feb (!)
+title: Week of 29 Feb (!)
 slug: Tutorials
 ---
 
