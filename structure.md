@@ -6,7 +6,7 @@ title: Unit 3
 # Content
 
 * [Lecture notes](materials/structure.handouts.pdf)
-  * [Complete version (not ready yet)]
+  * [Complete version](materials/structure.complete.pdf)
 
 # Resources
 
