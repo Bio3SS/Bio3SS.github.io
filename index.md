@@ -33,7 +33,7 @@ title: Overview
 * [Unit 1: Linear population models](linear.html)
 * [Unit 2: Non-linear population models](nonlinear.html)
 * [Unit 3: Structured populations models](structure.html)
-* [Unit 4: Life history](life.html)
+* [Unit 4: Life history](life_history.html)
 
 # Tests and assignments
 * [Assignments](assignments.html)

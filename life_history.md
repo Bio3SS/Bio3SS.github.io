@@ -6,6 +6,7 @@ title: Unit 4
 # Content
 
 * [Lecture notes](materials/life_history.handouts.pdf)
+    * [Complete notes](materials/life_history.complete.pdf)
 
 # Resources
 
