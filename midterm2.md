@@ -3,7 +3,7 @@ layout: page
 title: Midterm 2
 ---
 
-The scope of midterm 2 will be announced one week in advance (on Fri 4 Mar)
+Midterm 2 will cover through the end of Unit 4 (Life history).
 
 # Resources
 
