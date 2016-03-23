@@ -34,6 +34,7 @@ title: Overview
 * [Unit 2: Non-linear population models](nonlinear.html)
 * [Unit 3: Structured populations models](structure.html)
 * [Unit 4: Life history](life_history.html)
+* [Unit 5: Competition](competition.html)
 
 # Tests and assignments
 * [Assignments](assignments.html)
