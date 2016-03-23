@@ -35,6 +35,7 @@ title: Overview
 * [Unit 3: Structured populations models](structure.html)
 * [Unit 4: Life history](life_history.html)
 * [Unit 5: Competition](competition.html)
+* [Unit 6: Exploitation](exploitation.html)
 
 # Tests and assignments
 * [Assignments](assignments.html)
