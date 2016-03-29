@@ -1,11 +1,11 @@
 # http://Bio3SS.github.io
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 Not tested much.
 
 ### Hooks for the editor to set the default target
 current: target
 
 target pngtarget pdftarget vtarget acrtarget: announce.post 
 
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 Not tested much.
 
 ##################################################################
 
