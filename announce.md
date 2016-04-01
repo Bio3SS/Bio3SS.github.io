@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Optional assignment
-slug: Optional assignment
+title: Weekly update
+slug: Weekly update
 ---
 
-The [optional assignment on exploitation](../../../materials/expl.asn.pdf) can be used to replace your lowest assignment grade -- or you might just find it fun (or instructive) to play with.
+This week's tutorials will focus on the disease unit and the optional assignment.
 
