@@ -6,7 +6,6 @@ current: target
 
 target pngtarget pdftarget vtarget acrtarget: announce.post 
 
-
 ##################################################################
 
 # make files
