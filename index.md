@@ -36,6 +36,7 @@ title: Overview
 * [Unit 4: Life history](life_history.html)
 * [Unit 5: Competition](competition.html)
 * [Unit 6: Exploitation](exploitation.html)
+* [Unit 7: Disease](exploitation.html)
 
 # Tests and assignments
 * [Assignments](assignments.html)
