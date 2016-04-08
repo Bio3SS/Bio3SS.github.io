@@ -1,7 +1,7 @@
-# http://Bio3SS.github.io
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 Not tested much.
+# http://bio3ss.github.io
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 not tested much.
 
-### Hooks for the editor to set the default target
+### hooks for the editor to set the default target
 current: target
 
 target pngtarget pdftarget vtarget acrtarget: announce.post 
