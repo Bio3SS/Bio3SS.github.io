@@ -15,4 +15,4 @@ title: Assignments
   * [key](../../../materials/regulation.key.pdf)
 
 * [Competition assignment](../../../materials/competition.asn.pdf)
-  * [key]
+  * [key](../../../materials/competition.key.pdf)
