@@ -1,5 +1,5 @@
 # http://bio3ss.github.io
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 not tested much.
+# HTTPS://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 not tested much.
 
 ### hooks for the editor to set the default target
 current: target
