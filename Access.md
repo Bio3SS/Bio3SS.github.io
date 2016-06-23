@@ -9,11 +9,11 @@ The course often seems full, but you will probably get in if you keep trying.
 
 # Waivers 
 
-Waivers for Bio 3SS will be granted to qualified students who do not have the prerequisite, __starting in November.__  This is to give students with the prerequisite the first chance at the course.
+Qualified students who do not have the prerequisite can receive waivers by emailing after a set date. This is to give students with the prerequisite the first chance at the course. The date will be set once I know how crowed the course is. __Please check back in October for an update__: do not email me for permission until I post a date here.
 
 You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M or 1AA) and an upper-level course with some relationship to evolution or ecology.  You must also acquire a copy of the Ecology textbook (Molles and Cahill).
 
-If you would like a waiver, please send an email to dushoff@mcmaster.ca, explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please also include your student number. 
+If you would like a waiver, please send an email to dushoff@mcmaster.ca _(but see above)_, explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please also include your student number. 
 
 Although you will probably get in, you should be aware that the waiver _does not guarantee you a spot in the course._  The waiver will allow you to try to register for the course online, once you receive confirmation from the department that the waiver has been processed.
 
