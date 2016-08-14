@@ -9,7 +9,7 @@ The course often seems full, but you will probably get in if you keep trying.
 
 # Waivers 
 
-Qualified students who do not have the prerequisite can receive waivers by emailing after a set date. This is to give students with the prerequisite the first chance at the course. The date will be set once I know how crowded the course is. __Please check back in October for an update__: do not email me for permission until I post a date here.
+If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
 
 You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M or 1AA) and an upper-level course with some relationship to evolution or ecology.  You must also acquire a copy of the Ecology textbook (Molles and Cahill).
 
