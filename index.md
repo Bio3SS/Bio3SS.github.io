@@ -15,12 +15,11 @@ title: Overview
 	{% endfor %}
 </ul>
 
-# [Older updates](updates.html)
-
+<!-- # [Older updates](updates.html)>
 
 # Course information
 
-* [Official course outline](materials/outline.pdf)
+* [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 * [Facebook group](https://www.facebook.com/groups/456104641239578/)

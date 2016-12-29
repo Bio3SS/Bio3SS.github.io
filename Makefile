@@ -1,10 +1,11 @@
 # http://bio3ss.github.io
+# http://localhost:4000/
 # HTTPS://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 not tested much.
 
 ### hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: announce.post 
+target pngtarget pdftarget vtarget acrtarget: zebras.crop.jpg 
 
 ##################################################################
 
@@ -33,8 +34,6 @@ zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
 
 ######################################################################
-
-Archive += caribou.crop.jpg
 
 caribou.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
