@@ -5,8 +5,10 @@ title: Unit 1
 
 # Content
 
+{% comment %} 
 * [Lecture notes](materials/linear.handouts.pdf)
   * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
+{% endcomment %} 
 
 # Resources
 
@@ -18,9 +20,10 @@ title: Unit 1
 * An additional resource is
   * [Fun with dimensional analysis](http://www.alysion.org/dimensional/fun.htm)
 
+{% comment %} 
 # Simulations
 
 * [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2016) (http://tinyurl.com/DandelionModel2016)
 * [The Moth spreadsheet](http://tinyurl.com/MothModel2016) (http://tinyurl.com/MothModel2016)
 * [Google spreadsheets](spreadsheets.html)
-
+{% endcomment %} 

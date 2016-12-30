@@ -3,10 +3,12 @@ layout: page
 title: Unit 3
 ---
 
+{% comment %} 
 # Content
 
 * [Lecture notes](materials/structure.handouts.pdf)
   * [Complete version](materials/structure.complete.pdf)
+{% endcomment %} 
 
 # Resources
 

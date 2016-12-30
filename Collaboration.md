@@ -27,5 +27,6 @@ The best way to communicate about assignments is _verbally_.  Do not take any sp
 
 # More information 
 
-* [The University's Academic Integrity policy](http://www.mcmaster.ca/policy/Students-AcademicStudies/AcademicIntegrity.pdf)
+* [The University's Academic Integrity office](http://www.mcmaster.ca/academicintegrity)
+* [The Academic Integrity policy](http://www.mcmaster.ca/policy/Students-AcademicStudies/AcademicIntegrity.pdf)
 

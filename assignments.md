@@ -3,6 +3,7 @@ layout: page
 title: Assignments
 ---
 
+{% comment %} 
 * [Introductory assignment (not for credit)](materials/intro.asn.pdf).
   * [key](materials/intro.key.pdf).
 
@@ -16,3 +17,4 @@ title: Assignments
 
 * [Competition assignment](../../../materials/competition.asn.pdf)
   * [key](../../../materials/competition.key.pdf)
+{% endcomment %} 

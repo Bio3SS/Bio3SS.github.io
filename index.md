@@ -3,6 +3,7 @@ layout: page
 title: Overview
 ---
 
+{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
@@ -14,17 +15,22 @@ title: Overview
 		</li>
 	{% endfor %}
 </ul>
+{% endcomment %}
 
-<!-- # [Older updates](updates.html)>
+{% comment %} 
+# [Older updates](updates.html)
+{% endcomment %}
 
 # Course information
 
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
-* [Facebook group](https://www.facebook.com/groups/456104641239578/)
+* [Facebook group](https://www.facebook.com/search/top/?q=Bio%203SS%20Winter%202017)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
+{% comment %} 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/174426)
+{% endcomment %} 
 
 # Course content
 
@@ -37,10 +43,29 @@ title: Overview
 * [Unit 6: Exploitation](exploitation.html)
 * [Unit 7: Disease](disease.html)
 
+{% comment %} 
+	intro.md
+	linear.md
+	nonlinear.md
+	structure.md
+	life_history.md
+	competition.md
+	exploitation.md
+	disease.md
+{% endcomment %} 
+
+{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
+{% endcomment %} 
+
+{% comment %} 
+assignments.md
+midterm1.md
+midterm2.md
+{% endcomment %} 
 
 # Policies
 

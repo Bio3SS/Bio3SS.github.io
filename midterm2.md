@@ -3,6 +3,7 @@ layout: page
 title: Midterm 2
 ---
 
+{% comment %} 
 Midterm 2 will cover through the end of Unit 4 (Life history).
 
 # Tests
@@ -33,3 +34,4 @@ Midterm 2 will cover through the end of Unit 4 (Life history).
 	
 * [Additional study questions](http://lalashan.mcmaster.ca/3SS/2015/midterm23sq.sq.pdf)
     * [Answers](http://lalashan.mcmaster.ca/3SS/2015/midterm23sq.key.pdf)
+{% endcomment %} 
