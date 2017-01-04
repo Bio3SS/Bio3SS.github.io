@@ -15,15 +15,16 @@ We catch people collaborating improperly every year, and _it is no fun for us, o
 
 The best way to communicate about assignments is _verbally_.  Do not take any specific written (or typed) notes away from a discussion about how to do an assignment.  If somebody shows you how to do something on the computer, practice until you understand, then go away and do it again by yourself.
 
-# Electronic communication 
+# Electronic and other written communication 
 
-* If you communicate electronically about assignments, you should do it _only through the class Facebook site_.
+* _No_ electronic or other _written_ communications about assignments are allowed, _except_ on:
+  * [The official class Facebook site](https://www.facebook.com/groups/681998368640256/).
+  * The class Avenue to Learn site (if they ever give us one).
 
-* Communications there should follow the guidelines above: _general_ discussion of how to do things.
-
-* Do not post R code or specific answers
-
-* When using others' electronic advice or suggestions, follow the guidelines above: read it, close it, do your own work. Do not have Facebook open while you are working on your assignment.
+* Communications there should follow the guidelines above:
+  * _general_ discussion of how to do things.
+  * Do not post R code or specific answers
+  * When using others' electronic advice or suggestions, follow the guidelines above: read it, __close it__, do your own work. 
 
 # More information 
 

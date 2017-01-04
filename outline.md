@@ -6,6 +6,9 @@ title: Course outline
 **Winter 2017**
 
 **Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
+**Lecture TA:** Caroline Cauret
+**Marking TA:** Benjamin Furman
+**Tutorial leaders:** Morgan Kain, Michael Li
 
 Course material 
 ---------------
@@ -41,11 +44,11 @@ Evaluation
 
 - Assignments 10%
 - Two midterms, 50% (25% each)
-	- Fri 3 Feb and Fri 9 Mar, in class
+	- __Fri 10 Feb and Fri 17 Mar, in class__
 - Final exam 40%
 	- Will be scheduled by the Registrar
 - Extra credit will be given for class participation
-- Midterms and final will be cumulative, but will emphasize new
+- Tests will be _cumulative_, but will emphasize new
  material more than already-tested material
 
 ------------------------------------------------------------------------
@@ -60,4 +63,4 @@ tests.
 
 **Online component:** We will be using the learning software Avenue to Learn (AtL). Students should be aware that private information such as first and last names, user names for the McMaster e-mail accounts, and program affiliation may be visible to other students in the course. By taking this course you consent to this disclosure. If you have any questions or concerns about this, please discuss them with the course instructor.
 
-**Sharing information:** Students are encouraged to ask questions and exchange information using AtL or [the course Facebook group](https://www.facebook.com/search/top/?q=Bio%203SS%20Winter%202017). These are the _only_ permitted way to exchange written information about assignments (see  [collaboration policy](Collaboration.html)).
+**Sharing information:** Students are encouraged to ask questions and exchange information using AtL or [the course Facebook group](https://www.facebook.com/groups/681998368640256/). These are the _only_ permitted way to exchange written information about assignments (see  [collaboration policy](Collaboration.html)).
