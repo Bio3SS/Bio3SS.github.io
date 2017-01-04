@@ -5,7 +5,7 @@
 ### hooks for the editor to set the default target
 current: target
 
-target pngtarget pdftarget vtarget acrtarget: zebras.crop.jpg 
+target pngtarget pdftarget vtarget acrtarget: announce.post 
 
 ##################################################################
 
