@@ -26,7 +26,7 @@ title: Overview
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
-* [Facebook group](https://www.facebook.com/search/top/?q=Bio%203SS%20Winter%202017)
+* [Facebook group](https://www.facebook.com/groups/681998368640256/)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 {% comment %} 
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/174426)

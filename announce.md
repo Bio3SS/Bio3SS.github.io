@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Special office hour
-slug: Special office hour
+title: Welcome to Bio 3SS
+slug: Welcome to Bio 3SS
 ---
 
-* By request, Dushoff will have a special office hour Wed at 11. This will really be the last one (I am travelling starting Thursday). Apologies to anybody who I told a different time; I have a medical thing.
+Hello and Happy New year!
+
+* Please print the [Handouts for the Introductory Unit](../../../materials/intro.handouts.pdf) and bring them to class on Tuesday morning.
+
+* The [Math supplement handout](/materials/math.handouts.pdf) is also available.
+
