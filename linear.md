@@ -5,8 +5,8 @@ title: Unit 1
 
 # Content
 
+* [Lecture notes](/materials/linear.handouts.pdf)
 {% comment %} 
-* [Lecture notes](materials/linear.handouts.pdf)
   * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
 {% endcomment %} 
 

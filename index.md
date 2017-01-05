@@ -7,7 +7,7 @@ title: Overview
 <!-- # [Updates](updates.html) -->
 
 <ul class="post-list">
-	{% for post in site.posts limit:1 %}
+	{% for post in site.posts limit:2 %}
 		<li>
 			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}: </span>
 				<a class="post-mini" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -27,7 +27,7 @@ title: Overview
 * [Facebook group](https://www.facebook.com/groups/681998368640256/)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
-https://avenue.cllmcmaster.ca/d2l/lms/news/main.d2l?ou=201446&dst=1
+
 
 # Course content
 
