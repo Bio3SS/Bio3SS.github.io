@@ -28,7 +28,6 @@ title: Overview
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
 
-
 # Course content
 
 * [Introductory unit](intro.html)
