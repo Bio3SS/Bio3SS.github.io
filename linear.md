@@ -26,5 +26,5 @@ title: Unit 1
 * [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2017) (http://tinyurl.com/DandelionModel2017)
 {% comment %} 
 * [The Moth spreadsheet](http://tinyurl.com/MothModel2016) (http://tinyurl.com/MothModel2016)
-* [Google spreadsheets](spreadsheets.html)
 {% endcomment %} 
+* [Google spreadsheets](spreadsheets.html)
