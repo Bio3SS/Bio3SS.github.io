@@ -47,6 +47,7 @@ caribou.crop.jpg: caribou.jpg
 # Posts are made from drafts as a side effect of making *.post
 Sources += $(wildcard _posts/*.*)
 Sources += post.pl
+Sources += 2016_posts.list
 
 %.post: %.md post.pl
 	$(PUSH)

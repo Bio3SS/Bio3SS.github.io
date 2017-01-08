@@ -7,7 +7,7 @@ title: Overview
 <!-- # [Updates](updates.html) -->
 
 <ul class="post-list">
-	{% for post in site.posts limit:3 %}
+	{% for post in site.posts limit:4 %}
 		<li>
 			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}: </span>
 				<a class="post-mini" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -15,9 +15,7 @@ title: Overview
 	{% endfor %}
 </ul>
 
-{% comment %} 
 # [Older updates](updates.html)
-{% endcomment %}
 
 # Course information
 
