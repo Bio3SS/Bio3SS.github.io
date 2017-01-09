@@ -1,5 +1,6 @@
 # http://bio3ss.github.io
 # http://localhost:4000/
+# http://localhost:4000/announce.html
 # HTTPS://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=174426&global=0 not tested much.
 
 ### hooks for the editor to set the default target

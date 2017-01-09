@@ -1,11 +1,7 @@
 ---
 layout: post
-title: Tutorials
-slug: Tutorials
+title: Office hours
+slug: Office hours
 ---
 
-Tutorials for the week of 9 January are _optional_. We will focus on:
-
-* [the math supplement](/materials/math.handouts.pdf)
-
-* log and linear scales
+Please [take this poll to let us know if you have preferences about our office hours](https://www.polleverywhere.com/multiple_choice_polls/WuTAoxK4vzzx3Jv)
