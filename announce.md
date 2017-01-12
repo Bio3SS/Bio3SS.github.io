@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Office hours
+title: Special office hour
 slug: Office hours
 ---
 
-Please [take this poll to let us know if you have preferences about our office hours](https://www.polleverywhere.com/multiple_choice_polls/WuTAoxK4vzzx3Jv)
+By request, I will be holding a special office hour this afternoon (Thu) 1:30-2:20 PM in LSB-332.
+
+JD

@@ -54,7 +54,6 @@ Sources += 2016_posts.list
 	$(PUSH)
 	$(shell_execute)
 
-post: announce.post
 announce.post: announce.md
 
 ######################################################################
