@@ -3,6 +3,8 @@ layout: page
 title: Assignments
 ---
 
+Assignments are due Friday at 4 PM. _If you have a good reason_, you may submit until Monday at noon, with a 10% penalty. It is not possible to submit an assignment after that time, but assignments can be reweighted with a letter from the Associate Dean.
+
 {% comment %} 
 * [Introductory assignment (not for credit)](materials/intro.asn.pdf).
   * [key](materials/intro.key.pdf).
