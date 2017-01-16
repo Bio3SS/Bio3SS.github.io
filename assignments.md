@@ -3,14 +3,10 @@ layout: page
 title: Assignments
 ---
 
-Assignments are due Friday at 4 PM in the drop boxes on the first floor of the Life Sciences Building (LSB). There are three boxes labelled with the course name and assignments can be placed in any of them. Ensure that you have labelled your tutorial section and TA's name. 
+Please see [the assignment policy](/assignment_policy.html)
 
-_If you have a good reason_, you may submit until Monday at noon, with a 10% penalty. Assignments will not be graded after that time, but assignments can be reweighted with a letter from the Associate Dean.
-
-The marking TA, Ben Furman, can be reached at furmanbl@mcmaster.ca if there are any questions regarding assignment submission or issues with grading. Ensure that your email subject line includes "BIOL3SS3 Assignment" in the subject header. 
-
+* [Introductory assignment (not for credit)](/materials/intro.asn.pdf).
 {% comment %} 
-* [Introductory assignment (not for credit)](materials/intro.asn.pdf).
   * [key](materials/intro.key.pdf).
 
 * [Population growth assignment](materials/pg.asn.pdf)

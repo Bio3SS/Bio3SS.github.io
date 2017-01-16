@@ -46,9 +46,9 @@ title: Overview
 	disease.md
 {% endcomment %} 
 
-{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
+{% comment %} 
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 {% endcomment %} 
