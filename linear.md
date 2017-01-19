@@ -7,9 +7,7 @@ title: Unit 1
 
 * [Lecture notes](/materials/linear.handouts.pdf)
   * [Large format](/materials/linear.large.pdf)
-{% comment %} 
   * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
-{% endcomment %} 
 
 # Resources
 
