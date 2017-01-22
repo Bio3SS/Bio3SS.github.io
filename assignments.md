@@ -6,8 +6,8 @@ title: Assignments
 Please see [the assignment policy](/assignment_policy.html)
 
 * [Introductory assignment (not for credit)](/materials/intro.asn.pdf).
-{% comment %} 
   * [key](materials/intro.key.pdf).
+{% comment %} 
 
 * [Population growth assignment](materials/pg.asn.pdf)
   * [key](materials/pg.key.pdf)

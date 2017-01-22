@@ -1,10 +1,7 @@
 ---
 layout: post
-title: New materials
-slug: New materials
+title: Intro assignment key
+slug: Assignment key
 ---
 
-* The handouts for Unit 2 are available on the [Unit 2 page](/nonlinear.html). _Please print and bring to class on Friday_.
-
-* The _complete_ notes for Unit 1 are available on the [Unit 1 page](/linear.html)
-
+* [The key from the not-for-credit assignment](/materials/intro.key.pdf) is now available. It makes some interesting points, and is worth 3 minutes of your time, no matter how you felt about the assignment
