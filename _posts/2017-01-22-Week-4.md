@@ -10,4 +10,4 @@ slug: Week 4
 	* Review of the [not-for-credit assignment](/materials/intro.asn.pdf) [(key)](/materials/intro.key.pdf). 
 	* Population regulation and simple models
 
-Please read our [assignment policy](assignment_policy.html), particularly the [collaboration rules](Collaboration.html)
+Please read our [assignment policy](/assignment_policy.html), particularly the [collaboration rules](/Collaboration.html)
