@@ -12,7 +12,7 @@ target pngtarget pdftarget vtarget acrtarget: announce.post
 
 # make files
 
-Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
+Sources = Makefile .gitignore README.md stuff.mk LICENSE.md TODO.md
 include stuff.mk
 include $(ms)/os.mk
 include $(ms)/perl.def
@@ -63,7 +63,8 @@ announce.post: announce.md
 not:
 	$(RMF) about.md feed.xml
 
-Sources += _config.yml Gemfile
+Sources += _config.yml $(wildcard Gemfile_*)
+
 Sources += _includes/* _layouts/* css/* _sass/*
 
 ### Makestuff
