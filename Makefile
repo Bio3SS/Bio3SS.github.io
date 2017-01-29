@@ -67,10 +67,7 @@ Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
 
-### Makestuff
-
-## Change this name to download a new version of the makestuff directory
-# Makefile: start.makestuff
+######################################################################
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
