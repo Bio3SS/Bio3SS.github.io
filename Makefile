@@ -24,6 +24,7 @@ include $(ms)/perl.def
 Sources += $(wildcard *.md) updates.html
 
 Sources += $(wildcard materials/*.*)
+Sources += $(wildcard materials/2016/*.*)
 Sources += $(wildcard _drafts/*.md)
 
 ######################################################################
