@@ -7,8 +7,9 @@ title: Unit 2
 
 * [Lecture notes](materials/nonlinear.handouts.pdf)
   * [Large format](/materials/nonlinear.large.pdf)
-{% comment %} 
   * [Complete version](materials/nonlinear.complete.pdf)
+
+{% comment %} 
 {% endcomment %} 
 
 # Resources
