@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Unit 3 resources
-slug: 2 resources
+title: Midterm resources
+slug: Midterm
 ---
 
-* The missing diagram has been added to the [Unit 3 page](/structure.html)
+* The [Midterm 1 page](/midterm1.html) now has more answers, and more information as well.
 

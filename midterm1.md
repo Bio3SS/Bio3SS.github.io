@@ -7,6 +7,8 @@ Midterm 1 will be held in class on Fri 10 Feb. Please arrive promptly, with your
 
 The midterm will focus primarily on Units 1 and 2, but _may_ also include _conceptual_ questions from Sections 1 and 2 of Unit 3 (no calculations will be required from Unit 3).
 
+There will be 17 multiple-choice questions (worth 17 points in total) and two short-answer questions (worth 8 points in total).
+
 {% comment %} 
 This year's midterm covered through Section 2.4 of the notes -- that is, all of the notes that have been distributed through the end of January, _except_ Unit 2, Section 5.
 
@@ -39,12 +41,6 @@ Resources are provided as study aids. Material content and coverage will change 
 {% endcomment %} 
 
 * [2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
-  * Key will be released on Wednesday
-* [An older test](http://lalashan.mcmaster.ca/3SS/2015/midterm13.test.pdf)
-  * Key will be released on Wednesday
-
-{% comment %} 
   * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
-
+* [An older test](http://lalashan.mcmaster.ca/3SS/2015/midterm13.test.pdf)
   * [Key](http://lalashan.mcmaster.ca/3SS/2015/midterm13.key.pdf)
-{% endcomment %} 
