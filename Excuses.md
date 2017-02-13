@@ -17,5 +17,5 @@ I do not make a distinction between varsity and club sports, but you do need a f
 
 # Reweighting 
 
-Your test and assignment grades will be calculated separately.  This means the weight for a missed midterm will be re-allocated to the two remaining tests (in proportion to their original weights), and the weight for a missed assignment will be re-allocated to the remaining assignments.  For example, if you miss one midterm with a valid excuse/MSAF form, since the original weights of the midterms and exam are 25% (each midterm) and 40% (final), the weights for the remaining midterm and the final are (0.25/0.65*0.9)=35% and (0.4/0.65*0.9)=55% respectively.
+Your test and assignment grades will be calculated separately.  This means the weight for a missed midterm will be re-allocated to the two remaining tests (in proportion to their original weights), and the weight for a missed assignment will be re-allocated to the remaining assignments.  For example, if you miss one midterm with a valid excuse/MSAF form, since the original weights of the midterms and exam are 25% (each midterm) and 40% (final), the weights for the remaining midterm and the final are (0.9×0.25/0.65)=35% and (0.9×0.4/0.65)=55% respectively.
 
