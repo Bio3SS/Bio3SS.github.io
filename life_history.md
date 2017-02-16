@@ -3,10 +3,11 @@ layout: page
 title: Unit 4
 ---
 
-{% comment %} 
 # Content
 
-* [Lecture notes](materials/life_history.handouts.pdf)
+* [Lecture notes](/materials/life_history.handouts.pdf)
+    * [Large format](/materials/life_history.large.pdf)
+{% comment %} 
     * [Complete notes](materials/life_history.complete.pdf)
 {% endcomment %} 
 

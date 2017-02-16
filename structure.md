@@ -17,3 +17,5 @@ title: Unit 3
   * Molles and Cahill, Second (or Third) Canadian Edition, 11.1, 11.2
 
 * [Modeling structured populations diagram](materials/structure_cc.png)
+
+* [The dandelion spreadsheet](http://tinyurl.com/DandelionModel2017)
