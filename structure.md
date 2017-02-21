@@ -7,8 +7,9 @@ title: Unit 3
 
 * [Lecture notes](materials/structure.handouts.pdf)
   * [Large-print version](materials/structure.handouts.pdf)
-{% comment %} 
   * [Complete version](materials/structure.complete.pdf)
+
+{% comment %} 
 {% endcomment %} 
 
 # Resources
