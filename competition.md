@@ -3,11 +3,12 @@ layout: page
 title: Unit 5
 ---
 
-{% comment %} 
 # Content
 
-* [Lecture notes](materials/competition.handouts.pdf)
-    * [Complete notes](materials/competition.complete.pdf)
+* [Lecture notes](/materials/competition.handouts.pdf)
+    * [Large format](/materials/competition.large.pdf)
+{% comment %} 
+    * [Complete notes](/materials/competition.complete.pdf)
 {% endcomment %} 
 
 # Resources
