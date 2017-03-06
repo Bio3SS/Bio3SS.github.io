@@ -49,8 +49,8 @@ title: Overview
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
-{% comment %} 
 * [Midterm 2](midterm2.html)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
