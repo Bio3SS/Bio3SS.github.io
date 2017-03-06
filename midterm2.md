@@ -29,9 +29,9 @@ Midterm 2 is on Fri 17 Mar. Content will be announced on Sun 12 Mar.
 
 Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
-* [Test from 2016](materials/2016/midterm2.1.test.pdf)
+* [Test from 2016](materials/2016/midterm2.3.test.pdf)
 {% comment %} 
-    * [Key](materials/2016/midterm2.1.key.pdf)
+    * [Key](materials/2016/midterm2.3.key.pdf)
 {% endcomment %} 
 
 * [2015](http://lalashan.mcmaster.ca/3SS/2015/midterm2.1.test.pdf)
