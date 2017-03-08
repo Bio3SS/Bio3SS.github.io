@@ -1,5 +1,5 @@
-# http://bio3ss.github.io
 # http://localhost:4000/
+# http://bio3ss.github.io
 # http://localhost:4000/announce.html
 # https://avenue.cllmcmaster.ca/d2l/home/201446
 

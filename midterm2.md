@@ -3,9 +3,9 @@ layout: page
 title: Midterm 2
 ---
 
-{% comment %} 
-Midterm 2 will cover through the end of Unit 4 (Life history).
+Midterm 2 is on Fri 17 Mar. Content will be announced on Sun 12 Mar.
 
+{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm2.1.test.pdf)
@@ -22,16 +22,34 @@ Midterm 2 will cover through the end of Unit 4 (Life history).
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
+{% endcomment %} 
 
 
 # Resources
 
-* [Last year's test](http://lalashan.mcmaster.ca/3SS/2015/midterm2.1.test.pdf)
-    * [Answers](http://lalashan.mcmaster.ca/3SS/2015/midterm2.1.key.pdf)
+Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
+* [Test from 2016](materials/2016/midterm2.3.test.pdf)
+{% comment %} 
+    * [Key](materials/2016/midterm2.3.key.pdf)
+{% endcomment %} 
+
+* [2015](http://lalashan.mcmaster.ca/3SS/2015/midterm2.1.test.pdf)
+{% comment %} 
+    * [Answers](http://lalashan.mcmaster.ca/3SS/2015/midterm2.1.key.pdf)
+{% endcomment %} 
+
+{% comment %} 
 * [An older test](http://lalashan.mcmaster.ca/3SS/2012/midterm2.test.pdf)
-    * [Answers (and questions) from a different older test](http://lalashan.mcmaster.ca/3SS/2012/midterm2.key.pdf)
-	
+	* Don't think we have answers to this one!
+{% endcomment %} 
+
+{% comment %} 
+* [Answers (and questions) from a different older test](http://lalashan.mcmaster.ca/3SS/2012/midterm2.key.pdf)
+	* Don't think we have plain questions for this one; name, but not content, is a match for the one above.
+{% endcomment %} 
+
 * [Additional study questions](http://lalashan.mcmaster.ca/3SS/2015/midterm23sq.sq.pdf)
+{% comment %} 
     * [Answers](http://lalashan.mcmaster.ca/3SS/2015/midterm23sq.key.pdf)
 {% endcomment %} 
