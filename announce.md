@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Updates
-slug: Updates
+title: Next week
+slug: Next week
 ---
 
-* Complete notes now available on [the Unit 4 (life history) page](/life_history.html)
+* Tutorials this week will be _optional_ (review and test prep).
 
 * The key for assignment 3 (and a small correction to the key for assignment 2) are up on the [assignments page](/assignments.html)
