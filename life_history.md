@@ -7,8 +7,8 @@ title: Unit 4
 
 * [Lecture notes](/materials/life_history.handouts.pdf)
     * [Large format](/materials/life_history.large.pdf)
-{% comment %} 
     * [Complete notes](materials/life_history.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 # Resources

@@ -22,9 +22,9 @@ _Please see:_
   * [key](/materials/regulation.key.pdf)
 
 * [Structured population assignment](/materials/structure.asn.pdf)
-{% comment %} 
-  * [key](/materials/regulation.key.pdf)
+  * [key](/materials/structure.key.pdf)
 
+{% comment %} 
 * [Competition assignment](/materials/competition.asn.pdf)
   * [key](/materials/competition.key.pdf)
 {% endcomment %} 
