@@ -7,8 +7,8 @@ title: Unit 5
 
 * [Lecture notes](/materials/competition.handouts.pdf)
     * [Large format](/materials/competition.large.pdf)
-{% comment %} 
     * [Complete notes](/materials/competition.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 # Resources
