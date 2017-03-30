@@ -24,7 +24,7 @@ _Please see:_
 * [Structured population assignment](/materials/structure.asn.pdf)
   * [key](/materials/structure.key.pdf)
 
-{% comment %} 
 * [Competition assignment](/materials/competition.asn.pdf)
+{% comment %} 
   * [key](/materials/competition.key.pdf)
 {% endcomment %} 
