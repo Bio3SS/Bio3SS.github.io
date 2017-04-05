@@ -7,8 +7,8 @@ title: Unit 7
 
 * [Lecture notes](materials/disease.handouts.pdf)
     * [Large format](materials/disease.large.pdf)
-{% comment %} 
     * [Complete notes](materials/disease.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 # Resources
