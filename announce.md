@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Final exam
-slug: 1 Final exam
+title: No lecture
+slug: No lecture
 ---
 
-The [final exam page](/final.html) has resources and information relating to the final exam.
+Due to Dushoff (minor) illness, the planned (optional) lecture for tomorrow (Thursday) has been cancelled.
