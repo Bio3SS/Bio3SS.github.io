@@ -3,11 +3,12 @@ layout: page
 title: Unit 7
 ---
 
-{% comment %} 
 # Content
 
 * [Lecture notes](materials/disease.handouts.pdf)
+    * [Large format](materials/disease.large.pdf)
     * [Complete notes](materials/disease.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 # Resources

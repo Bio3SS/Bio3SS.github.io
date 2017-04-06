@@ -25,6 +25,7 @@ _Please see:_
   * [key](/materials/structure.key.pdf)
 
 * [Competition assignment](/materials/competition.asn.pdf)
+{% comment %} 
   * [key](/materials/competition.key.pdf)
 {% comment %} 
 {% endcomment %} 

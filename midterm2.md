@@ -7,7 +7,6 @@ Midterm 2 is on Fri 17 Mar.
 
 Midterm 2 will be _cumulative_, but with more emphasis on material not yet tested (Units 3, 4 and 5). It will cover until the end of Unit 5. Complete notes for Unit 5 will be posted on Tuesday afternoon.
 
-{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm2.1.test.pdf)
@@ -24,7 +23,6 @@ Midterm 2 will be _cumulative_, but with more emphasis on material not yet teste
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
-{% endcomment %} 
 
 # Resources
 
