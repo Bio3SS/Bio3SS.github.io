@@ -21,3 +21,5 @@ There will be 40 MC questions, and you should bring your Mac-standard calculator
 
 * [Older](http://yushan.mcmaster.ca/3SS/2015/final2012.test.pdf)
 	* [key](http://yushan.mcmaster.ca/3SS/2015/final2012.key.pdf)
+
+* [And another (keyed version only)](http://yushan.mcmaster.ca/3SS/2015/final2013.key.pdf)
