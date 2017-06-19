@@ -66,6 +66,7 @@ midterm2.md
 * [Excuses for missed tests and missed work](Excuses.html)
 * [Access to the course](Access.html)
 * [Collaboration guidelines](Collaboration.html)
+* [Regrades](Regrades.html)
 
 # Links
 * [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
