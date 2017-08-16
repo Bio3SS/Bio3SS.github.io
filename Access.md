@@ -16,9 +16,7 @@ You should have at least one introductory course with some coverage of ecology (
 If you would like a waiver, please send an email to dushoff@mcmaster.ca,
 _after the waiver-open date_,
 explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please also include your student number. 
-You must email after
-the opening date
-because I want to be sure that you are still interested before I ask an administrator to process your waiver. 
+You must email after the opening date because I want to be sure that you are still interested before I ask an administrator to process your waiver. 
 {% comment %}
 {% endcomment %}
 
