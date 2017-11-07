@@ -3,6 +3,7 @@ Gemfile.lock
 
 _site
 .sass-cache
+.ruby-version
 
 commit.time
 .*.sw*
