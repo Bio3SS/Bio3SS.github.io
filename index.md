@@ -3,6 +3,8 @@ layout: page
 title: Overview
 ---
 
+__This page currently reflects (mostly) information from 2017.__ Updates are coming.
+
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
