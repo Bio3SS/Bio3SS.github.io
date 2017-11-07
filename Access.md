@@ -17,6 +17,7 @@ Waivers for Jan 2018 are not yet available. I will open the waiver process at so
 You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M or 1AA) and an upper-level course with some relationship to evolution or ecology.  You must also acquire a copy of the Ecology textbook (Molles and Cahill).
 
 {% comment %}
+[[This comment breaks the paragraph if put in the logical place]]
 _after the waiver-open date_,
 {% endcomment %}
 If you would like a waiver, please [send an email to dushoff@mcmaster.ca](mailto:dushoff@mcmaster.ca),
@@ -29,7 +30,7 @@ Although you will probably get in, you should be aware that the waiver _does not
 
 ## Equivalent courses 
 
-If you have had a second-year or third-year Ecology course at another university you can have a waiver right away, if you want it. Please send an official or unofficial transcript, and a link to a description of the course you took. You should also follow all the email instructions above.
+If you have had a second-year or third-year Ecology course at another university you can have a waiver right away, if you want it. Please send an official or unofficial transcript, and a link to a description of the course you took. You should also follow the email instructions above.
 
 ## Conditional waivers 
 
