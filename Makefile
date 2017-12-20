@@ -2,19 +2,15 @@
 # http://bio3ss.github.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=201446&global=0
 
-### hooks for the editor to set the default target
-current: target
-
-target pngtarget pdftarget vtarget acrtarget: announce.post 
+-include target.mk
 
 ##################################################################
 
 # make files
 
-Sources = Makefile .gitignore README.md stuff.mk LICENSE.md TODO.md
-include stuff.mk
-include $(ms)/os.mk
-include $(ms)/perl.def
+Sources += Makefile .gitignore README.md sub.mk LICENSE.md TODO.md
+include sub.mk
+-include $(ms)/perl.def
 
 ##################################################################
 
@@ -23,8 +19,6 @@ include $(ms)/perl.def
 Sources += $(wildcard *.md) updates.html
 
 Sources += $(wildcard materials/*.*)
-Sources += $(wildcard materials/2016/*.*)
-Sources += $(wildcard _drafts/*.md)
 
 ######################################################################
 
@@ -48,13 +42,29 @@ caribou.crop.jpg: caribou.jpg
 # Posts are made from drafts as a side effect of making *.post
 Sources += $(wildcard _posts/*.*)
 Sources += post.pl
-Sources += 2016_posts.list
 
 %.post: %.md post.pl
 	$(PUSH)
 	$(shell_execute)
 
 announce.post: announce.md
+
+######################################################################
+
+## Restarting the year
+
+Sources += 2017_posts.list
+post_archive:
+	git mv _posts _2017_posts
+	ls _2017_posts/* > 2017_posts.list
+	git rm 2016_posts.list 
+	mkdir _posts
+
+Sources += $(wildcard materials/2017/*.*)
+Sources += $(wildcard materials/2016/*.*)
+materials_archive:
+	mkdir materials/2017
+	git mv materials/*.* materials/2017
 
 ######################################################################
 
@@ -66,6 +76,12 @@ not:
 Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
+
+orig:
+	$(LN) Gemfile_orig Gemfile
+
+sb:
+	$(LN) Gemfile_sb Gemfile
 
 ######################################################################
 

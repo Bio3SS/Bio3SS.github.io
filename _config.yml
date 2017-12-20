@@ -4,6 +4,7 @@ email: dushoff@mcmaster.ca
 baseurl: "" 
 url: "http://bio3ss.github.io" # the base hostname & protocol for your site
 twitter_username: jd_mathbio
+facebook_group: 142375533149250
 
 # Build settings
 markdown: kramdown
