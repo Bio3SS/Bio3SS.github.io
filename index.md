@@ -3,7 +3,9 @@ layout: page
 title: Overview
 ---
 
+{% comment %} 
 __This page currently reflects (mostly) information from 2017.__ Updates are coming.
+{% endcomment %} 
 
 {% comment %} 
 
