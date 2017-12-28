@@ -27,9 +27,8 @@ target.mk
 
 local.mk
 
-testdir/
-.testdir/
-subclone_dir/
+dotdir/
+clonedir/
 
 caribou.jpg
 zebras.jpg
