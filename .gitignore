@@ -6,6 +6,7 @@ _site
 .ruby-version
 
 commit.time
+up.time
 .*.sw*
 target.mk
 
