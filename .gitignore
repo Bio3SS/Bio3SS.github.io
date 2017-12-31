@@ -5,6 +5,7 @@ _site
 .sass-cache
 
 commit.time
+target.mk
 .*.sw*
 
 *.pdf
@@ -31,6 +32,7 @@ subclone_dir/
 
 caribou.jpg
 zebras.jpg
+dinosaur.jpg
 
 *.makestuff
 *.post

@@ -4,17 +4,15 @@
 
 ### hooks for the editor to set the default target
 current: target
-
-target pngtarget pdftarget vtarget acrtarget: announce.post 
+-include target.mk
 
 ##################################################################
 
 # make files
 
-Sources = Makefile .gitignore README.md stuff.mk LICENSE.md TODO.md
-include stuff.mk
-include $(ms)/os.mk
-include $(ms)/perl.def
+Sources = Makefile .gitignore README.md sub.mk LICENSE.md TODO.md
+include sub.mk
+-include $(ms)/perl.def
 
 ##################################################################
 
@@ -43,6 +41,12 @@ caribou.crop.jpg: caribou.jpg
 	convert -crop 600x180+0+170 $< $@
 
 ##################################################################
+
+dinosaur.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/9/92/Edmontonia_dinosaur.png"
+
+######################################################################
+
 # Posts
 
 # Posts are made from drafts as a side effect of making *.post
