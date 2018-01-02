@@ -1,4 +1,4 @@
-# http://localhost:4000/
+# http://localhost:4913/
 # http://bio3ss.github.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=201446&global=0
 
@@ -22,13 +22,13 @@ Sources += $(wildcard materials/*.*)
 
 ######################################################################
 
+## Logo
+
 zebras.jpg:
 	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
 
 zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
-
-######################################################################
 
 caribou.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
@@ -37,6 +37,7 @@ caribou.crop.jpg: caribou.jpg
 	convert -crop 600x180+0+170 $< $@
 
 ##################################################################
+
 # Posts
 
 # Posts are made from drafts as a side effect of making *.post
@@ -65,6 +66,9 @@ Sources += $(wildcard materials/2016/*.*)
 materials_archive:
 	mkdir materials/2017
 	git mv materials/*.* materials/2017
+
+wayback:
+	git submodule add -b 2017 https://github.com/Bio3SS/Bio3SS.github.io.git $@
 
 ######################################################################
 

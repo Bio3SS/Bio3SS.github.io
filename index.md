@@ -8,7 +8,6 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 {% endcomment %} 
 
 {% comment %} 
-
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
@@ -63,11 +62,11 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 {% endcomment %} 
 
 # Tests and assignments
+{% comment %} 
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 

@@ -6,6 +6,7 @@ _site
 .ruby-version
 
 commit.time
+up.time
 .*.sw*
 target.mk
 
@@ -27,9 +28,8 @@ target.mk
 
 local.mk
 
-testdir/
-.testdir/
-subclone_dir/
+dotdir/
+clonedir/
 
 caribou.jpg
 zebras.jpg

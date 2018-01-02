@@ -1,3 +1,7 @@
 [submodule "makestuff"]
 	path = makestuff
 	url = https://github.com/dushoff/makestuff.git
+[submodule "wayback"]
+	path = wayback
+	url = https://github.com/Bio3SS/Bio3SS.github.io.git
+	branch = 2017
