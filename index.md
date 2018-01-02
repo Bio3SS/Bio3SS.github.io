@@ -37,9 +37,9 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 	outline.md
 {% endcomment %} 
 
+{% comment %} 
 # Course content
 
-{% comment %} 
 * [Introductory unit](intro.html)
 * [Unit 1: Linear population models](linear.html)
 * [Unit 2: Non-linear population models](nonlinear.html)
@@ -61,8 +61,8 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 	disease.md
 {% endcomment %} 
 
-# Tests and assignments
 {% comment %} 
+# Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
