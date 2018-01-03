@@ -74,6 +74,8 @@ materials_archive:
 	mkdir materials/2017
 	git mv materials/*.* materials/2017
 
+Sources += wayback
+
 wayback:
 	git submodule add -b 2017 https://github.com/Bio3SS/Bio3SS.github.io.git $@
 
