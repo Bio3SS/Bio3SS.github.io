@@ -3,10 +3,16 @@ Gemfile.lock
 
 _site
 .sass-cache
+.ruby-version
 
 commit.time
+<<<<<<< HEAD
 target.mk
+=======
+up.time
+>>>>>>> origin
 .*.sw*
+target.mk
 
 *.pdf
 
@@ -26,9 +32,8 @@ target.mk
 
 local.mk
 
-testdir/
-.testdir/
-subclone_dir/
+dotdir/
+clonedir/
 
 caribou.jpg
 zebras.jpg

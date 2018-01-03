@@ -1,8 +1,7 @@
-# http://localhost:4000/
+# http://localhost:4913/
 # http://bio3ss.github.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=201446&global=0
 
-### hooks for the editor to set the default target
 current: target
 -include target.mk
 
@@ -10,7 +9,8 @@ current: target
 
 # make files
 
-Sources = Makefile .gitignore README.md sub.mk LICENSE.md TODO.md
+Sources += Makefile .gitignore README.md sub.mk LICENSE.md TODO.md
+
 include sub.mk
 -include $(ms)/perl.def
 
@@ -21,18 +21,16 @@ include sub.mk
 Sources += $(wildcard *.md) updates.html
 
 Sources += $(wildcard materials/*.*)
-Sources += $(wildcard materials/2016/*.*)
-Sources += $(wildcard _drafts/*.md)
 
 ######################################################################
+
+## Logo
 
 zebras.jpg:
 	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
 
 zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
-
-######################################################################
 
 caribou.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
@@ -52,13 +50,32 @@ dinosaur.jpg:
 # Posts are made from drafts as a side effect of making *.post
 Sources += $(wildcard _posts/*.*)
 Sources += post.pl
-Sources += 2016_posts.list
 
 %.post: %.md post.pl
 	$(PUSH)
 	$(shell_execute)
 
 announce.post: announce.md
+
+######################################################################
+
+## Restarting the year
+
+Sources += 2017_posts.list
+post_archive:
+	git mv _posts _2017_posts
+	ls _2017_posts/* > 2017_posts.list
+	git rm 2016_posts.list 
+	mkdir _posts
+
+Sources += $(wildcard materials/2017/*.*)
+Sources += $(wildcard materials/2016/*.*)
+materials_archive:
+	mkdir materials/2017
+	git mv materials/*.* materials/2017
+
+wayback:
+	git submodule add -b 2017 https://github.com/Bio3SS/Bio3SS.github.io.git $@
 
 ######################################################################
 
@@ -70,6 +87,12 @@ not:
 Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
+
+orig:
+	$(LN) Gemfile_orig Gemfile
+
+sb:
+	$(LN) Gemfile_sb Gemfile
 
 ######################################################################
 
