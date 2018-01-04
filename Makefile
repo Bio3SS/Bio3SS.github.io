@@ -16,8 +16,6 @@ include sub.mk
 
 ##################################################################
 
-Makefile: dinosaur.jpg
-
 ## Content
 
 Sources += $(wildcard *.md) updates.html
@@ -39,6 +37,8 @@ caribou.jpg:
 
 caribou.crop.jpg: caribou.jpg 
 	convert -crop 600x180+0+170 $< $@
+
+Makefile: caribou.crop.jpg
 
 ##################################################################
 
