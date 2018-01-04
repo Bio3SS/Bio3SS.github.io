@@ -41,6 +41,8 @@ Evaluation
 ----------
 
 - Assignments 10%
+	* This includes tutorial attendance
+	* Only some tutorials are mandatory
 - Two midterms, 50% (25% each)
 	- __Fri 9 Feb and Fri 16 Mar, in class__
 - Final exam 40%

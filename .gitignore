@@ -6,7 +6,11 @@ _site
 .ruby-version
 
 commit.time
+<<<<<<< HEAD
+target.mk
+=======
 up.time
+>>>>>>> origin
 .*.sw*
 target.mk
 
@@ -33,6 +37,7 @@ clonedir/
 
 caribou.jpg
 zebras.jpg
+dinosaur.jpg
 
 *.makestuff
 *.post

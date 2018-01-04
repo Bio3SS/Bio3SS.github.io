@@ -2,6 +2,7 @@
 # http://bio3ss.github.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=201446&global=0
 
+current: target
 -include target.mk
 
 ##################################################################
@@ -9,6 +10,7 @@
 # make files
 
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md TODO.md
+
 include sub.mk
 -include $(ms)/perl.def
 
@@ -38,6 +40,11 @@ caribou.crop.jpg: caribou.jpg
 
 ##################################################################
 
+dinosaur.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/9/92/Edmontonia_dinosaur.png"
+
+######################################################################
+
 # Posts
 
 # Posts are made from drafts as a side effect of making *.post
@@ -66,6 +73,8 @@ Sources += $(wildcard materials/2016/*.*)
 materials_archive:
 	mkdir materials/2017
 	git mv materials/*.* materials/2017
+
+Sources += wayback
 
 wayback:
 	git submodule add -b 2017 https://github.com/Bio3SS/Bio3SS.github.io.git $@
