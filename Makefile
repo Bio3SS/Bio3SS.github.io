@@ -2,6 +2,8 @@
 # http://bio3ss.github.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=201446&global=0
 
+BRANCH = 2017
+
 ### hooks for the editor to set the default target
 current: target
 -include target.mk
