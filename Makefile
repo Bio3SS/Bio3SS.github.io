@@ -76,10 +76,11 @@ materials_archive:
 	mkdir materials/2017
 	git mv materials/*.* materials/2017
 
-Sources += wayback
-
+## Can't have this be a submodule!
+## Need to just clone statically
+## Branch is 2017
+## Or was the problem just that it was in Sources?
 wayback:
-	git submodule add -b 2017 https://github.com/Bio3SS/Bio3SS.github.io.git $@
 
 ######################################################################
 
