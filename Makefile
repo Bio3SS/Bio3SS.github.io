@@ -38,7 +38,7 @@ caribou.jpg:
 caribou.crop.jpg: caribou.jpg 
 	convert -crop 600x180+0+170 $< $@
 
-Makefile: caribou.crop.jpg
+Sources += caribou.crop.jpg
 
 ##################################################################
 
