@@ -16,6 +16,8 @@ include sub.mk
 
 ##################################################################
 
+Makefile: dinosaur.jpg
+
 ## Content
 
 Sources += $(wildcard *.md) updates.html
