@@ -1,6 +1,6 @@
 # http://localhost:4913/
 # http://bio3ss.github.io
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=201446&global=0
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=235353
 
 current: target
 -include target.mk
@@ -38,6 +38,8 @@ caribou.jpg:
 caribou.crop.jpg: caribou.jpg 
 	convert -crop 600x180+0+170 $< $@
 
+Sources += caribou.crop.jpg
+
 ##################################################################
 
 dinosaur.jpg:
@@ -74,10 +76,11 @@ materials_archive:
 	mkdir materials/2017
 	git mv materials/*.* materials/2017
 
-Sources += wayback
-
+## Can't have this be a submodule!
+## Need to just clone statically
+## Branch is 2017
+## Or was the problem just that it was in Sources?
 wayback:
-	git submodule add -b 2017 https://github.com/Bio3SS/Bio3SS.github.io.git $@
 
 ######################################################################
 

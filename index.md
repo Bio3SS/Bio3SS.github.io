@@ -7,7 +7,6 @@ title: Overview
 __This page currently reflects (mostly) information from 2017.__ Updates are coming.
 {% endcomment %} 
 
-{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
@@ -20,6 +19,7 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 	{% endfor %}
 </ul>
 
+{% comment %} 
 # [Older updates](updates.html)
 
 {% endcomment %} 

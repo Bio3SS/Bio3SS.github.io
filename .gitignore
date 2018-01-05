@@ -6,11 +6,8 @@ _site
 .ruby-version
 
 commit.time
-<<<<<<< HEAD
 target.mk
-=======
 up.time
->>>>>>> origin
 .*.sw*
 target.mk
 
@@ -41,3 +38,4 @@ dinosaur.jpg
 
 *.makestuff
 *.post
+

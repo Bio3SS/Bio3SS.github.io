@@ -3,9 +3,9 @@ layout: page
 title: Tutorials
 ---
 
-The tutorials are mandatory, and we take this requirement seriously.  In particular, if you do not attend tutorials, you should try very hard not to bother the course team with questions of the sort that are addressed in tutorials.
+We will announce each week whether there will be tutorials, and whether the tutorial for the week is mandatory. Attendance at mandatory tutorials is part of your assignment grade.
 
-Your official tutorial section is the one you are officially registered for.  Assignments must be handed in via that tutorial, and questions about assignment logistics will be handled via that tutorial.  Your official tutorial is the only one where you are _entitled_ to a seat.
+You are also encouraged to use tutorials (optional and mandatory) as the first option for asking questions about the course; if you do not attend tutorials, you should try not to bother the course team with questions of the sort that are addressed in tutorials. 
 
-If you would like to switch tutorials, please talk to the professor, or your TA (FB message is probably a good way to reach your TA).
+If you would like to switch tutorials, please talk to your TA (FB message is probably a good way to reach them).
 
