@@ -44,6 +44,8 @@ caribou.crop.jpg: caribou.jpg
 
 ##################################################################
 
+Sources += dinosaur.jpg
+
 dinosaur.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/9/92/Edmontonia_dinosaur.png"
 
