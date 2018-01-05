@@ -42,11 +42,6 @@ Sources += caribou.crop.jpg
 
 ##################################################################
 
-dinosaur.jpg:
-	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/9/92/Edmontonia_dinosaur.png"
-
-######################################################################
-
 # Posts
 
 # Posts are made from drafts as a side effect of making *.post

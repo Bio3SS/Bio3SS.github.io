@@ -27,20 +27,20 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 # Course information
 
 * [Official course outline](outline.html)
-{% comment %} 
 * [Class participation](participation.html)
+* [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
+{% comment %} 
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
-* [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 
 {% comment %} 
 	outline.md
 {% endcomment %} 
 
-{% comment %} 
 # Course content
 
-* [Introductory unit](intro.html)
+* [Unit 1: Course introduction](intro.html)
+{% comment %} 
 * [Unit 1: Linear population models](linear.html)
 * [Unit 2: Non-linear population models](nonlinear.html)
 * [Unit 3: Structured populations models](structure.html)
@@ -75,9 +75,6 @@ midterm1.md
 midterm2.md
 {% endcomment %} 
 
-
-
-
 # Policies
 
 * [Tutorial policy](Tutorials.html)
@@ -89,6 +86,6 @@ midterm2.md
 # Links
 
 {% comment %} 
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/201446)
 {% endcomment %} 
+* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/235353)
 * [Facebook group](https://www.facebook.com/groups/{{site.facebook_group}})
