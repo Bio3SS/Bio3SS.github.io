@@ -37,10 +37,10 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 	outline.md
 {% endcomment %} 
 
-{% comment %} 
 # Course content
 
 * [Introductory unit](intro.html)
+{% comment %} 
 * [Unit 1: Linear population models](linear.html)
 * [Unit 2: Non-linear population models](nonlinear.html)
 * [Unit 3: Structured populations models](structure.html)
