@@ -5,11 +5,11 @@ title: Unit 1
 
 # Content
 
+{% comment %} 
 * [Lecture notes](/materials/linear.handouts.pdf)
   * [Large format](/materials/linear.large.pdf)
   * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
 
-{% comment %} 
 {% endcomment %} 
 
 # Resources

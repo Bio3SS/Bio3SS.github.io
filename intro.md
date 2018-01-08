@@ -14,6 +14,7 @@ title: Introductory unit
 # Simulations
 
 * [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2018)
+* [Google spreadsheet info](spreadsheets.html)
 
 {% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
