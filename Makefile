@@ -32,6 +32,7 @@ zebras.jpg:
 zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
 
+Ignore += caribou*.jpg
 caribou.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
 
