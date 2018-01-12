@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Unit 1
+title: Unit 2
 ---
 
 # Content
 
-{% comment %} 
 * [Lecture notes](/materials/linear.handouts.pdf)
+{% comment %} 
   * [Large format](/materials/linear.large.pdf)
   * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
 
