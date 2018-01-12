@@ -58,6 +58,7 @@ Sources += post.pl
 	$(PUSH)
 	$(shell_execute)
 
+Ignore += announce.post
 announce.post: announce.md
 
 ######################################################################
@@ -93,6 +94,8 @@ not:
 Sources += _config.yml $(wildcard Gemfile_*)
 
 Sources += _includes/* _layouts/* css/* _sass/*
+
+Ignore += .sass-cache/ Gemfile Gemfile.lock _site/
 
 orig:
 	$(LN) Gemfile_orig Gemfile
