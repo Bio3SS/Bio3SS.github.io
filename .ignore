@@ -4,4 +4,7 @@ target.mk
 .*.sw*
 make.log
 .gitignore
+.sass-cache/
+Gemfile
+Gemfile.lock
 
