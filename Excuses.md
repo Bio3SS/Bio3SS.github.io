@@ -11,9 +11,9 @@ Excuses are handled through the associate Dean's office, with the exception of M
 
 # Sports and academic trips 
 
-You can be excused from a midterm for trips related to sporting events or academic research if a full-time McMaster staff (or faculty) member involved with the trip or project sends me an email (please ask them to include "Bio 3SS3" and your Mac ID in the title of the e-mail).  If you would like to take the midterm, the staff member must agree in writing to supervise you, to administer the midterm as close to the scheduled time as practical, and to take reasonable precautions against your communicating with others about the content.
+http://bio3ss.github.io/Excuses.html#Sports_and_academic_trips 
 
-I do not make a distinction between varsity and club sports, but you do need a full-time staff member _who is involved with the team_ to take responsibility.
+You can be excused from a midterm for trips related to sporting events or academic research if a full-time McMaster staff (or faculty) member _involved with the trip or project_ sends me an email.  If you would like to take the midterm, the staff member must agree in writing to supervise you, to administer the midterm as close to the scheduled time as practical, and to take reasonable precautions against your communicating with others about the content.
 
 # Reweighting 
 
