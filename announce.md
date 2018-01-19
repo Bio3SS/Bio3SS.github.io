@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Broken links
-slug: 1 Broken links
+title: Intro assignment key
+slug: Assignment key
 ---
 
-All the links from this weekend's posting were apparently broken on Avenue. My fault. Should be fixed now. Thanks to those who pointed out the problem.
+* [The key from the not-for-credit assignment](/materials/intro.key.pdf) is now available. It makes some interesting points, and is worth 3 minutes of your time, no matter how you felt about the assignment.
 
