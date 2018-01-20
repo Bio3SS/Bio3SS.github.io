@@ -15,4 +15,4 @@ _If you have a good reason_, you may submit until Monday at noon, with a 10% pen
 
 Assignments submitted after noon on Monday will not be graded, but assignments can be reweighted with a letter from the Associate Dean.
 
-You can reach your TA through Facebook message (or let Dushoff know by email if this is a problem for you, see below for both links)
+You can reach your TA through [Facebook message]({{site.facebook}}) (or [let Dushoff know by email](mailto:{{site.email}}) if this is a problem for you)

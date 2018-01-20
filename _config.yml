@@ -1,10 +1,17 @@
 # Site settings
+port: 4913
+
+baseurl: "" 
+url: "http://bio3ss.github.io" # the base hostname & protocol for your site
+
 title: Bio 3SS, McMaster University
 email: dushoff@mcmaster.ca
-baseurl: "" 
-port: 4913
-url: "http://bio3ss.github.io" # the base hostname & protocol for your site
 twitter_username: jd_mathbio
+
+facebook: https://www.facebook.com/groups/142375533149250
+avenue: https://avenue.cllmcmaster.ca/d2l/home/235353
+
+## Deprecated
 facebook_group: 142375533149250
 
 # Build settings
