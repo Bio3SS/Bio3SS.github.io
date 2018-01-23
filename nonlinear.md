@@ -5,11 +5,10 @@ title: Unit 3
 
 # Content
 
-* [Lecture notes](materials/nonlinear.handouts.pdf)
-  * [Large format](/materials/nonlinear.large.pdf)
-  * [Complete version](materials/nonlinear.complete.pdf)
-
+* [Lecture notes](/materials/nonlinear.handouts.pdf)
 {% comment %} 
+  * [Complete version](/materials/nonlinear.complete.pdf)
+
 {% endcomment %} 
 
 # Resources
