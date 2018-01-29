@@ -61,9 +61,9 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 	disease.md
 {% endcomment %} 
 
-{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
+{% comment %} 
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
@@ -87,5 +87,5 @@ midterm2.md
 
 {% comment %} 
 {% endcomment %} 
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/235353)
-* [Facebook group](https://www.facebook.com/groups/{{site.facebook_group}})
+* [This course on Avenue]({{site.avenue}})
+* [Facebook group]({{site.facebook}})
