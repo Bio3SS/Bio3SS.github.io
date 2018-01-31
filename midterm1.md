@@ -3,9 +3,11 @@ layout: page
 title: Midterm 1
 ---
 
-{% comment %} 
-Midterm 1 will be held in class on Fri 10 Feb. Please arrive promptly, with your Mac-standard calculator.
+Midterm 1 will be held in class on Fri 10 Feb. Please arrive promptly, with your Mac-standard calculator. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
+The midterm will focus _primarily_ on Units 1 and 2. More information will be available early next week.
+
+{% comment %} 
 The midterm will focus primarily on Units 1 and 2, but _may_ also include _conceptual_ questions from Sections 1 and 2 of Unit 3 (no calculations will be required from Unit 3).
 
 * [Complete notes for the covered part of Unit 3 (not intended for printing)](/materials/structure_prelim.complete.pdf)
@@ -13,6 +15,7 @@ The midterm will focus primarily on Units 1 and 2, but _may_ also include _conce
 There will be 17 multiple-choice questions (worth 17 points in total) and two short-answer questions (worth 8 points in total).
 {% endcomment %} 
 
+{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm1.1.test.pdf)
@@ -30,20 +33,33 @@ There will be 17 multiple-choice questions (worth 17 points in total) and two sh
 * [Version 5](materials/midterm1.5.test.pdf)
     * [Key](materials/midterm1.5.key.pdf)
 
+{% endcomment %} 
+
 # Resources
 
 Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
-* [Test from 2016](materials/2016/midterm1.1.test.pdf)
+* [Test from 2017](materials/2017/midterm1.1.test.pdf)
+{% comment %} 
     * [Key](materials/2016/midterm1.1.key.pdf)
+{% endcomment %} 
+
+* [Test from 2016](materials/2016/midterm1.1.test.pdf)
+{% comment %} 
+    * [Key](materials/2016/midterm1.1.key.pdf)
+{% endcomment %} 
+
+* [Test from 2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
+{% comment %} 
+  * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
+{% endcomment %} 
 
 * [Some study questions](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.test.pdf)
   * [Key](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.key.pdf)
-
 {% comment %} 
 {% endcomment %} 
 
-* [2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
-  * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
+{% comment %} 
 * [An older test](http://lalashan.mcmaster.ca/3SS/2015/midterm13.test.pdf)
   * [Key](http://lalashan.mcmaster.ca/3SS/2015/midterm13.key.pdf)
+{% endcomment %} 
