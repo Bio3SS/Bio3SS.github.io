@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorials
+title: Complete notes
 slug: 4 Notes
 ---
 
