@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complete notes
+title: Office hours
 slug: 5 Dushoff office hours
 ---
 
