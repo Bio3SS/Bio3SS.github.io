@@ -5,7 +5,7 @@ title: Midterm 1
 
 Midterm 1 will be held in class on Fri 10 Feb. Please arrive promptly, with your Mac-standard calculator. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
-The midterm will focus _primarily_ on Units 1 and 2. More information will be available early next week.
+The midterm will cover Units 1 and 2. 
 
 {% comment %} 
 The midterm will focus primarily on Units 1 and 2, but _may_ also include _conceptual_ questions from Sections 1 and 2 of Unit 3 (no calculations will be required from Unit 3).
@@ -45,13 +45,13 @@ Practice tests and study questions are provided as study aids. Material content 
 {% endcomment %} 
 
 * [Test from 2016](materials/2016/midterm1.1.test.pdf)
-{% comment %} 
     * [Key](materials/2016/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Test from 2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
-{% comment %} 
   * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Some study questions](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.test.pdf)
