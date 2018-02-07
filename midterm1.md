@@ -40,8 +40,8 @@ There will be 17 multiple-choice questions (worth 17 points in total) and two sh
 Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
 * [Test from 2017](materials/2017/midterm1.1.test.pdf)
+    * [Key](materials/2017/midterm1.1.key.pdf)
 {% comment %} 
-    * [Key](materials/2016/midterm1.1.key.pdf)
 {% endcomment %} 
 
 * [Test from 2016](materials/2016/midterm1.1.test.pdf)
