@@ -1,16 +1,7 @@
 ---
 layout: post
 title: Friday's midterm
-slug: 1 Midterm
+slug: 1 Tutorials
 ---
 
-The midterm will be during class time on Friday.
-
-* Please bring your __McMaster-approved__ calculator, a #2 pencil for the scantron and a pen for the short-answer questions.
-
-* Please arrive on time, but don't go in until we call you. We need to set up the classroom first.
-
-* This is our first time giving a midterm in a classroom without fixed desks, and we are short-handed. Time will be a problem. Please follow instructions carefully.
-
-Thanks for your co-operation.
-
+This week's tutorials are _optional_, and will focus on review of class material.
