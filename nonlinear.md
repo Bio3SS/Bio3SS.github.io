@@ -5,9 +5,8 @@ title: Unit 3
 
 # Content
 
-* [Lecture notes](materials/nonlinear.handouts.pdf)
-  * [Large format](/materials/nonlinear.large.pdf)
-  * [Complete version](materials/nonlinear.complete.pdf)
+* [Lecture notes](/materials/nonlinear.handouts.pdf)
+  * [Complete version (not recommended for printing)](/materials/nonlinear.complete.pdf)
 
 {% comment %} 
 {% endcomment %} 

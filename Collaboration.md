@@ -18,8 +18,8 @@ The best way to communicate about assignments is _verbally_.  Do not take any sp
 # Electronic and other written communication 
 
 * _No_ electronic or other _written_ communications about assignments are allowed, _except_ on:
-  * [The official class Facebook site](https://www.facebook.com/groups/681998368640256/).
-  * The class Avenue to Learn site (if they ever give us one).
+  * [The official class Facebook site]({{site.facebook}})
+  * [The class Avenue to Learn site]({{site.avenue}})
 
 * Communications there should follow the guidelines above:
   * _general_ discussion of how to do things.

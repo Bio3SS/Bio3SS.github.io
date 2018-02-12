@@ -17,8 +17,8 @@ _Please see:_
   * [key](materials/intro.key.pdf)
 
 * [Population growth assignment](/materials/pg.asn.pdf)
-{% comment %} 
   * [key](materials/pg.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 

@@ -29,6 +29,7 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
+* [Office hours](office.html)
 {% comment %} 
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
@@ -41,9 +42,9 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 
 * [Unit 1: Course introduction](intro.html)
 * [Unit 2: Linear population models](linear.html)
-{% comment %} 
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit 4: Structured populations models](structure.html)
+{% comment %} 
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
@@ -63,8 +64,8 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 
 # Tests and assignments
 * [Assignments](assignments.html)
-{% comment %} 
 * [Midterm 1](midterm1.html)
+{% comment %} 
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
 {% endcomment %} 
@@ -87,5 +88,5 @@ midterm2.md
 
 {% comment %} 
 {% endcomment %} 
-* [This course on Avenue](https://avenue.cllmcmaster.ca/d2l/home/235353)
-* [Facebook group](https://www.facebook.com/groups/{{site.facebook_group}})
+* [This course on Avenue]({{site.avenue}})
+* [Facebook group]({{site.facebook}})
