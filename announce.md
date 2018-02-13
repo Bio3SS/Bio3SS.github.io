@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tutorials
-slug: 1 Tutorials
+title: Short answers	
+slug: 2 Tutorials
 ---
 
-This week's tutorials are _optional_, and will focus on review of class material.
+Short-answer tests will be available for pickup at this week's tutorial sessions.
