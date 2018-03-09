@@ -31,3 +31,32 @@ There will be 17 multiple-choice questions (worth 17 points in total) and two sh
 
 * [Version 5](materials/midterm1.5.test.pdf)
     * [Key](materials/midterm1.5.key.pdf)
+
+# Resources
+
+Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
+
+* [Test from 2017](materials/2017/midterm1.1.test.pdf)
+    * [Key](materials/2017/midterm1.1.key.pdf)
+{% comment %} 
+{% endcomment %} 
+
+* [Test from 2016](materials/2016/midterm1.1.test.pdf)
+    * [Key](materials/2016/midterm1.1.key.pdf)
+{% comment %} 
+{% endcomment %} 
+
+* [Test from 2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
+  * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
+{% comment %} 
+{% endcomment %} 
+
+* [Some study questions](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.test.pdf)
+  * [Key](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.key.pdf)
+{% comment %} 
+{% endcomment %} 
+
+{% comment %} 
+* [An older test](http://lalashan.mcmaster.ca/3SS/2015/midterm13.test.pdf)
+  * [Key](http://lalashan.mcmaster.ca/3SS/2015/midterm13.key.pdf)
+{% endcomment %} 
