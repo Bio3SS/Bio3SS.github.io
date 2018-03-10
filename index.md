@@ -65,8 +65,8 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
-{% comment %} 
 * [Midterm 2](midterm2.html)
+{% comment %} 
 * [Final exam](final.html)
 {% endcomment %} 
 
