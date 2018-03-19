@@ -44,9 +44,9 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit 4: Structured populations models](structure.html)
-{% comment %} 
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
+{% comment %} 
 * [Unit 7: Exploitation](exploitation.html)
 * [Unit 7: Disease](disease.html)
 {% endcomment %} 
@@ -65,8 +65,8 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
-{% comment %} 
 * [Midterm 2](midterm2.html)
+{% comment %} 
 * [Final exam](final.html)
 {% endcomment %} 
 
