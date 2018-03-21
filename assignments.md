@@ -3,15 +3,13 @@ layout: page
 title: Assignments
 ---
 
-_Please see:_
-
-* [the assignment policy](/assignment_policy.html)
+_Please see [the assignment policy](/assignment_policy.html)_
 
 {% comment %} 
 * [the rant](/rant.html)
-{% endcomment %} 
 
 ----------------------------------------------------------------------
+{% endcomment %} 
 
 {% comment %} 
 * [Introduction to R worksheet (not for credit)](http://lalashan.mcmaster.ca/theobio/3SS/index.php/Introduction_to_R)
