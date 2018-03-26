@@ -3,11 +3,12 @@ layout: page
 title: Midterm 2
 ---
 
+{% comment %} 
 Midterm 2 is on Fri 16 Mar. 
 
 Midterm 2 will be _cumulative_, but with more emphasis on material not yet tested (Units 4 and 5). It will cover until the end of Unit 5. 
+{% endcomment %} 
 
-{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm2.1.test.pdf)
@@ -24,20 +25,19 @@ Midterm 2 will be _cumulative_, but with more emphasis on material not yet teste
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
-{% endcomment %} 
 
 # Resources
 
 Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
-* [Test from 2017](materials/2017/midterm2.1.test.pdf)
-{% comment %} 
-    * [Key](materials/midterm2.1.key.pdf)
+* [Test from 2017](materials/2017/midterm2.1.test.pdf) 
+    * [Key](materials/2017/midterm2.1.key.pdf)
+{% comment %}
 {% endcomment %} 
 
-* [Test from 2016](materials/2016/midterm2.3.test.pdf)
-{% comment %} 
+* [Test from 2016](materials/2016/midterm2.3.test.pdf) 
     * [Key](materials/2016/midterm2.3.key.pdf)
+{% comment %}
 {% endcomment %} 
 
 * [2015](http://lalashan.mcmaster.ca/3SS/2015/midterm2.1.test.pdf)
