@@ -46,9 +46,9 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 * [Unit 4: Structured populations models](structure.html)
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
-{% comment %} 
 * [Unit 7: Exploitation](exploitation.html)
-* [Unit 7: Disease](disease.html)
+* [Unit 8: Disease](disease.html)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 

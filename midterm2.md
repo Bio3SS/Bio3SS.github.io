@@ -3,11 +3,12 @@ layout: page
 title: Midterm 2
 ---
 
+{% comment %} 
 Midterm 2 is on Fri 16 Mar. 
 
 Midterm 2 will be _cumulative_, but with more emphasis on material not yet tested (Units 4 and 5). It will cover until the end of Unit 5. 
+{% endcomment %} 
 
-{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm2.1.test.pdf)
@@ -24,7 +25,6 @@ Midterm 2 will be _cumulative_, but with more emphasis on material not yet teste
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
-{% endcomment %} 
 
 # Resources
 
