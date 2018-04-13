@@ -8,8 +8,8 @@ title: Unit 8
 * [Lecture notes](materials/disease.handouts.pdf)
 {% comment %} 
     * [Large format](materials/disease.large.pdf)
-    * [Complete notes](materials/disease.complete.pdf)
 {% endcomment %} 
+    * [Complete notes](materials/disease.complete.pdf)
 
 # Resources
 
