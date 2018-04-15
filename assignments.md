@@ -30,6 +30,7 @@ _Please see [the assignment policy](/assignment_policy.html)_
   * [key](/materials/structure.key.pdf)
 
 * [Life-history assignment (not for credit)](/materials/interaction.asn.pdf)
+  * [key](/materials/interaction.key.pdf)
 
 * [Competition assignment](/materials/competition.asn.pdf)
 {% comment %} 
