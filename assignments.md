@@ -33,6 +33,4 @@ _Please see [the assignment policy](/assignment_policy.html)_
   * [key](/materials/interaction.key.pdf)
 
 * [Competition assignment](/materials/competition.asn.pdf)
-{% comment %} 
   * [key](/materials/competition.key.pdf)
-{% endcomment %} 
