@@ -62,6 +62,10 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 	disease.md
 {% endcomment %} 
 
+{% comment %} 
+REVIEW test issues from FB and post warnings
+{% endcomment %} 
+
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)

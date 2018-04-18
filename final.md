@@ -3,6 +3,11 @@ layout: page
 title: Final exam
 ---
 
+{% comment %} 
+REVIEW test issues from FB and post warnings
+{% endcomment %} 
+
+
 
 {% comment %} 
 The final exam will be at 9 AM on Tuesday 11 April. It will last two hours.
