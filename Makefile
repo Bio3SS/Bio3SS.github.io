@@ -1,6 +1,6 @@
 # http://localhost:4913/
 # http://localhost:4913/announce.html
-# http://bio3ss.github.io
+# HTTP://BIO3SS.GIthub.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=235353
 # https://avenue.cllmcmaster.ca/d2l/home/235353
 
