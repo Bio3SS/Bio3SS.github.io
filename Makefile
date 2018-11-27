@@ -4,6 +4,9 @@
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=235353
 # https://avenue.cllmcmaster.ca/d2l/home/235353
 
+# make serve
+# jekyll build
+
 current: target
 -include target.mk
 
@@ -26,21 +29,13 @@ Sources += $(wildcard materials/*.*)
 
 ######################################################################
 
-## Logo
+## Logos
 
 zebras.jpg:
 	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
 
 zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
-
-Ignore += caribou*.jpg
-caribou.jpg:
-	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
-
-caribou.crop.jpg: caribou.jpg 
-	convert -crop 600x180+0+170 $< $@
-
 Sources += caribou.crop.jpg
 
 ##################################################################
@@ -49,6 +44,23 @@ dinosaur.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/9/92/Edmontonia_dinosaur.png"
 
 ######################################################################
+
+## Facebook images
+
+Ignore += caribou*.jpg
+caribou.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
+
+caribou.crop.jpg: caribou.jpg 
+	convert -crop 600x180+0+170 $< $@
+
+Ignore += mara*.jpg
+mara.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/en/3/3f/Herds_Maasi_Mara_%28cropped_and_straightened%29.jpg"
+
+mara.crop.jpg: mara.jpg Makefile
+	convert -crop 966x360+0+100 $< $@
+
 
 # Posts
 
