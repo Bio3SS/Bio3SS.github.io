@@ -6,7 +6,7 @@ title: Course outline
 **Winter 2018**
 
 * **Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
-* **Teaching assistants:** Morgan Kain, Michael Li
+* **Teaching assistants:** Morgan Kain, Michael Li, Steve Cygu
 
 Course material 
 ---------------

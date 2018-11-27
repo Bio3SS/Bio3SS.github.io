@@ -3,10 +3,11 @@ layout: page
 title: Overview
 ---
 
+__This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% comment %} 
-__This page currently reflects (mostly) information from 2017.__ Updates are coming.
 {% endcomment %} 
 
+{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
@@ -20,8 +21,6 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 </ul>
 
 # [Older updates](updates.html)
-
-{% comment %} 
 {% endcomment %} 
 
 # Course information
@@ -40,6 +39,7 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 
 # Course content
 
+{% comment %} 
 * [Unit 1: Course introduction](intro.html)
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
@@ -48,7 +48,6 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
 * [Unit 8: Disease](disease.html)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -66,12 +65,12 @@ __This page currently reflects (mostly) information from 2017.__ Updates are com
 REVIEW test issues from FB and post warnings
 {% endcomment %} 
 
+{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -91,6 +90,6 @@ midterm2.md
 # Links
 
 {% comment %} 
-{% endcomment %} 
 * [This course on Avenue]({{site.avenue}})
 * [Facebook group]({{site.facebook}})
+{% endcomment %} 
