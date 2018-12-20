@@ -3,7 +3,7 @@ layout: page
 title: Course outline
 ---
 
-**Winter 2018**
+**Winter 2019**
 
 * **Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
 * **Teaching assistants:** Morgan Kain, Michael Li, Steve Cygu
@@ -44,7 +44,7 @@ Evaluation
 	* This includes tutorial attendance
 	* Only some tutorials are mandatory
 - Two midterms, 50% (25% each)
-	- __Fri 9 Feb and Fri 16 Mar, in class__
+	- __Fri 11 Feb and Fri 18 Mar, in class__
 - Final exam 40%
 	- Will be scheduled by the Registrar
 - Extra credit will be given for class participation
@@ -64,3 +64,4 @@ tests.
 **Online component:** We will be using the learning software Avenue to Learn (AtL). Students should be aware that private information such as first and last names, user names for the McMaster e-mail accounts, and program affiliation may be visible to other students in the course. By taking this course you consent to this disclosure. If you have any questions or concerns about this, please discuss them with the course instructor.
 
 **Sharing information:** Students are encouraged to ask questions and exchange information using AtL or [the course Facebook group](https://www.facebook.com/groups/{{site.facebook_group}}). These are the _only_ permitted way to exchange written information about assignments (see  [collaboration policy](Collaboration.html)).
+

@@ -2,8 +2,13 @@
 * [This website](http://bio3ss.github.io)
 
 
-2018
+2019
 ====
+
+KTH B135
+	
+MoWe 11:30AM - 12:20PM; Fr 1:30PM - 2:20PM
+KTH B135
 
 Classes begin	Monday, January 7
 
