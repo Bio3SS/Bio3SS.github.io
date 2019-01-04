@@ -1,10 +1,10 @@
 # http://localhost:4913/
 # http://localhost:4913/announce.html
-# HTTP://BIO3SS.GIthub.io
+# http://bio3ss.github.io
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=235353
 # https://avenue.cllmcmaster.ca/d2l/home/235353
 
-# make serve
+# make serve ##
 # jekyll build
 
 current: target
@@ -79,24 +79,21 @@ announce.post: announce.md
 
 ## Restarting the year
 
-Sources += 2017_posts.list
+Sources += 2018_posts.list
 post_archive:
-	git mv _posts _2017_posts
-	ls _2017_posts/* > 2017_posts.list
-	git rm 2016_posts.list 
+	git mv _posts _2018_posts
+	ls _2018_posts/* > 2018_posts.list
+	git rm 2017_posts.list 
 	mkdir _posts
 
+## git rm -r materials/2016/*.* ##
 Sources += $(wildcard materials/2017/*.*)
-Sources += $(wildcard materials/2016/*.*)
+Sources += $(wildcard materials/2018/*.*)
 materials_archive:
-	mkdir materials/2017
-	git mv materials/*.* materials/2017
+	mkdir materials/2018
+	git mv materials/*.* materials/2018
 
-## Can't have this be a submodule!
-## Need to just clone statically
-## Branch is 2017
-## Or was the problem just that it was in Sources?
-wayback:
+## wayback deactivated
 
 ######################################################################
 
