@@ -69,6 +69,7 @@ Sources += $(wildcard _posts/*.*)
 Sources += post.pl
 
 %.post: %.md post.pl
+	$(MAKE) _posts
 	$(PUSH)
 	$(shell_execute)
 
@@ -84,7 +85,9 @@ post_archive:
 	git mv _posts _2018_posts
 	ls _2018_posts/* > 2018_posts.list
 	git rm 2017_posts.list 
-	mkdir _posts
+
+_posts:
+	$(mkdir)
 
 ## git rm -r materials/2016/*.* ##
 Sources += $(wildcard materials/2017/*.*)

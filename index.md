@@ -4,6 +4,9 @@ title: Overview
 ---
 
 {% comment %} 
+{% endcomment %} 
+
+{% comment %} 
 __This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% endcomment %} 
 
@@ -89,7 +92,7 @@ midterm2.md
 
 # Links
 
-{% comment %} 
 * [This course on Avenue]({{site.avenue}})
+{% comment %} 
 * [Facebook group]({{site.facebook}})
 {% endcomment %} 
