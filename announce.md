@@ -7,7 +7,7 @@ slug: 1_web
 Hello and Happy New year!
 
 * The [course resource page](/index.html) is your main source for course info
-	* All posts will be made to the resource page _and_ to Avenue
+	* All announcements will be made to the resource page _and_ to Avenue
 
 * Please print the [Handouts for the Introductory Unit](/materials/intro.handouts.pdf) and bring them to class on Monday.
 
