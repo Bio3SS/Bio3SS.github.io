@@ -12,4 +12,3 @@ Hello and Happy New year!
 * Please print the [Handouts for the Introductory Unit](/materials/intro.handouts.pdf) and bring them to class on Monday.
 
 * There is also a [math supplement handout](/materials/math.handouts.pdf) available for you to review.
-
