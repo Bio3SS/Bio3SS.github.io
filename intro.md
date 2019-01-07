@@ -4,6 +4,7 @@ title: Introductory unit
 ---
 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
+  * [Complete notes from Day 1 (for reference only, no need to print)](/materials/day1.complete.pdf)
 {% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
 {% endcomment %} 

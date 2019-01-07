@@ -14,7 +14,7 @@ current: target
 
 # make files
 
-Sources += Makefile .ignore README.md sub.mk LICENSE.md TODO.md
+Sources += Makefile README.md sub.mk LICENSE.md TODO.md
 
 include sub.mk
 -include $(ms)/perl.def
@@ -60,7 +60,6 @@ mara.jpg:
 
 mara.crop.jpg: mara.jpg Makefile
 	convert -crop 966x360+0+100 $< $@
-
 
 # Posts
 
