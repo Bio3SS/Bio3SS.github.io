@@ -1,8 +1,10 @@
 # http://localhost:4913/
 # http://localhost:4913/announce.html
 # http://bio3ss.github.io
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=235353
-# https://avenue.cllmcmaster.ca/d2l/home/235353
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
+# https://avenue.cllmcmaster.ca/d2l/home/273939
+
+## To CP using keyboard use V (vim style) but then shift-arrows, not vim-style direction keys
 
 # make serve ##
 # jekyll build
@@ -14,7 +16,7 @@ current: target
 
 # make files
 
-Sources += Makefile .ignore README.md sub.mk LICENSE.md TODO.md
+Sources += Makefile README.md sub.mk LICENSE.md TODO.md
 
 include sub.mk
 -include $(ms)/perl.def
@@ -61,7 +63,6 @@ mara.jpg:
 mara.crop.jpg: mara.jpg Makefile
 	convert -crop 966x360+0+100 $< $@
 
-
 # Posts
 
 # Posts are made from drafts as a side effect of making *.post
@@ -69,6 +70,7 @@ Sources += $(wildcard _posts/*.*)
 Sources += post.pl
 
 %.post: %.md post.pl
+	$(MAKE) _posts
 	$(PUSH)
 	$(shell_execute)
 
@@ -84,7 +86,9 @@ post_archive:
 	git mv _posts _2018_posts
 	ls _2018_posts/* > 2018_posts.list
 	git rm 2017_posts.list 
-	mkdir _posts
+
+_posts:
+	$(mkdir)
 
 ## git rm -r materials/2016/*.* ##
 Sources += $(wildcard materials/2017/*.*)

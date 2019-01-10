@@ -3,11 +3,13 @@ layout: page
 title: Overview
 ---
 
-__This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% comment %} 
 {% endcomment %} 
 
 {% comment %} 
+__This page currently reflects (mostly) information from 2018.__ Updates are coming.
+{% endcomment %} 
+
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 
@@ -20,6 +22,7 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 	{% endfor %}
 </ul>
 
+{% comment %} 
 # [Older updates](updates.html)
 {% endcomment %} 
 
@@ -39,8 +42,8 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 
 # Course content
 
-{% comment %} 
 * [Unit 1: Course introduction](intro.html)
+{% comment %} 
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit 4: Structured populations models](structure.html)
@@ -89,7 +92,7 @@ midterm2.md
 
 # Links
 
-{% comment %} 
 * [This course on Avenue]({{site.avenue}})
+{% comment %} 
 * [Facebook group]({{site.facebook}})
 {% endcomment %} 

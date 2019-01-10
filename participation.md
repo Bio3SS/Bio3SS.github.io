@@ -15,7 +15,7 @@ Poll Everywhere says that there is no additional fee __beyond your regular texti
 
 # Alternative 
 
-If you are unable or unwilling to use Poll Everywhere, you can get credit by sending Dushoff an email with comments, thoughts or ideas related to each missed question (not simply the answers, since it's sort of too late for that) by noon on class day.
+If you are unable or unwilling to use Poll Everywhere, you can get credit by sending Dushoff an email with comments, thoughts or ideas related to each missed question (not simply the answers, since it's sort of too late for that) by 3 PM on class day.
 
 # Credit 
 
