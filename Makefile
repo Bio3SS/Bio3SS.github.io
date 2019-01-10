@@ -4,6 +4,8 @@
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
 # https://avenue.cllmcmaster.ca/d2l/home/273939
 
+## To CP using keyboard use V (vim style) but then shift-arrows, not vim-style direction keys
+
 # make serve ##
 # jekyll build
 
