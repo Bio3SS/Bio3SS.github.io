@@ -40,16 +40,20 @@ Course material
 Evaluation 
 ----------
 
+{% comment %} 
+UPDATE Midterms each year:
+	5-11 Feb
+	11-17 Mar
+	cal 2 2020
+{% endcomment %} 
+
 - Assignments 10%
-	* This includes tutorial attendance
-	* Only some tutorials are mandatory
 - Two midterms, 50% (25% each)
-	- __Fri 11 Feb and Fri 18 Mar, in class__
+	- __Mon 11 Feb and Mon 18 Mar, in class__
 - Final exam 40%
 	- Will be scheduled by the Registrar
 - Extra credit will be given for class participation
-- Tests will be _cumulative_, but will emphasize new
- material more than already-tested material
+- Tests will be _cumulative_, but will emphasize new material more than already-tested material
 
 ------------------------------------------------------------------------
 
@@ -63,5 +67,5 @@ tests.
 
 **Online component:** We will be using the learning software Avenue to Learn (AtL). Students should be aware that private information such as first and last names, user names for the McMaster e-mail accounts, and program affiliation may be visible to other students in the course. By taking this course you consent to this disclosure. If you have any questions or concerns about this, please discuss them with the course instructor.
 
-**Sharing information:** Students are encouraged to ask questions and exchange information using AtL or [the course Facebook group](https://www.facebook.com/groups/{{site.facebook_group}}). These are the _only_ permitted way to exchange written information about assignments (see  [collaboration policy](Collaboration.html)).
+**Sharing information:** Students are encouraged to ask questions and exchange information using using approved electronic venues (_to be decided_). These are the _only_ permitted way to exchange written information about assignments (see  [collaboration policy](Collaboration.html)).
 
