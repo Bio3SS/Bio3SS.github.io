@@ -1,8 +1,13 @@
 # http://localhost:4913/
 # http://localhost:4913/announce.html
 # http://bio3ss.github.io
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=235353
-# https://avenue.cllmcmaster.ca/d2l/home/235353
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
+# https://avenue.cllmcmaster.ca/d2l/home/273939
+
+## To CP using keyboard use V (vim style) but then shift-arrows, not vim-style direction keys
+
+# make serve ##
+# jekyll build
 
 current: target
 -include target.mk
@@ -11,7 +16,7 @@ current: target
 
 # make files
 
-Sources += Makefile .ignore README.md sub.mk LICENSE.md TODO.md
+Sources += Makefile README.md sub.mk LICENSE.md TODO.md
 
 include sub.mk
 -include $(ms)/perl.def
@@ -26,21 +31,13 @@ Sources += $(wildcard materials/*.*)
 
 ######################################################################
 
-## Logo
+## Logos
 
 zebras.jpg:
 	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
 
 zebras.crop.jpg: zebras.jpg
 	convert -crop 800x440+0+60 $< $@
-
-Ignore += caribou*.jpg
-caribou.jpg:
-	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
-
-caribou.crop.jpg: caribou.jpg 
-	convert -crop 600x180+0+170 $< $@
-
 Sources += caribou.crop.jpg
 
 ##################################################################
@@ -50,6 +47,22 @@ dinosaur.jpg:
 
 ######################################################################
 
+## Facebook images
+
+Ignore += caribou*.jpg
+caribou.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/8/86/Mech_06.jpg"
+
+caribou.crop.jpg: caribou.jpg 
+	convert -crop 600x180+0+170 $< $@
+
+Ignore += mara*.jpg
+mara.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/en/3/3f/Herds_Maasi_Mara_%28cropped_and_straightened%29.jpg"
+
+mara.crop.jpg: mara.jpg Makefile
+	convert -crop 966x360+0+100 $< $@
+
 # Posts
 
 # Posts are made from drafts as a side effect of making *.post
@@ -57,6 +70,7 @@ Sources += $(wildcard _posts/*.*)
 Sources += post.pl
 
 %.post: %.md post.pl
+	$(MAKE) _posts
 	$(PUSH)
 	$(shell_execute)
 
@@ -67,24 +81,23 @@ announce.post: announce.md
 
 ## Restarting the year
 
-Sources += 2017_posts.list
+Sources += 2018_posts.list
 post_archive:
-	git mv _posts _2017_posts
-	ls _2017_posts/* > 2017_posts.list
-	git rm 2016_posts.list 
-	mkdir _posts
+	git mv _posts _2018_posts
+	ls _2018_posts/* > 2018_posts.list
+	git rm 2017_posts.list 
 
+_posts:
+	$(mkdir)
+
+## git rm -r materials/2016/*.* ##
 Sources += $(wildcard materials/2017/*.*)
-Sources += $(wildcard materials/2016/*.*)
+Sources += $(wildcard materials/2018/*.*)
 materials_archive:
-	mkdir materials/2017
-	git mv materials/*.* materials/2017
+	mkdir materials/2018
+	git mv materials/*.* materials/2018
 
-## Can't have this be a submodule!
-## Need to just clone statically
-## Branch is 2017
-## Or was the problem just that it was in Sources?
-wayback:
+## wayback deactivated
 
 ######################################################################
 
