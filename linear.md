@@ -6,8 +6,8 @@ title: Unit 2
 # Content
 
 * [Lecture notes](/materials/linear.handouts.pdf)
-  * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
 {% comment %} 
+  * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
   * [Large format](/materials/linear.large.pdf)
 {% endcomment %} 
 
