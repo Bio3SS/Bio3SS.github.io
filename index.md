@@ -88,7 +88,7 @@ midterm2.md
 * [Excuses for missed tests and missed work](Excuses.html)
 * [Access to the course](Access.html)
 * [Collaboration guidelines](Collaboration.html)
-  [Regrades](Regrades.html)
+* [Regrades](Regrades.html)
 * [Classroom announcements](/announcements.html)
 
 # Links
