@@ -89,6 +89,7 @@ midterm2.md
 * [Access to the course](Access.html)
 * [Collaboration guidelines](Collaboration.html)
 * [Regrades](Regrades.html)
+* [Classroom announcements](/announcements.html)
 
 # Links
 
