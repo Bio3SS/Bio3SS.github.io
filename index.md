@@ -22,8 +22,8 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 	{% endfor %}
 </ul>
 
-{% comment %} 
 # [Older updates](updates.html)
+{% comment %} 
 {% endcomment %} 
 
 # Course information
