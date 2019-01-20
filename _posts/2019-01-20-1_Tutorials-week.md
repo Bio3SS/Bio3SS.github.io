@@ -8,3 +8,5 @@ This week's tutorials are (conceptually) _mandatory_. Go, meet your TA, and get 
 
 * course material (particularly the Intro unit)
 * the [not-for-credit practice assignment](/materials/intro.asn.pdf), which you should complete by Friday afternoon.
+
+---
