@@ -1,10 +1,16 @@
+## Local
 # http://localhost:4913/
 # http://localhost:4913/announce.html
-# http://bio3ss.github.io
+
+## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
+# http://bio3ss.github.io
+
+## Avenue main
 # https://avenue.cllmcmaster.ca/d2l/home/273939
 
-## To CP using keyboard use V (vim style) but then shift-arrows, not vim-style direction keys
+## To CP using keyboard?
+## works with shift-arrows, V seems not helpful
 
 # make serve ##
 # jekyll build
