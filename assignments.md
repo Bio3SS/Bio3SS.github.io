@@ -5,8 +5,8 @@ title: Assignments
 
 _Please see our
 
-* [Assignment policy](/assignment_policy.html)_
-* [Collaboration policy](Collaboration.html).
+* [Assignment policy](/assignment_policy.html)
+* [Collaboration policy](/Collaboration.html)
 
 {% comment %} 
 * [the rant](/rant.html)
@@ -19,10 +19,12 @@ _Please see our
 * [Introductory assignment (not for credit)](/materials/intro.asn.pdf)
   * [key](materials/intro.key.pdf)
 
-{% comment %} 
 * [Population growth assignment](/materials/pg.asn.pdf)
+{% comment %} 
   * [key](materials/pg.key.pdf)
+{% endcomment %} 
 
+{% comment %} 
 * [Population regulation assignment](/materials/regulation.asn.pdf)
   * [key](/materials/regulation.key.pdf)
 
