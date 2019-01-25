@@ -3,12 +3,13 @@ layout: page
 title: Assignments
 ---
 
-_Please see [the assignment policy](/assignment_policy.html)_
+_Please see our
+
+* [Assignment policy](/assignment_policy.html)_
+* [Collaboration policy](Collaboration.html).
 
 {% comment %} 
 * [the rant](/rant.html)
-
-----------------------------------------------------------------------
 {% endcomment %} 
 
 {% comment %} 
@@ -18,10 +19,9 @@ _Please see [the assignment policy](/assignment_policy.html)_
 * [Introductory assignment (not for credit)](/materials/intro.asn.pdf)
   * [key](materials/intro.key.pdf)
 
+{% comment %} 
 * [Population growth assignment](/materials/pg.asn.pdf)
   * [key](materials/pg.key.pdf)
-{% comment %} 
-{% endcomment %} 
 
 * [Population regulation assignment](/materials/regulation.asn.pdf)
   * [key](/materials/regulation.key.pdf)
@@ -34,6 +34,4 @@ _Please see [the assignment policy](/assignment_policy.html)_
 
 * [Competition assignment](/materials/competition.asn.pdf)
   * [key](/materials/competition.key.pdf)
-
-{% comment %} 
 {% endcomment %} 

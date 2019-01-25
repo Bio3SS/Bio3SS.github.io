@@ -18,7 +18,6 @@ The best way to communicate about assignments is _verbally_.  Do not take any sp
 # Electronic and other written communication 
 
 * _No_ electronic or other _written_ communications about assignments are allowed, _except_ on:
-  * [The official class Facebook site]({{site.facebook}})
   * [The class Avenue to Learn site]({{site.avenue}})
 
 * Communications there should follow the guidelines above:
@@ -30,4 +29,3 @@ The best way to communicate about assignments is _verbally_.  Do not take any sp
 
 * [The University's Academic Integrity office](http://www.mcmaster.ca/academicintegrity)
 * [The Academic Integrity policy](http://www.mcmaster.ca/policy/Students-AcademicStudies/AcademicIntegrity.pdf)
-
