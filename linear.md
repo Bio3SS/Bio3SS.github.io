@@ -18,8 +18,9 @@ title: Unit 2
   * Molles, Fourth Edition,
   11.1 (_this is an old book,_ not _the Canadian version we use now_)
 
-* An additional resource is
+* Additional resources:
   * [Fun with dimensional analysis](http://www.alysion.org/dimensional/fun.htm)
+  * [What's so special about Euler's number e (youtube video)](https://www.youtube.com/watch?v=m2MIpDrF7Es)
 
 # Simulations
 
