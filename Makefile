@@ -11,6 +11,7 @@
 
 ## To CP using keyboard?
 ## works with shift-arrows, V seems not helpful
+## To get out of trappy text box, try double-tab
 
 # make serve ##
 # jekyll build
