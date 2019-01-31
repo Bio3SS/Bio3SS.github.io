@@ -32,6 +32,7 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Office hours](office.html)
+* [Note takers](notes.html)
 {% comment %} 
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
