@@ -38,6 +38,11 @@ Sources += $(wildcard materials/*.*)
 
 ######################################################################
 
+## Missing material
+## git checkout 9786f6b -- materials/2016/midterm1.1.test.pdf
+
+######################################################################
+
 ## Logos
 
 zebras.jpg:

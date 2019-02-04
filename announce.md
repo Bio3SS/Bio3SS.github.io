@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Notes
-slug: 2 Notes
+title: Midterm
+slug: 1 midterm
 ---
 
-* SAS is [still looking for note takers for our class](/notes.html). Please consider helping out. 
+* We have added [a page about the midterm](/midterm1.html). We will be adding more information.
