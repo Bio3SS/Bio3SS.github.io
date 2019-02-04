@@ -12,7 +12,7 @@ TA office hours are in LSB 332:
 
 * Mike has weekly hours Wed 11:30-12:20
 * Morgan has weekly hours Thu 10:30-11:20
-	* or, set up an appointment in person with your TA
+	* or, set up an appointment with your TA in person or via Avenue mail
 
 {% comment %} 
 * Regular hours coming soon
