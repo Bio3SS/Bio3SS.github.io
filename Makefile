@@ -1,6 +1,7 @@
 ## Local
 # http://localhost:4913/
 # http://localhost:4913/announce.html
+# make serve ##
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
@@ -13,7 +14,6 @@
 ## works with shift-arrows, V seems not helpful
 ## To get out of trappy text box, try double-tab
 
-# make serve ##
 # jekyll build
 
 current: target
