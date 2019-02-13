@@ -113,6 +113,15 @@ materials_archive:
 
 ######################################################################
 
+## R resources
+
+# competition/ directory apparently not tracked
+# linear/ directory under development
+
+Sources += linear/bd.mw
+
+######################################################################
+
 # Jekyll
 
 not:

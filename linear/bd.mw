@@ -1,0 +1,101 @@
+= Intro =
+See also [[Introduction to R]] page.
+
+= A new library =
+
+The time plots in bd use a "library" called deSolve, which may not be installed with your version of R.  If you are not sure, type:
+
+<source-file filename="library.R" display="source">
+install.packages("deSolve")
+</source-file>
+
+'''You only have to do this once per installation of R.'''  If you want, you can skip this step and come back if you get an error saying you do not have deSolve.
+
+= Loading =
+
+To load bd, type
+
+<source-file filename="load.R" display="load.R">
+source ("http://lalashan.mcmaster.ca/3SS/bd.R")
+</source-file>
+
+You can also [http://lalashan.mcmaster.ca/3SS/bd.R open the file directly] (see [[Problems with source]]).  It's a good idea to open it directly if you want to work on this project somewhere without an internet connection. 
+
+= Sample plots =
+
+If we say, for example:
+
+<source-file filename="try.R" display="source">
+bd(N0=1, bDD=40)
+</source-file>
+
+<project-file filename="try.Rout-0.png"/>
+<project-file filename="try.Rout-1.png"/>
+<project-file filename="try.Rout-2.png"/>
+
+== Don't worry ==
+
+Depending on how R is set up, it will probably show a blank plot window first when you run <code>bd</code>.  Just hit enter to see the first plot, and so on.
+
+= Basic idea =
+
+We construct a birth rate and a death rate using a starting value (which is a rate, with units 1/time) and characteristic values for density dependence ($$D_b$$ and $$D_d$$, for birth and death rates) and for Allee effects ($$A_b$$ and $$A_d$$).  The characteristic values have units of population size.  The idea is roughly that density dependence is strong when the population is larger than the characteristic value for density dependence, and Allee effects are strong when the population is smaller than the characteristic value for Allee effects.
+
+The equation for per-capita birth rate is $$b(N) = b_0 \exp(-N/D_b) \exp(-A_b/N)$$.  The negative signs are because when things get worse the birth rate gets lower.  If either $$D_b$$ or $$A_b$$ is set to NULL in R (the default), that term is ignored.
+
+The equation for per-capita death rate is exactly similar, but without the negative signs: when things get worse, the death rate gets higher: $$d(N) = d_0 \exp(N/D_d) \exp(A_d/N)$$.
+
+By default, <code>bd()</code> makes a per-capita growth plot and a total growth plot.  If you give it a starting population, it also simulates and makes a time plot (see above).
+
+The key thing to get is that the characteristic values have the same units as the population.  When Allee effect parameters get bigger, or density-dependence parameters get smaller, that means that these effects kick in sooner, with stronger effects.
+
+= Arguments =
+
+To see the arguments for bd, type:
+<source-file filename="args.R">
+args(bd)
+</source-file>
+
+To see:
+<project-file filename="args.Routput"/>
+
+
+== What the arguments do ==
+
+(units in parens)
+
+== Parameters ==
+* <code>b0</code>: Per capita birth rate before Allee or DD effects (1/t)
+* <code>bDD</code> -- $$D_b$$: Scale for density-dependent effects on birth rate (indiv)
+* <code>bAllee</code> -- $$A_b$$: Scale for Allee effects on birth rate (indiv)
+* <code>d0</code>: Per capita death rate before Allee or DD effects (1/t)
+* <code>dDD</code> -- $$D_d$$: Scale for density-dependent effects on death rate (indiv)
+* <code>dAllee</code> -- $$A_d$$: Scale for Allee effects on death rate (indiv)
+
+== Simulation ==
+* <code>N0</code>: sets the value of $$N_0$$ for simulations (indiv).
+* <code>MaxTime</code>: How long to simulate (t)
+* <code>steps</code>: Number of points to plot in simulation (1) 
+
+== Rates ==
+* <code>popMax</code>: Maximum population to plot for rates (indiv)
+* <code>reportPcTotal</code>: Report growth rates as '''p'''er capita, '''t'''otal '''b'''oth or '''n'''either.
+
+== Appearance ==
+* <code>legendSize</code> controls the size of the legend.  The default is 1, so use e.g., 0.5 to make the legend half as big.
+* <code>fontSize</code> controls the size of the labels and numbers along the axes.  It works like <code>legendSize</code>.
+* <code>title="My title"</code> can be used to add a title to your graph.
+* <code>plab="Density of dolphins"</code> can be used to add to relabel the x axis of response graphs
+* <code>tlab="time (months)"</code> can be used to add to relabel the x axis of time plots
+
+= Machinery =
+
+The code below makes the page work.  You don't need it at all, but are free to look if you are curious.
+
+<source-file filename="Makefile" display="source">
+try.Rout args.Rout: %.Rout: load.R %.R
+	$(run-R)
+</source-file>
+
+[http://yushan.mcmaster.ca/theobio/PopEco/index.php/Birth-death_models Development page (instructors only)]
+
