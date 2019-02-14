@@ -5,7 +5,7 @@
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
-# http://bio3ss.github.io?version=235
+# http://bio3ss.github.io?version=234
 
 ## Avenue main
 # https://avenue.cllmcmaster.ca/d2l/home/273939
@@ -110,6 +110,15 @@ materials_archive:
 	git mv materials/*.* materials/2018
 
 ## wayback deactivated
+
+######################################################################
+
+## R resources
+
+# competition/ directory apparently not tracked
+# linear/ directory under development
+
+Sources += linear/bd.mw
 
 ######################################################################
 
