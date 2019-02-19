@@ -118,7 +118,12 @@ materials_archive:
 # competition/ directory apparently not tracked
 # linear/ directory under development
 
+# linear deprecated for now. Doing that stuff in Homework instead. 
+# Which also seems awkward
 Sources += linear/bd.mw
+
+## Done and done
+## trouble.md: trouble.wikitext
 
 ######################################################################
 
@@ -143,6 +148,7 @@ sb:
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
+-include $(ms)/pandoc.mk
 
 # -include $(ms)/wrapR.mk
 # -include $(ms)/oldlatex.mk
