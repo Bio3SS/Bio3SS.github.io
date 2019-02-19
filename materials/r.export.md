@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Introduction to R page
 ---
 
 
@@ -100,12 +100,11 @@ you what arguments the function takes:
 
 Everything in the parentheses is an argument that tells the function
 what to do. You should be able to change it to make the function do
-something else. For example, try typing
+something else. For example, try typing:
 
     bd(bDD=40) 
 
 ![](r.rmd_files/figure-markdown_strict/unnamed-chunk-4-1.png)![](r.rmd_files/figure-markdown_strict/unnamed-chunk-4-2.png)
 
--   For more information on `bd`, see
-    [BirthDeath](BirthDeath "wikilink")
--   Trouble? See [R troubleshooting](R_troubleshooting "wikilink")
+-   For more information on `bd`, see [The BirthDeath
+    page](bd.export.html)

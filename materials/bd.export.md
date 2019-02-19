@@ -1,5 +1,7 @@
-Intro
-=====
+---
+layout: page
+title: BirthDeath
+---
 
 
 Intro
