@@ -5,7 +5,7 @@
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
-# http://bio3ss.github.io?version=235
+# http://bio3ss.github.io?version=234
 
 ## Avenue main
 # https://avenue.cllmcmaster.ca/d2l/home/273939
@@ -113,6 +113,20 @@ materials_archive:
 
 ######################################################################
 
+## R resources
+
+# competition/ directory apparently not tracked
+# linear/ directory under development
+
+# linear deprecated for now. Doing that stuff in Homework instead. 
+# Which also seems awkward
+Sources += linear/bd.mw
+
+## Done and done
+## trouble.md: trouble.wikitext
+
+######################################################################
+
 # Jekyll
 
 not:
@@ -134,6 +148,7 @@ sb:
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
+-include $(ms)/pandoc.mk
 
 # -include $(ms)/wrapR.mk
 # -include $(ms)/oldlatex.mk
