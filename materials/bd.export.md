@@ -26,7 +26,9 @@ Loading
 
 To load `bd`, type:
 
-    source("https://raw.githubusercontent.com/Bio3SS/Birth_death_models/master/bd.R") 
+    source("https://raw.githubusercontent.com/Bio3SS/Exponential_figures/master/bd.R") 
+
+    ## Loading required package: deSolve
 
 This should work if you are connected to the internet. `source` is a
 function; it tells R to load some information. The thing inside the
@@ -106,7 +108,7 @@ To see the arguments for bd, type:
     ##     b0 = 1, bDD = NULL, bAllee = NULL, d0 = 0.5, dDD = NULL, 
     ##     dAllee = NULL, reportPcTotal = "b", popSteps = 100, fontSize = 1, 
     ##     legendSize = 1, title = "", tlab = "Time (years)", plab = "Population size", 
-    ##     elines = FALSE, arrows = TRUE) 
+    ##     showLog = TRUE, growMax = NULL) 
     ## NULL
 
 (units in parens)
