@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Worksheet
-slug: 1 Worksheet
+title: Midterm
+slug: 1 Midterm
 ---
 
-* Please work through the _not-for-credit_ [intro to R worksheet](/materials/r.export.html) by Fri 1 March.
+Due to teaching-team travel, midterm scores will not be available until next week. We will be as fast as we can. Sorry for inconvenience.
 
