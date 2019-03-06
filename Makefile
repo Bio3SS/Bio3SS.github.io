@@ -11,7 +11,8 @@
 # https://avenue.cllmcmaster.ca/d2l/home/273939
 
 ## To CP using keyboard?
-## works with shift-arrows, V seems not helpful
+## Often get unformatted text; key may be ctrl-c instead of y
+## I fiddle with v vs. shift and / vs ctrl-f, but I don't think that's it
 ## To get out of trappy text box, try double-tab
 
 # jekyll build
