@@ -3,9 +3,9 @@ layout: page
 title: Midterm 2
 ---
 
-Midterm 2 is on Fri 16 Mar. 
+Midterm 2 is on Mon 18 Mar. 
 
-Midterm 2 will be _cumulative_, but with more emphasis on material not yet tested. It will cover through Unit 5 Section 3.
+The midterm will be _cumulative_, but with more emphasis on material not yet tested. It will cover through Unit 5 Section 3.
 
 Extra midterm complete notes will be released on Wed.
 
