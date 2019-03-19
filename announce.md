@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes
+title: Handouts
 slug: 1 Notes
 ---
 
