@@ -126,6 +126,9 @@ Sources += linear/bd.mw
 ## Done and done
 ## trouble.md: trouble.wikitext
 
+subdirs += competition
+Ignore += $(subdirs)
+
 ######################################################################
 
 # Jekyll
