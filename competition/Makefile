@@ -31,8 +31,6 @@ Ignore += $(ms)
 
 Sources += index.md index.mw
 # index.md: index.mw
-index.md:
-	pandoc -o $@ -f mediawiki $<
 
 Ignore += index.R
 index.R: index.md

@@ -3,14 +3,13 @@ layout: page
 title: compPlots
 ---
 
-
 To load compPlots, type
 
 ``` R
-source ("http://lalashan.mcmaster.ca/3SS/comp.R")
+source ("https://raw.githubusercontent.com/Bio3SS/Competition_models/master/comp.R")
 ```
 
-You can also [open the file directly](http://lalashan.mcmaster.ca/3SS/comp.R). It's a good idea to open it directly if you want to work on this project somewhere without an internet connection.
+You can also [open the file directly](https://raw.githubusercontent.com/Bio3SS/Competition_models/master/comp.R). It's a good idea to open it directly if you want to work on this project somewhere without an internet connection.
 
 ### A new library
 
