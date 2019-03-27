@@ -36,6 +36,9 @@ Sources += $(wildcard *.md) updates.html
 
 Sources += $(wildcard materials/*.*)
 
+subdirs += competition
+Ignore += $(subdirs) 
+
 ######################################################################
 
 ## Missing material
