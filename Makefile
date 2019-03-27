@@ -5,14 +5,13 @@
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
-# http://bio3ss.github.io?version=232
+# http://bio3ss.github.io?version=234
 
 ## Avenue main
 # https://avenue.cllmcmaster.ca/d2l/home/273939
 
 ## To CP using keyboard?
-## Often get unformatted text; key may be ctrl-c instead of y
-## I fiddle with v vs. shift and / vs ctrl-f, but I don't think that's it
+## works with shift-arrows, V seems not helpful
 ## To get out of trappy text box, try double-tab
 
 # jekyll build
@@ -125,9 +124,6 @@ Sources += linear/bd.mw
 
 ## Done and done
 ## trouble.md: trouble.wikitext
-
-subdirs += competition
-Ignore += $(subdirs)
 
 ######################################################################
 
