@@ -73,8 +73,8 @@ REVIEW test issues from FB and post warnings
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
-{% comment %} 
 * [Final exam](final.html)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
