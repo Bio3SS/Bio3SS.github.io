@@ -12,7 +12,7 @@
 
 ## To CP using keyboard?
 ## works with shift-arrows, V seems not helpful
-## To get out of trappy text box, try double-tab
+## To get out of trappy text box, try double-tab; may need to go to top corner first
 
 # jekyll build
 

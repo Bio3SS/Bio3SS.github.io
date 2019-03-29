@@ -11,7 +11,7 @@ current: target
 
 # make files
 
-Sources += Makefile .ignore
+Sources += Makefile
 
 ms = makestuff
 -include local.mk
@@ -29,8 +29,7 @@ Ignore += $(ms)
 
 ## Content
 
-Sources += index.md index.mw
-# index.md: index.mw
+Sources += index.md 
 
 Ignore += index.R
 index.R: index.md
@@ -39,7 +38,9 @@ index.R: index.md
 index.Rout: index.md
 
 indexFiles += index.Rout-0.png index.Rout-1.png index.Rout-2.png index.Rout-3.png index.Rout-4.png
-Sources += $(indexFiles)
+
+### Temporarily disable (need codedown)
+### Sources += $(indexFiles)
 index.update: index.md $(indexFiles) ;
 
 ######################################################################
