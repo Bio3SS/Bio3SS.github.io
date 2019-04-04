@@ -50,8 +50,9 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
-{% comment %} 
 * [Unit 8: Disease](disease.html)
+
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
