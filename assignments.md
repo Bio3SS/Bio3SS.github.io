@@ -44,6 +44,6 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% endcomment %} 
 
 * [Competition assignment](/materials/competition.asn.pdf)
-{% comment %} 
   * [key](/materials/competition.key.pdf)
+{% comment %} 
 {% endcomment %} 
