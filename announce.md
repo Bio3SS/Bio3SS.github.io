@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Evaluations?
-slug: 1 Evaluations
+title: Office hours
+slug: 2 hours
 ---
 
-You are reminded to [evaluate us](https://evals.mcmaster.ca/)
+
 
