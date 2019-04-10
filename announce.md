@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Office hours
-slug: 2 hours
+title: Complete notes for final unit
+slug: 1 Complete notes for final unit
 ---
 
-Morgan and Mike will be holding _office hours_ (not tutorials) tomorrow (Tue) at 10:30 AM in University Hall 102 and 103 respectively.
-
-Come with questions.
-
+Now up on [disease unit page](/disease.html)
 
