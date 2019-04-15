@@ -10,5 +10,3 @@ I do not calculate grades on Avenue, so there is nothing there that makes sense 
 
 I did not enter any zeroes. I entered NAs for MSAFs. It looks to me like Avenue changed these to zeroes. Your MSAF will be reflected in your final grade.
 
-JD
-
