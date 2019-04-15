@@ -21,6 +21,7 @@ There will be 40 MC questions, and you should bring your Mac-standard calculator
 
 * [2018](/materials/2018/final.1.test.pdf)
 	* [key](/materials/2018/final.1.key.pdf)
+	* Answer 21 is wrong (this was fixed in the grading stage)
 
 * [2017](/materials/2017/final.1.test.pdf)
 	* [key](/materials/2017/final.1.key.pdf)
