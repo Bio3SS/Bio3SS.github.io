@@ -31,7 +31,6 @@ Extra midterm complete notes will be released on Wed.
 
 {% endcomment %} 
 
-{% comment %}
 # Resources
 
 Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
@@ -43,6 +42,7 @@ Practice tests and study questions are provided as study aids. Material content 
 
 * [Test from 2017](materials/2017/midterm2.1.test.pdf) 
     * [Key](materials/2017/midterm2.1.key.pdf)
+{% comment %}
 {% endcomment %} 
 
 {% comment %} 
