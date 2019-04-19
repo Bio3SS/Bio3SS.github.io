@@ -25,3 +25,15 @@ There will be 40 MC questions, and you should bring your Mac-standard calculator
 
 * [2017](/materials/2017/final.1.test.pdf)
 	* [key](/materials/2017/final.1.key.pdf)
+
+# Content
+
+Questions can be hard to classify. The exam questions will _approximately_ break down as follows:
+
+* Intro/linear: 4
+* Nonlinear: 5
+* Structure: 2
+* Life history: 8
+* Competition: 9
+* Exploitation: 9
+* Disease: 3
