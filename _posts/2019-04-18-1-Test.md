@@ -13,3 +13,5 @@ Questions can be hard to classify. The exam questions will _approximately_ break
 * Competition: 9
 * Exploitation: 9
 * Disease: 3
+
+More info available on [final page](/final.html).
