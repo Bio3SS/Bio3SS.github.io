@@ -6,4 +6,4 @@ slug: 1 Polls
 
 If you think you didn't get the right polls grade, that probably means you didn't convince PollEverywhere to properly link your polls to your macid.
 
-Please try [answering the current poll everywhere question](http://PollEv.com/bio3ss) with your macid (not your student number). PollEverywhere will randomly deactivate this poll from time to time; [let me know](mailto:dushoff@mcmaster.ca) if you need me to reactivate it.
+Please try [answering the current PollEverywhere question](http://PollEv.com/bio3ss) with your macid (not your student number). PollEverywhere will randomly deactivate this poll from time to time; [let me know](mailto:dushoff@mcmaster.ca) if you need me to reactivate it.
