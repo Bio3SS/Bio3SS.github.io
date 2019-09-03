@@ -5,13 +5,14 @@ title: Access
 
 I have no control over access to this course through the computer system (although I do grant waivers, see below).
 
-The course often seems full, but you will probably get in if you keep trying.
+The course sometimes seems full, but you will probably get in if you keep trying.
 
 # Waivers 
 
 If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
-Waivers for Jan 2020 are not yet available. I will open the waiver process at some point between 30 Sep (if enrollment is low) and 31 Dec (if enrollment is high). I will announce a date as soon as I get an an enrollment figure from the department.
+I will open the waivers process on 30 Sep.
 {% comment %}
+Waivers for Jan 2020 are not yet available. I will open the waiver process at some point between 30 Sep (if enrollment is low) and 31 Dec (if enrollment is high). I will announce a date as soon as I get an an enrollment figure from the department.
 {% endcomment %}
 
 {% comment %}
