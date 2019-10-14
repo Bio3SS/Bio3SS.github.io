@@ -10,23 +10,25 @@ The course sometimes seems full, but you will probably get in if you keep trying
 # Waivers 
 
 If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
-I will open the waivers process on 30 Sep.
 {% comment %}
+I will open the waivers process on 30 Sep.
 Waivers for Jan 2020 are not yet available. I will open the waiver process at some point between 30 Sep (if enrollment is low) and 31 Dec (if enrollment is high). I will announce a date as soon as I get an an enrollment figure from the department.
 {% endcomment %}
 
-{% comment %}
-{% endcomment %}
+You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M) and an upper-level course with some relationship to evolution or ecology.
 
-You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M or 1AA) and an upper-level course with some relationship to evolution or ecology.  You must also acquire a copy of the Ecology textbook (Molles and Cahill).
+{% comment %}
+You must also acquire a copy of the Ecology textbook (Molles and Cahill).
+This is no longer available, and nobody was paying attention!
+{% endcomment %}
 
 {% comment %}
 [[This comment breaks the paragraph if put in the logical place]]
 _after the waiver-open date_,
 {% endcomment %}
-{% comment %}
 If you would like a waiver, please [send an email to dushoff@mcmaster.ca](mailto:dushoff@mcmaster.ca),
-explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please also include your student number. 
+explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please include your macid. 
+{% comment %}
 {% endcomment %}
 {% comment %}
 You must email after the opening date because I want to be sure that you are still interested before I ask an administrator to process your waiver. 

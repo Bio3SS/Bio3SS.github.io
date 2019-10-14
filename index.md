@@ -10,8 +10,10 @@ title: Overview
 __This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% endcomment %} 
 
+{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
+{% endcomment %} 
 
 <ul class="post-list">
 	{% for post in site.posts limit:4 %}
@@ -22,8 +24,8 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 	{% endfor %}
 </ul>
 
-# [Older updates](updates.html)
 {% comment %} 
+# [Older updates](updates.html)
 {% endcomment %} 
 
 # Course information
@@ -37,10 +39,8 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
 
-{% comment %} 
-	outline.md
-{% endcomment %} 
 
+{% comment %} 
 # Course content
 
 * [Unit 1: Course introduction](intro.html)
@@ -51,8 +51,6 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
 * [Unit 8: Disease](disease.html)
-
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -70,18 +68,12 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 REVIEW test issues from FB and post warnings
 {% endcomment %} 
 
+{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
-{% comment %} 
-{% endcomment %} 
-
-{% comment %} 
-assignments.md
-midterm1.md
-midterm2.md
 {% endcomment %} 
 
 # Policies
@@ -93,9 +85,9 @@ midterm2.md
 * [Regrades](Regrades.html)
 * [Classroom announcements](/announcements.html)
 
+{% comment %} 
 # Links
 
 * [This course on Avenue]({{site.avenue}})
-{% comment %} 
 * [Facebook group]({{site.facebook}})
 {% endcomment %} 
