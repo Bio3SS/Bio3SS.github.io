@@ -24,11 +24,14 @@ Course material
  notes, available on AtL or on this site
 	- It is recommended to print the lecture notes and bring them to
  class to make additional notes
+ 	- Other readings will be assigned
 
+{% comment %} 
 - You are required to have an Ecology textbook. We recommend the
  current 2F textbook: Molles and Cahill, Second Canadian Edition.
 	- If you would like to use a different textbook, let your TA know, so we can
 	  attempt to provide readings.
+{% endcomment %} 
 
 - You will need an approved calculator for the tests; it is
  recommended that you bring this to class as well.
@@ -53,13 +56,14 @@ Su Mo Tu We Th Fr Sa
  9 10 11 12 13 14 15  
 16 17 18 19 20 21 22  
 23 24 25 26 27 28 29  
+cal 3 2020
                       
 {% endcomment %} 
 
 - Assignments 10%
 - Two midterms, 50% (25% each)
 {% comment %} 
-	- __Mon 11 Feb and Mon 18 Mar, in class__
+	- __Fri 7 Feb and 13 Mar, in class__
 {% endcomment %} 
 - Final exam 40%
 	- Will be scheduled by the Registrar
