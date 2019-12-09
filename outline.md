@@ -6,7 +6,9 @@ title: Course outline
 **Winter 2019**
 
 * **Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
+{% comment %} 
 * **Teaching assistants:** Morgan Kain, Michael Li, Steve Cygu
+{% endcomment %} 
 
 Course material 
 ---------------
@@ -44,12 +46,21 @@ Evaluation
 UPDATE Midterms each year:
 	5-11 Feb
 	11-17 Mar
-	cal 2 2020
+   February 2020      
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28 29  
+                      
 {% endcomment %} 
 
 - Assignments 10%
 - Two midterms, 50% (25% each)
+{% comment %} 
 	- __Mon 11 Feb and Mon 18 Mar, in class__
+{% endcomment %} 
 - Final exam 40%
 	- Will be scheduled by the Registrar
 - Extra credit will be given for class participation
