@@ -5,7 +5,7 @@
 current: target
 -include target.mk
 
-include makestuff/perl.def
+-include makestuff/perl.def
 
 ######################################################################
 
