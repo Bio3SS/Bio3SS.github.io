@@ -36,6 +36,9 @@ Sources += $(wildcard materials/*.*)
 subdirs += competition
 Ignore += $(subdirs) 
 
+alldirs += $(subdirs)
+alldirs += makestuff
+
 ######################################################################
 
 # Posts
