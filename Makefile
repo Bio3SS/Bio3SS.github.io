@@ -99,11 +99,12 @@ post_archive:
 _posts:
 	$(mkdir)
 
-Sources += $(wildcard materials/2017/*.*)
-Sources += $(wildcard materials/2018/*.*)
+## git rm -r materials/2017/ ##
 materials_archive:
-	mkdir materials/2018
-	git mv materials/*.* materials/2018
+	mkdir materials/2019
+	git mv materials/*.* materials/2019
+Sources += $(wildcard materials/2018/*.*)
+Sources += $(wildcard materials/2019/*.*)
 
 ######################################################################
 
@@ -138,7 +139,7 @@ sb:
 ######################################################################
 
 vim_session:
-	bash -cl "vmt"
+	bash -cl "vmt index.md announce.md"
 
 ### Makestuff
 

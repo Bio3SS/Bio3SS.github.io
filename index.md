@@ -10,9 +10,9 @@ title: Overview
 __This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% endcomment %} 
 
-{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
+{% comment %} 
 {% endcomment %} 
 
 <ul class="post-list">
