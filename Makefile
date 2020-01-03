@@ -15,11 +15,11 @@ current: target
 # make serve ##
 
 ## Posting
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=273939
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=315235
 # http://bio3ss.github.io?version=234
 
 ## Avenue main
-# https://avenue.cllmcmaster.ca/d2l/home/273939
+# https://avenue.cllmcmaster.ca/d2l/home/315235
 
 ## To CP using keyboard?
 ## works with shift-arrows, V seems not helpful
