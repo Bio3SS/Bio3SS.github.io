@@ -7,6 +7,8 @@ I have no control over access to this course through the computer system (althou
 
 The course sometimes seems full, but you will probably get in if you keep trying.
 
+Don't worry if you don't have Avenue access yet; everything you need should be on [this site](/)
+
 # Waivers 
 
 If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
