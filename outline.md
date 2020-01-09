@@ -3,11 +3,11 @@ layout: page
 title: Course outline
 ---
 
-**Winter 2019**
+**Winter 2020**
 
 * **Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
-{% comment %} 
-* **Teaching assistants:** Morgan Kain, Michael Li, Steve Cygu
+* **Tutorial TAs:** Steve Cygu, Stefan Weber
+* **Marking TA:** Danielle Montocchio
 {% endcomment %} 
 
 Course material 
@@ -56,15 +56,20 @@ Su Mo Tu We Th Fr Sa
  9 10 11 12 13 14 15  
 16 17 18 19 20 21 22  
 23 24 25 26 27 28 29  
-cal 3 2020
-                      
+     March 2020       
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
+29 30 31              
 {% endcomment %} 
 
 - Assignments 10%
 - Two midterms, 50% (25% each)
 {% comment %} 
-	- __Fri 7 Feb and 13 Mar, in class__
 {% endcomment %} 
+	- __Fri 7 Feb and 13 Mar, in class__
 - Final exam 40%
 	- Will be scheduled by the Registrar
 - Extra credit will be given for class participation
