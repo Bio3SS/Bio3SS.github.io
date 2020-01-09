@@ -8,6 +8,7 @@ title: Course outline
 * **Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
 * **Tutorial TAs:** Steve Cygu, Stefan Weber
 * **Marking TA:** Danielle Montocchio
+{% comment %} 
 {% endcomment %} 
 
 Course material 
