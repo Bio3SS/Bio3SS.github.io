@@ -4,9 +4,6 @@ title: Overview
 ---
 
 {% comment %} 
-{% endcomment %} 
-
-{% comment %} 
 __This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% endcomment %} 
 
@@ -40,11 +37,11 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 {% endcomment %} 
 
 
-{% comment %} 
 # Course content
 
 * [Unit 1: Course introduction](intro.html)
 * [Unit 2: Linear population models](linear.html)
+{% comment %} 
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit 4: Structured populations models](structure.html)
 * [Unit 5: Life history](life_history.html)

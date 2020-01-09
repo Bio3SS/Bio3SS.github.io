@@ -6,20 +6,21 @@ title: Unit 2
 # Content
 
 * [Lecture notes](/materials/linear.handouts.pdf)
-  * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
 {% comment %} 
+  * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
   * [Large format](/materials/linear.large.pdf)
 {% endcomment %} 
 
 # Resources
 
+{% comment %} 
 * The suggested reading is:
   * Molles and Cahill, Second (or Third) Canadian Edition, 12.1 – 12.3, __or__
   * Molles, Fourth Edition,
   11.1 (_this is an old book,_ not _the Canadian version we use now_)
+{% endcomment %} 
 
 * Additional resources:
-  * [Fun with dimensional analysis](http://www.alysion.org/dimensional/fun.htm)
   * [What's so special about Euler's number e (youtube video)](https://www.youtube.com/watch?v=m2MIpDrF7Es)
 
 # Simulations
