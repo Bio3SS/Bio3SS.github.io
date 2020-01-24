@@ -7,8 +7,10 @@ title: Teaching team
 
 Dushoff office hours are in LSB 332:
 
-* Regular hours coming soon
-	* or [email for an appointment](mailto:dushoff@mcmaster.ca)
+* Tue 14:30–15:20
+* Fri 10:30–11:20
+
+or [email for an appointment](mailto:dushoff@mcmaster.ca)
 
 ## Tutorial TAs
 

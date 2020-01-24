@@ -11,7 +11,6 @@ current: target
 
 ## Local
 # http://localhost:4913/
-# http://localhost:4913/announce.html
 # make serve ##
 
 ## Posting

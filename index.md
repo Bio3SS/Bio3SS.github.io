@@ -32,7 +32,6 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Teaching team](team.html)
 {% comment %} 
-* [Office hours](office.html) ## Deprecate for teaching team?
 * [Note takers](notes.html)
 {% endcomment %} 
 {% comment %} 
