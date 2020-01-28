@@ -3,7 +3,6 @@ layout: page
 title: Assignments
 ---
 
-{% comment %} 
 ## Policies
 
 _Please_ read these policies
@@ -11,11 +10,13 @@ _Please_ read these policies
 * [Assignment policy](/assignment_policy.html)
 * [Collaboration policy](/Collaboration.html)
 
+Also, here is [a rant](/rant.html) that I posted a few years ago when I was less mellow, or the students were less subtle. Make of it what you will.
+
 ## Dropboxes
 
 On the first floor of the Life Sciences building. The "bank" of dropboxes is in two sections between Rooms 115 and 116, near the door to the lobby. Our dropboxes are on the lower right (one for each TA).
 
-* [the rant](/rant.html)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -25,14 +26,16 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 ## Content
 
 * [Introductory assignment (not for credit)](/materials/intro.asn.pdf)
-{% comment %} 
   * [key](materials/intro.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
 * [Population growth assignment](/materials/pg.asn.pdf)
   * [key](materials/pg.key.pdf)
+{% endcomment %} 
 
+{% comment %} 
 * [Population regulation assignment](/materials/regulation.asn.pdf)
   * [key](/materials/regulation.key.pdf)
 

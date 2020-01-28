@@ -11,7 +11,7 @@ current: target
 
 ## Local
 # http://localhost:4913/
-# make serve ##
+# make serve
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=315235
