@@ -4,9 +4,6 @@ title: Overview
 ---
 
 {% comment %} 
-{% endcomment %} 
-
-{% comment %} 
 __This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% endcomment %} 
 
@@ -24,8 +21,8 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 	{% endfor %}
 </ul>
 
-{% comment %} 
 # [Older updates](updates.html)
+{% comment %} 
 {% endcomment %} 
 
 # Course information
@@ -33,19 +30,21 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
-* [Office hours](office.html)
+* [Teaching team](team.html)
+{% comment %} 
 * [Note takers](notes.html)
+{% endcomment %} 
 {% comment %} 
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
 
 
-{% comment %} 
 # Course content
 
 * [Unit 1: Course introduction](intro.html)
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
+{% comment %} 
 * [Unit 4: Structured populations models](structure.html)
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
@@ -68,9 +67,9 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 REVIEW test issues from FB and post warnings
 {% endcomment %} 
 
-{% comment %} 
 # Tests and assignments
 * [Assignments](assignments.html)
+{% comment %} 
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)

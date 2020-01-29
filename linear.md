@@ -13,18 +13,19 @@ title: Unit 2
 
 # Resources
 
+{% comment %} 
 * The suggested reading is:
   * Molles and Cahill, Second (or Third) Canadian Edition, 12.1 – 12.3, __or__
   * Molles, Fourth Edition,
   11.1 (_this is an old book,_ not _the Canadian version we use now_)
+{% endcomment %} 
 
 * Additional resources:
-  * [Fun with dimensional analysis](http://www.alysion.org/dimensional/fun.htm)
   * [What's so special about Euler's number e (youtube video)](https://www.youtube.com/watch?v=m2MIpDrF7Es)
 
 # Simulations
 
-* [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2018)
+* [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2020)
 {% comment %} 
 * [The Moth spreadsheet](http://tinyurl.com/MothModel2016) (http://tinyurl.com/MothModel2016)
 {% endcomment %} 

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Dushoff office hours
+title: Office hours
 ---
 
 Dushoff office hours are in LSB 332:
 
-* Tue and Fri 1:30-2:20 (i.e., class hours on days we don't have class)
-	* or [email for an appointment](mailto:dushoff@mcmaster.ca)
+or [email for an appointment](mailto:dushoff@mcmaster.ca)
 
-TA office hours are in LSB 216:
+TA office hours are by email appointment:
+* [Steve](mailto:cygus@mcmaster.ca>
 
 * Mike has weekly hours Wed 11:30-12:20
 * Morgan has weekly hours Thu 10:30-11:20
