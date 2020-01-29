@@ -30,7 +30,7 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
-* [Teaching team](team.html)
+* [Teaching team](team.html) (includes office hour information)
 {% comment %} 
 * [Note takers](notes.html)
 {% endcomment %} 
