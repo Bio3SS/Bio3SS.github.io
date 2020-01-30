@@ -30,8 +30,8 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% comment %} 
 {% endcomment %} 
 
-{% comment %} 
 * [Population growth assignment](/materials/pg.asn.pdf)
+{% comment %} 
   * [key](materials/pg.key.pdf)
 {% endcomment %} 
 
