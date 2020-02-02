@@ -20,6 +20,7 @@ The midterm will focus primarily on Units 2 and 3, but _may_ also include _conce
 There will be 17 multiple-choice questions (worth 17 points in total) and two short-answer questions (worth 8 points in total).
 {% endcomment %} 
 
+{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm1.1.test.pdf)
@@ -36,13 +37,13 @@ There will be 17 multiple-choice questions (worth 17 points in total) and two sh
 
 * [Version 5](materials/midterm1.5.test.pdf)
     * [Key](materials/midterm1.5.key.pdf)
-
-{% comment %} 
 {% endcomment %} 
 
 # Resources
 
 Practice tests and study questions are provided as study aids and as a guide to the style of questons. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
+
+Keys for old midterms will be shared on Tuesday. 
 
 * [Test from 2019](materials/2019/midterm1.1.test.pdf)
 {% comment %} 
