@@ -3,10 +3,13 @@ layout: page
 title: Midterm 1
 ---
 
-{% comment %} 
-Midterm 1 will be held in class on Fri 9 Feb. Please arrive promptly, with your Mac-standard calculator. Please wait _outside_ the classroom until we call you, so that we can set up the room.
+Midterm 1 will be held in class on Fri 6 Feb. Please arrive promptly, with your Mac-standard calculator. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
-The midterm will cover Units 1 through 3. 
+The midterm will cover Units 1, 2, X and parts of 3. 
+
+Complete notes for the covered part of Unit 3 will be released on Tuesday
+
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -39,18 +42,27 @@ There will be 17 multiple-choice questions (worth 17 points in total) and two sh
 
 # Resources
 
-Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
+Practice tests and study questions are provided as study aids and as a guide to the style of questons. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
+
+* [Test from 2019](materials/2019/midterm1.1.test.pdf)
+{% comment %} 
+    * [Key](materials/2019/midterm1.1.key.pdf)
+{% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm1.1.test.pdf)
+{% comment %} 
     * [Key](materials/2018/midterm1.1.key.pdf)
+{% endcomment %} 
 
 * [Test from 2017](materials/2017/midterm1.1.test.pdf)
+{% comment %} 
     * [Key](materials/2017/midterm1.1.key.pdf)
+{% endcomment %} 
 
+{% comment %} 
 * [Test from 2016](materials/2016/midterm1.1.test.pdf)
     * [Key](materials/2016/midterm1.1.key.pdf)
 
-{% comment %} 
 * [Test from 2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
   * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
 
