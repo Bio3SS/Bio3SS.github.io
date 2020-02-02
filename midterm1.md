@@ -55,14 +55,13 @@ Keys for old midterms will be shared on Tuesday.
     * [Key](materials/2018/midterm1.1.key.pdf)
 {% endcomment %} 
 
-{% comment %} 
-2017 seems mysteriously missing 2020 Feb 02 (Sun)
 * [Test from 2017](materials/2017/midterm1.1.test.pdf)
+{% comment %} 
     * [Key](materials/2017/midterm1.1.key.pdf)
 {% endcomment %} 
 
-* [Test from 2016](materials/2016/midterm1.1.test.pdf)
 {% comment %} 
+* [Test from 2016](materials/2016/midterm1.1.test.pdf)
     * [Key](materials/2016/midterm1.1.key.pdf)
 {% endcomment %} 
 
