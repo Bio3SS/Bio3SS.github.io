@@ -5,21 +5,21 @@ title: Teaching team
 
 ## Professor
 
-Dushoff office hours are in LSB 332:
+__Jonathan Dushoff__
 
-* Tue 14:30–15:20
-* Fri 10:30–11:20
-
-or [email for an appointment](mailto:dushoff@mcmaster.ca)
+* Office hours are in LSB 332:
+	* Tue 14:30–15:20
+	* Fri 10:30–11:20
+* or [email for an appointment](mailto:dushoff@mcmaster.ca)
 
 ## Tutorial TAs
 
-Stefan Weber
+__Stefan Weber__
 
 * Wed 11:30; Thu 10:30 
 * [email](mailto:s.d.weber.ont@gmail.com)
 
-Steve Cygu
+__Steve Cygu__
 
 * Wed 15:30; Thu 11:30, 12:30
 * [email](mailto:cygus@mcmaster.ca)

@@ -44,6 +44,7 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Unit 1: Course introduction](intro.html)
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
+* [Unit X: Coronavirus update](corona.html)
 {% comment %} 
 * [Unit 4: Structured populations models](structure.html)
 * [Unit 5: Life history](life_history.html)
@@ -69,8 +70,8 @@ REVIEW test issues from FB and post warnings
 
 # Tests and assignments
 * [Assignments](assignments.html)
-{% comment %} 
 * [Midterm 1](midterm1.html)
+{% comment %} 
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
 {% endcomment %} 
