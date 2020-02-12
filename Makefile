@@ -30,6 +30,7 @@ current: target
 
 Sources += $(wildcard *.md) updates.html
 
+Ignore += materials/*.final.*
 Sources += $(wildcard materials/*.*)
 
 subdirs += competition
