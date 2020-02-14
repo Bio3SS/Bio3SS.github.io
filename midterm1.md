@@ -3,13 +3,12 @@ layout: page
 title: Midterm 1
 ---
 
+{% comment %} 
 Midterm 1 will be held in class on Fri 6 Feb. Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
 The midterm will cover Units 1, 2, X and and sections 1 and 2 over Unit 3.
 
 * [Complete notes for the covered part of Unit 3](materials/nonlinear.cut.complete.pdf)
-
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -20,8 +19,9 @@ The midterm will focus primarily on Units 2 and 3, but _may_ also include _conce
 There will be 17 multiple-choice questions (worth 17 points in total) and two short-answer questions (worth 8 points in total).
 {% endcomment %} 
 
-{% comment %} 
 # Tests
+
+All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same. It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
 
 * [Version 1](materials/midterm1.1.test.pdf)
     * [Key](materials/midterm1.1.key.pdf)
@@ -37,18 +37,19 @@ There will be 17 multiple-choice questions (worth 17 points in total) and two sh
 
 * [Version 5](materials/midterm1.5.test.pdf)
     * [Key](materials/midterm1.5.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 # Resources
 
 Practice tests and study questions are provided as study aids and as a guide to the style of questons. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
+{% comment %} 
 Keys for old midterms will be shared on Tuesday. 
+{% endcomment %} 
 
 * [Test from 2019](materials/2019/midterm1.1.test.pdf)
     * [Key](materials/2019/midterm1.1.key.pdf)
-{% comment %} 
-{% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm1.1.test.pdf)
     * [Key](materials/2018/midterm1.1.key.pdf)
