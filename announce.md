@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Midterm grades posted
-slug: 3 Midterm grades posted
+title: This week's tutorials
+slug: 2 Tutorials
 ---
 
-Sorry for delay – my emails with the scantron office got lost somewhere between.
+This week's tutorials are optional. Feel free to come with questions about __R__ and/or course material.
