@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Population regulation assignment
+title: Midterm grades posted
 slug: 3 Midterm grades posted
 ---
 
