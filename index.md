@@ -45,8 +45,8 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit X: Coronavirus update](corona.html)
-{% comment %} 
 * [Unit 4: Structured populations models](structure.html)
+{% comment %} 
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
