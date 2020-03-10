@@ -45,8 +45,8 @@ Practice tests and study questions are provided as study aids. Material content 
 {% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm2.3.test.pdf) 
-{% comment %}
     * [Key](materials/2018/midterm2.3.key.pdf)
+{% comment %}
 {% endcomment %} 
 
 {% comment %}
