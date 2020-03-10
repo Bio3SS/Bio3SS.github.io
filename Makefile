@@ -12,6 +12,7 @@ current: target
 ## Local
 # http://localhost:4913/
 # make serve ##
+# psterm jekyll ##
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=315235
