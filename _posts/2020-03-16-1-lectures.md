@@ -4,7 +4,7 @@ title: Going forward
 slug: 1 lectures
 ---
 
-You will be aware that in-person classes and exams have been cancelled. We will attempt to continue 3SS online to the extent possible. I am optimistic that not much needs to change except the part about going to the classroom.
+You will be aware that McMaster has cancelled all in-person classes and exams. We will attempt to continue 3SS online to the extent possible. I am optimistic that not much needs to change except the part about going to the classroom.
 
-Lectures will take place online at the usual time. I will send more information today about tomorrow's lecture.
+For now, lectures will take place online at the usual time. I will send more information today about tomorrow's lecture.
 
