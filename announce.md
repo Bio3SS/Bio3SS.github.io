@@ -4,4 +4,4 @@ title: Complete notes
 slug: 3 Complete
 ---
 
-I've posted the [complete notes from the life history unit](materials/life_history.complete.pdf) for your reference
+I've posted the [complete notes from the life history unit](/materials/life_history.complete.pdf) for your reference
