@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bio 3SS plan
+title: This week's tutorials
 slug: 6 tutorials
 ---
 
