@@ -6,5 +6,5 @@ slug: 2 hours
 
 My office hours tomorrow are moved to 4:30-5:20, in my [zoom meeting room](https://mcmaster.zoom.us/j/6566254502).
 
-Sorry for inconvenience
+Sorry for inconvenience.
 
