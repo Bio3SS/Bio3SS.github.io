@@ -10,6 +10,8 @@ I still haven't heard from the University about getting a Webex room.
 
 In the meantime, I did mostly succeed in recording Wednesday's lecture. For those who weren't there, a lot of people had trouble hearing in the middle, so I restarted, which temporarily led to _more_ people _not_ hearing.
 
+Tuesday and Friday's lectures are gone ☹, but I am hopeful I can do better going forward.
+
 The recording is in two parts, and the second one is very long (and I guess mostly blank):
 
 * [Part 1](https://mcmaster.webex.com/mcmaster/ldr.php?RCID=029d583781da464fbc959d79a330c415)
