@@ -16,7 +16,7 @@ current: target
 
 ## Posting
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=315235
-# http://bio3ss.github.io?version=233
+# http://bio3ss.github.io?version=232
 
 ## Avenue main
 # https://avenue.cllmcmaster.ca/d2l/home/315235
