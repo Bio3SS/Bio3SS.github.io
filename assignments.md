@@ -41,10 +41,12 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% comment %} 
 * [Structured population assignment](/materials/structure.asn.pdf)
   * [key](/materials/structure.key.pdf)
+{% endcomment %} 
 
 * [Life-history assignment (not for credit)](/materials/interaction.asn.pdf)
   * [key](/materials/interaction.key.pdf)
 
 * [Competition assignment](/materials/competition.asn.pdf)
+{% comment %} 
   * [key](/materials/competition.key.pdf)
 {% endcomment %} 
