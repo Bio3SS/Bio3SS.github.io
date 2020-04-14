@@ -3,7 +3,6 @@ layout: page
 title: Midterm 2
 ---
 
-{% comment %} 
 # Tests
 
 * [Version 1](materials/midterm2.1.test.pdf)
@@ -20,11 +19,11 @@ title: Midterm 2
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
 Between 13 and 19 Mar, maybe? Think about lectures or sessional span?
-{% endcomment %} 
 
 Midterm 2 is on Fri 13 Mar. 
 
@@ -57,5 +56,4 @@ Practice tests and study questions are provided as study aids. Material content 
 
 * [Test from 2016](materials/2016/midterm2.3.test.pdf) 
     * [Key](materials/2016/midterm2.3.key.pdf)
-{% comment %} 
 {% endcomment %} 
