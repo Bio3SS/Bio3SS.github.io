@@ -43,8 +43,8 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
   * [key](/materials/structure.key.pdf)
 {% endcomment %} 
 
-* [Life-history assignment (not for credit)](/materials/interaction.asn.pdf)
-  * [key](/materials/interaction.key.pdf)
+* [Life-history assignment (not for credit)](/materials/life_history.asn.pdf)
+  * [key](/materials/life_history.key.pdf)
 
 * [Competition assignment](/materials/competition.asn.pdf)
 {% comment %} 
