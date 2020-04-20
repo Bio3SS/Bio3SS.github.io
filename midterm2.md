@@ -19,8 +19,6 @@ title: Midterm 2
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
-{% comment %} 
-{% endcomment %} 
 
 {% comment %} 
 Between 13 and 19 Mar, maybe? Think about lectures or sessional span?
@@ -31,12 +29,15 @@ The midterm will be _cumulative_, but with more emphasis on material not yet tes
 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
-{% comment %} 
 {% endcomment %} 
 
 # Resources
 
-Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it. Test keys will be released on Tuesday
+Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it. 
+
+{% comment %} 
+Test keys will be released on Tuesday
+{% endcomment %} 
 
 * [Test from 2019](materials/2019/midterm2.2.test.pdf) 
     * [Key](materials/2019/midterm2.2.key.pdf)
@@ -56,4 +57,3 @@ Practice tests and study questions are provided as study aids. Material content 
 
 * [Test from 2016](materials/2016/midterm2.3.test.pdf) 
     * [Key](materials/2016/midterm2.3.key.pdf)
-{% endcomment %} 
