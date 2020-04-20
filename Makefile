@@ -31,8 +31,12 @@ current: target
 
 Sources += $(wildcard *.md) updates.html
 
-Ignore += materials/*.final.*
+## Start term by reorganizing what's available; grab a copy of the previous final, since you probably haven't posted that yet.
+## Ignore += materials/*.final.*
 Sources += $(wildcard materials/*.*)
+Sources += $(wildcard materials/2019/*.*)
+Sources += $(wildcard materials/2018/*.*)
+Sources += $(wildcard materials/2017/*.*)
 
 subdirs += competition
 Ignore += $(subdirs) 
