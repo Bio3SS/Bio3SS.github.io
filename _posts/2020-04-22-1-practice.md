@@ -4,6 +4,8 @@ title: Practice test
 slug: 1 practice
 ---
 
-There is a [practice test](/practice.html) available. Please go through it either today (Tuesday) or tomorrow and let us know if you have any feedback on how we can do things better for the exam this coming Monday. 
+There is a [practice test](/practice.html) available. Please go through it today (Wednesday) if possible and let us know if you have any feedback on how we can do things better for the exam this coming Monday.
 
 You might want to take it as a serious practice. But the content is almost identical with the pdf exam from last year, so you also might want to just blast through it to familiarize yourself with the way that you will take the exam on Monday and see if you have any technical issues.
+
+The practice test will remain available for the rest of the week.
