@@ -17,4 +17,4 @@ To do the exam:
 
 The content is old, and some of the questions might be a bit hard based on this year's coverage. Try not to let that bother you.
 
-Please let us know of any technical or formatting issues we can address to make the final go more smoothly
+Please let us know of any technical or formatting issues we can address to make the final go more smoothly.
