@@ -5,6 +5,7 @@ title: Final exam
 
 {% comment %} 
 REVIEW test issues from FB and post warnings
+* Once you finish the exam, please [send me an email]( from your 
 {% endcomment %} 
 
 The final exam will be at 9 AM on Monday 27 April. It is scheduled for two hours. Further information will be forthcoming.
