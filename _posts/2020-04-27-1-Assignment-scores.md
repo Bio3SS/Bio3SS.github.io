@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exam instructions
+title: Assignment scores
 slug: 1 Assignment scores
 ---
 
