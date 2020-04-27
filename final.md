@@ -31,7 +31,9 @@ I will be available [on email](mailto:dushoff@mcmaster.ca) for the length of the
 
 Before Noon, please
 
-* [Email me](mailto:dushoff@mcmaster.ca) from your McMaster address to say "I certify I completed the 3SS exam without any assistance of any kind other than course notes."
+* [Email me](mailto:dushoff@mcmaster.ca) from your McMaster address to say "I certify that I completed the 3SS exam without any assistance of any kind other than course notes."
+
+Have a safe, sane and enjoyable summer!
 
 # Resources
 
