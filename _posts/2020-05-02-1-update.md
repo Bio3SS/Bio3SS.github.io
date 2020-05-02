@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment update
+title: Another assignment update
 slug: 1 update
 ---
 
