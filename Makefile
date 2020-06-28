@@ -63,6 +63,15 @@ announce.post: announce.md
 
 ######################################################################
 
+## Template import 2020 Jun 28 (Sun)
+
+## Get template from sources, incorporate immediately into outline
+Ignore += template.*
+template.md: template.docx
+	pandoc -o $@ $<
+
+######################################################################
+
 ## Logos
 
 zebras.jpg:

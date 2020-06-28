@@ -3,15 +3,13 @@ layout: page
 title: Overview
 ---
 
+__This page currently reflects information from Winter 2020.__ It will be updated in December.
 {% comment %} 
-__This page currently reflects (mostly) information from 2018.__ Updates are coming.
 {% endcomment %} 
 
+{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
-{% comment %} 
-{% endcomment %} 
-
 <ul class="post-list">
 	{% for post in site.posts limit:4 %}
 		<li>
@@ -21,17 +19,14 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 	{% endfor %}
 </ul>
 
-# [Older updates](updates.html)
-{% comment %} 
-{% endcomment %} 
 
 # Course information
 
 * [Official course outline](outline.html)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
-* [Teaching team](team.html) (includes office hour information)
 {% comment %} 
+* [Teaching team](team.html) (includes office hour information)
 * [Note takers](notes.html)
 {% endcomment %} 
 {% comment %} 
@@ -66,14 +61,12 @@ __This page currently reflects (mostly) information from 2018.__ Updates are com
 
 {% comment %} 
 REVIEW test issues from FB and post warnings
-{% endcomment %} 
 
 # Tests and assignments
 * [Assignments](assignments.html)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
-{% comment %} 
 {% endcomment %} 
 
 # Policies
