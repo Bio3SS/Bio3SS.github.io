@@ -18,6 +18,7 @@ __This page currently reflects information from Winter 2020.__ It will be update
 		</li>
 	{% endfor %}
 </ul>
+{% endcomment %} 
 
 
 # Course information
