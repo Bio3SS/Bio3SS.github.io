@@ -23,7 +23,7 @@ __This page currently reflects information from Winter 2020.__ It will be update
 
 # Course information
 
-* [Official course outline](outline.html)
+* [Official course outline](outline.pdf)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 {% comment %} 

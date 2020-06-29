@@ -67,8 +67,15 @@ announce.post: announce.md
 
 ## Get template from sources, incorporate immediately into outline
 Ignore += template.*
+
+## DON'T use this pipeline; Tania will munge it and their template does not have logical formatting
 template.md: template.docx
-	pandoc -o $@ $<
+	pandoc -t gfm -o $@ $<
+template.gh.html:
+
+## Need to switch to GD (angry face) and follow Rosa's format
+## git mv outline.md outline_notes.md ##
+Sources += outline.pdf
 
 ######################################################################
 
@@ -171,4 +178,8 @@ makestuff/Makefile:
 -include makestuff/os.mk
 -include makestuff/git.mk
 -include makestuff/visual.mk
+
+-include makestuff/pandoc.mk
+
 -include makestuff/projdir.mk
+
