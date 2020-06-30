@@ -70,7 +70,7 @@ Su Mo Tu We Th Fr Sa
 - Two midterms, 50% (25% each)
 {% comment %} 
 {% endcomment %} 
-	- __Fri 7 Feb and 13 Mar, in class__
+	- __Fri 12 Feb and 18 Mar, in class__
 - Final exam 40%
 	- Will be scheduled by the Registrar
 - Extra credit will be given for class participation
