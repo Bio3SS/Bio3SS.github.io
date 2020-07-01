@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Final exam
+title: Deferred exam
 ---
 
 {% comment %} 
 REVIEW test issues from FB and post warnings
 * Once you finish the exam, please [send me an email]( from your 
 
-The final exam will be at 9 AM on Monday 27 April. It is scheduled for two hours. Further information will be forthcoming.
+The exam will be at 9 AM on Monday 27 April. It is scheduled for two hours. Further information will be forthcoming.
 
 The exam is _cumulative_, but with extra emphasis on material not yet tested.
 
@@ -22,14 +22,15 @@ Before the test:
 * Make sure you have your calculator ready, and that you have a quiet place to work with good internet
 * Prepare to spend two hours out of touch with the rest of the world (just as you would for a regular exam)
 
-At 9:00 on Monday:
+At 10:00 AM on Thursday:
 
-* First, download and review the [resource sheet](/materials/final.resource.test.pdf)
+* First, download and review the [resource sheet](/materials/deferred.resource.test.pdf)
+	* This is not available yet, but will be on Thursday morning
 * Next, fill in the [exam on Avenue](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=115716&ou=315235)
 
 I will be available [on email](mailto:dushoff@mcmaster.ca) for the length of the test. Do not email anybody else during this time for any reason.
 
-Before Noon, please
+__When you finish__, please
 
 * [Email me](mailto:dushoff@mcmaster.ca) from your McMaster address to say "I certify that I completed the 3SS exam without any assistance of any kind other than course notes."
 

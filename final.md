@@ -22,9 +22,9 @@ Before the test:
 * Make sure you have your calculator ready, and that you have a quiet place to work with good internet
 * Prepare to spend two hours out of touch with the rest of the world (just as you would for a regular exam)
 
-At 10:00 AM on Wednesday 1 July:
+At 9:00 on Monday:
 
-* First, download and review the [resource sheet](/materials/deferred.resource.test.pdf)
+* First, download and review the [resource sheet](/materials/final.resource.test.pdf)
 * Next, fill in the [exam on Avenue](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quiz_summary.d2l?qi=115716&ou=315235)
 
 I will be available [on email](mailto:dushoff@mcmaster.ca) for the length of the test. Do not email anybody else during this time for any reason.
