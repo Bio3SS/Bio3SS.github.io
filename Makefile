@@ -74,6 +74,7 @@ template.md: template.docx
 template.gh.html:
 
 ## Need to switch to GD (angry face) and follow Rosa's format
+## https://docs.google.com/document/d/1c8fLGXmP4OaMiwOlP3LSUKx4R1f50kMgiSqasHiC3yU/edit
 ## git mv outline.md outline_notes.md ##
 Sources += outline.pdf
 
