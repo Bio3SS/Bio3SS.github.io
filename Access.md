@@ -31,8 +31,6 @@ _after the waiver-open date_,
 If you would like a waiver, please [send an email to dushoff@mcmaster.ca](mailto:dushoff@mcmaster.ca),
 explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please include your macid. 
 {% comment %}
-{% endcomment %}
-{% comment %}
 You must email after the opening date because I want to be sure that you are still interested before I ask an administrator to process your waiver. 
 {% endcomment %}
 
