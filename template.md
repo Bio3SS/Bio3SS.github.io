@@ -6,7 +6,7 @@
 
 **Course Details**
 
-**Instructor:** Jonathan Dushoff (dushoff@mcmaster.ca)
+**Instructor:** Jonathan Dushoff (dushoff\@mcmaster.ca)
 
 **Office hours:** TBA
 
@@ -19,9 +19,9 @@ selection and regulation of organisms by environmental and biological
 factors. An evolutionary view of predation, competition, life history
 schedules.
 
-  - > Three lectures, one tutorial (one hour); one term
+-   Three lectures, one tutorial (one hour); one term
 
-  - > Prerequisite(s): BIOLOGY 2F03 (or ISCI 2A18 A/B)
+-   Prerequisite(s): BIOLOGY 2F03 (or ISCI 2A18 A/B)
 
 We are currently planning for live lectures. These will be recorded and
 posted with closed captions. *The outline will be updated if live
@@ -34,63 +34,63 @@ applications to ecological problems.
 
 Students will learn about:
 
-  - > Dynamical modeling of populations
+-   Dynamical modeling of populations
 
-  - > Individual-based and population-based perspectives
+-   Individual-based and population-based perspectives
 
-  - > Quantitative aspects of inter-species interactions
+-   Quantitative aspects of inter-species interactions
 
 **Course Schedule**
 
 The course will cover the following topics:
 
-  - > Population dynamics
-    
-      - > Age structure and life history
-    
-      - > Human population growth
+-   Population dynamics
 
-  - > Competition
+    -   Age structure and life history
 
-  - > Exploitation
-    
-      - > Predator-prey relationships
-    
-      - > The spread of infectious disease
+    -   Human population growth
+
+-   Competition
+
+-   Exploitation
+
+    -   Predator-prey relationships
+
+    -   The spread of infectious disease
 
 **Course Materials**
 
-  - > The primary course material is the lectures, and associated
-    > lecture notes, available on AtL or on this site
-    
-      - > It is recommended to print the lecture notes and bring them to
+-   The primary course material is the lectures, and associated lecture
+    > notes, available on AtL or on this site
+
+    -   It is recommended to print the lecture notes and bring them to
         > class to make additional notes - Other readings will be
         > assigned
 
-  - > You will need an approved calculator for the tests; it is
+-   You will need an approved calculator for the tests; it is
     > recommended that you bring this to class as well.
 
-  - > You should install the free computer program R from the
-    > website [<span class="underline">http://www.r-project.org/</span>](http://www.r-project.org/) on
+-   You should install the free computer program R from the
+    > website [[http://www.r-project.org/]{.underline}](http://www.r-project.org/) on
     > a computer that you will be able to work with.
 
-  - > Additional readings will be made available on AtL
+-   Additional readings will be made available on AtL
 
 **Course Evaluation**
 
-  - > Assignments 10%
+-   Assignments 10%
 
-  - > Two midterms, 50% (25% each)
-    
-      - > **Fri 7 Feb and 13 Mar, in class**
+-   Two midterms, 50% (25% each)
 
-  - > Final exam 40%
-    
-      - > Will be scheduled by the Registrar
+    -   **Fri 7 Feb and 13 Mar, in class**
 
-  - > Extra credit will be given for class participation
+-   Final exam 40%
 
-  - > Tests will be *cumulative*, but will *emphasize new material* more
+    -   Will be scheduled by the Registrar
+
+-   Extra credit will be given for class participation
+
+-   Tests will be *cumulative*, but will *emphasize new material* more
     > than already-tested material
 
 **Academic Integrity**
@@ -99,28 +99,28 @@ The course will cover the following topics:
 > aspects of the learning process. Academic credentials you earn are
 > rooted in principles of honesty and academic integrity. **It is your
 > responsibility to understand what constitutes academic dishonesty.**
-> 
+>
 > Academic dishonesty is to knowingly act or fail to act in a way that
 > results or could result in unearned academic credit or advantage. This
 > behaviour can result in serious consequences, e.g. the grade of zero
 > on an assignment, loss of credit with a notation on the transcript
-> (notation reads: “Grade of F assigned for academic dishonesty”),
+> (notation reads: "Grade of F assigned for academic dishonesty"),
 > and/or suspension or expulsion from the university. For information on
 > the various types of academic dishonesty please refer to the
-> [*<span class="underline">Academic Integrity
-> Policy</span>*,](https://secretariat.mcmaster.ca/app/uploads/Academic-Integrity-Policy-1-1.pdf)
+> [*[Academic Integrity
+> Policy]{.underline}*,](https://secretariat.mcmaster.ca/app/uploads/Academic-Integrity-Policy-1-1.pdf)
 > located at
 > https://secretariat.mcmaster.ca/university-policies-procedures-
 > guidelines/
-> 
+>
 > The following illustrates only three forms of academic dishonesty:
 
-  - > plagiarism, e.g. the submission of work that is not one’s own or
-    > for which other credit has been obtained.
+-   plagiarism, e.g. the submission of work that is not one's own or for
+    > which other credit has been obtained.
 
-  - > improper collaboration in group work.
+-   improper collaboration in group work.
 
-  - > copying or using unauthorized aids in tests and examinations.
+-   copying or using unauthorized aids in tests and examinations.
 
 **Authenticity/Plagiarism Detection**
 
@@ -138,8 +138,8 @@ assignment is due. No penalty will be assigned to a student who does not
 submit work to the plagiarism detection software. **All submitted work
 is subject to normal verification that standards of academic integrity
 have been upheld** (e.g., on-line search, other software, etc.). For
-more details about McMaster’s use of Turnitin.com please go to
-[<span class="underline">www.mcmaster.ca/academicintegrity</span>.](http://www.mcmaster.ca/academicintegrity)
+more details about McMaster's use of Turnitin.com please go to
+[[www.mcmaster.ca/academicintegrity]{.underline}.](http://www.mcmaster.ca/academicintegrity)
 
 **Courses with an On-line Element**
 
@@ -155,7 +155,7 @@ on-line elements will be deemed consent to this disclosure. If you have
 any questions or concerns about such disclosure please discuss this with
 the course instructor.
 
-**  
+**\
 Online Proctoring**
 
 **Some courses may** use online proctoring software for tests and exams.
@@ -165,16 +165,15 @@ and/or lock/restrict their browser or other applications/software during
 tests or exams. This software may be required to be installed before the
 test/exam begins.
 
-**  
+**\
 Conduct Expectations**
 
 As a McMaster student, you have the right to experience, and the
 responsibility to demonstrate, respectful and dignified interactions
 within all of our living, learning and working communities. These
-expectations are described in the *[<span class="underline">Code of
-Student Rights &
-Responsibilities</span>](https://secretariat.mcmaster.ca/app/uploads/Code-of-Student-Rights-and-Responsibilities.pdf)*
-(the “Code”). All students share the responsibility of maintaining a
+expectations are described in the *[[Code of Student Rights &
+Responsibilities]{.underline}](https://secretariat.mcmaster.ca/app/uploads/Code-of-Student-Rights-and-Responsibilities.pdf)*
+(the "Code"). All students share the responsibility of maintaining a
 positive environment for the academic and personal growth of all
 McMaster community members, **whether in person or online.**
 
@@ -186,47 +185,47 @@ disruptions or behaviours that interfere with university functions on
 online platforms (e.g. use of Avenue 2 Learn, WebEx, Echo360, Microsoft
 Teams or Zoom for delivery), will be taken very seriously and will be
 investigated. Outcomes may include restriction or removal of the
-involved students’ access to these platforms.
+involved students' access to these platforms.
 
-**  
+**\
 Academic Accommodation of Students with Disabilities**
 
 Students with disabilities who require academic accommodation must
-contact [<span class="underline">Student Accessibility
-Services</span>](https://sas.mcmaster.ca/) (SAS) at 905-525-9140 ext.
-28652 or sas@mcmaster.ca to make arrangements with a Program
-Coordinator. For further information, consult McMaster University’s
-*[<span class="underline">Academic Accommodation of Students with
-Disabilities</span>](https://secretariat.mcmaster.ca/app/uploads/Academic-Accommodations-Policy.pdf)*
+contact [[Student Accessibility
+Services]{.underline}](https://sas.mcmaster.ca/) (SAS) at 905-525-9140
+ext. 28652 or sas\@mcmaster.ca to make arrangements with a Program
+Coordinator. For further information, consult McMaster University's
+*[[Academic Accommodation of Students with
+Disabilities]{.underline}](https://secretariat.mcmaster.ca/app/uploads/Academic-Accommodations-Policy.pdf)*
 policy.
 
-**  
+**\
 Requests for Relief for Missed Academic Term Work**
 
-<span class="underline">McMaster Student Absence Form (MSAF):</span> In
-the event of an absence for medical or other reasons, students should
-review and follow the Academic Regulation in the Undergraduate Calendar
-“Requests for Relief for Missed Academic Term Work”.
+[McMaster Student Absence Form (MSAF):]{.underline} In the event of an
+absence for medical or other reasons, students should review and follow
+the Academic Regulation in the Undergraduate Calendar "Requests for
+Relief for Missed Academic Term Work".
 
-View the [<span class="underline">McMaster Student Absence Form
-(MSAF)</span>](https://www.mcmaster.ca/msaf/) for more information.
+View the [[McMaster Student Absence Form
+(MSAF)]{.underline}](https://www.mcmaster.ca/msaf/) for more
+information.
 
-**  
+**\
 Academic Accommodation for Religious, Indigenous or Spiritual
 Observances (RISO)**
 
 Students requiring academic accommodation based on religious, indigenous
 or spiritual observances should follow the procedures set out in the
-[<span class="underline">RISO</span>](https://secretariat.mcmaster.ca/app/uploads/2019/02/Academic-Accommodation-for-Religious-Indigenous-and-Spiritual-Observances-Policy-on.pdf)
+[[RISO]{.underline}](https://secretariat.mcmaster.ca/app/uploads/2019/02/Academic-Accommodation-for-Religious-Indigenous-and-Spiritual-Observances-Policy-on.pdf)
 policy. Students should submit their request to their Faculty Office
 ***normally within 10 working days*** of the beginning of term in which
-they anticipate a need for accommodation
-<span class="underline">or</span> to the Registrar's Office prior to
-their examinations. Students should also contact their instructors as
-soon as possible to make alternative arrangements for classes,
-assignments, and tests.
+they anticipate a need for accommodation [or]{.underline} to the
+Registrar\'s Office prior to their examinations. Students should also
+contact their instructors as soon as possible to make alternative
+arrangements for classes, assignments, and tests.
 
-**  
+**\
 Copyright and Recording**
 
 Students are advised that lectures, demonstrations, performances, and
@@ -242,7 +241,7 @@ for the purpose of personal study. Students should be aware that their
 voice and/or image may be recorded by others during the class. Please
 speak with the instructor if this is a concern for you.
 
-**  
+**\
 Extreme Circumstances**
 
 The University reserves the right to change the dates and deadlines for
