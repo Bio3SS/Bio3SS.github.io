@@ -69,8 +69,7 @@ announce.post: announce.md
 Ignore += template.*
 
 ## DON'T use this pipeline; Tania will munge it and their template does not have logical formatting
-template.md: template.docx
-	pandoc -t gfm -o $@ $<
+## template.md: template.docx: pandoc -t gfm -o $@ $< ;
 template.gh.html:
 
 ## Need to switch to GD (angry face) and follow Rosa's format
