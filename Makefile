@@ -11,7 +11,7 @@ current: target
 
 ## Local
 # http://localhost:4913/
-# make serve ##
+# make serve ## jekyll.log ##
 # psterm jekyll ##
 
 ## Posting
