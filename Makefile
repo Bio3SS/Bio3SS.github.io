@@ -32,11 +32,18 @@ current: target
 Sources += $(wildcard *.md) updates.html
 
 ## Start term by reorganizing what's available; grab a copy of the previous final, since you probably haven't posted that yet.
+## 2021 Jan 05 (Tue) Not really sure what's up with 2020 test material since 
+## much of it was online
 ## Ignore += materials/*.final.*
 Sources += $(wildcard materials/*.*)
+Sources += $(wildcard materials/2020/*.*)
 Sources += $(wildcard materials/2019/*.*)
 Sources += $(wildcard materials/2018/*.*)
 Sources += $(wildcard materials/2017/*.*)
+## git rm -r materials/2017/ ##
+materials_archive:
+	mkdir materials/2020
+	git mv materials/*.* materials/2020
 
 subdirs += competition
 Ignore += $(subdirs) 
@@ -121,12 +128,6 @@ post_archive:
 _posts:
 	$(mkdir)
 
-## git rm -r materials/2017/ ##
-materials_archive:
-	mkdir materials/2019
-	git mv materials/*.* materials/2019
-Sources += $(wildcard materials/2018/*.*)
-Sources += $(wildcard materials/2019/*.*)
 
 ######################################################################
 

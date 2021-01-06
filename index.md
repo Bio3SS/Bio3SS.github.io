@@ -3,8 +3,10 @@ layout: page
 title: Overview
 ---
 
-__This page currently reflects information from Winter 2020.__ It will be updated in December.
+__This page is being updated for Winter 2021.
+
 {% comment %} 
+__This page currently reflects information from Winter 2020.__ It will be updated in December.
 {% endcomment %} 
 
 {% comment %} 
@@ -34,10 +36,10 @@ __This page currently reflects information from Winter 2020.__ It will be update
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
 
-
 # Course content
 
 * [Unit 1: Course introduction](intro.html)
+{% comment %} 
 * [Unit 2: Linear population models](linear.html)
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit X: Coronavirus update](corona.html)
@@ -45,7 +47,6 @@ __This page currently reflects information from Winter 2020.__ It will be update
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
-{% comment %} 
 * [Unit 8: Disease](disease.html)
 {% endcomment %} 
 
