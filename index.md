@@ -3,13 +3,12 @@ layout: page
 title: Overview
 ---
 
-__This page is being updated for Winter 2021.
+__This page is being updated for Winter 2021.__
 
 {% comment %} 
 __This page currently reflects information from Winter 2020.__ It will be updated in December.
 {% endcomment %} 
 
-{% comment %} 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
 <ul class="post-list">
@@ -20,8 +19,8 @@ __This page currently reflects information from Winter 2020.__ It will be update
 		</li>
 	{% endfor %}
 </ul>
+{% comment %} 
 {% endcomment %} 
-
 
 # Course information
 

@@ -15,11 +15,14 @@ current: target
 # psterm jekyll ##
 
 ## Posting
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=315235
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=371137
 # http://bio3ss.github.io?version=232
 
 ## Avenue main
-# https://avenue.cllmcmaster.ca/d2l/home/315235
+# https://avenue.cllmcmaster.ca/d2l/home/371137
+
+## Teams main
+## https://teams.microsoft.com/l/team/19%3a287c0954220846839d68910ac2084692%40thread.tacv2/conversations?groupId=eb56dbf5-4cb5-4f4c-b52e-c3efd7dda1c6&tenantId=44376307-b429-42ad-8c25-28cd496f4772
 
 ## To CP using keyboard?
 ## works with shift-arrows, V seems not helpful
@@ -30,20 +33,6 @@ current: target
 ## Content
 
 Sources += $(wildcard *.md) updates.html
-
-## Start term by reorganizing what's available; grab a copy of the previous final, since you probably haven't posted that yet.
-## 2021 Jan 05 (Tue) Not really sure what's up with 2020 test material since 
-## much of it was online
-## Ignore += materials/*.final.*
-Sources += $(wildcard materials/*.*)
-Sources += $(wildcard materials/2020/*.*)
-Sources += $(wildcard materials/2019/*.*)
-Sources += $(wildcard materials/2018/*.*)
-Sources += $(wildcard materials/2017/*.*)
-## git rm -r materials/2017/ ##
-materials_archive:
-	mkdir materials/2020
-	git mv materials/*.* materials/2020
 
 subdirs += competition
 Ignore += $(subdirs) 
@@ -119,14 +108,28 @@ mara.crop.jpg: mara.jpg Makefile
 
 ## Restarting the year
 
-Sources += 2019_posts.list
+Sources += 2020_posts.list
 post_archive:
-	git mv _posts _2019_posts
-	ls _2019_posts/* > 2019_posts.list
-	git rm 2018_posts.list 
+	git mv _posts _2020_posts
+	ls _2020_posts/* > 2020_posts.list
+	git rm 2019_posts.list 
 
 _posts:
 	$(mkdir)
+
+## Start term by reorganizing what's available; grab a copy of the previous final, since you probably haven't posted that yet.
+## 2021 Jan 05 (Tue) Not really sure what's up with 2020 test material since 
+## much of it was online
+## Ignore += materials/*.final.*
+Sources += $(wildcard materials/*.*)
+Sources += $(wildcard materials/2020/*.*)
+Sources += $(wildcard materials/2019/*.*)
+Sources += $(wildcard materials/2018/*.*)
+Sources += $(wildcard materials/2017/*.*)
+## git rm -r materials/2017/ ##
+materials_archive:
+	mkdir materials/2020
+	git mv materials/*.* materials/2020
 
 
 ######################################################################
