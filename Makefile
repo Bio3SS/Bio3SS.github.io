@@ -15,6 +15,7 @@ current: target
 # psterm jekyll ##
 
 ## Posting
+## https://avenue.mcmaster.ca/
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=371137
 # http://bio3ss.github.io?version=232
 
