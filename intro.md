@@ -3,8 +3,8 @@ layout: page
 title: Introductory unit
 ---
 
-{% comment %} 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
+{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
 {% endcomment %} 
 
