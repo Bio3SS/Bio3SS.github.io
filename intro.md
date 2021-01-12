@@ -4,6 +4,7 @@ title: Introductory unit
 ---
 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
+	* [docx version _use at your own risk_](/materials/intro.handouts.docx)
 {% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
 {% endcomment %} 
@@ -19,7 +20,7 @@ title: Introductory unit
 
 # Simulations
 
-* [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2020)
+* [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2021)
 * [Google spreadsheet info](spreadsheets.html)
 
 {% comment %} 
