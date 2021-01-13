@@ -27,6 +27,7 @@ __This page currently reflects information from Winter 2020.__ It will be update
 * [Official course outline](outline.pdf)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
+* [Teaching team](team.html)
 {% comment %} 
 * [Teaching team](team.html) (includes office hour information)
 * [Note takers](notes.html)

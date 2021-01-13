@@ -17,7 +17,7 @@ __Jonathan Dushoff__
 
 __Steve Cygu__
 
-* Tue 10:30AM, 12:30PM; Fri 10:30AM - 11:20AM
+* Tue 10:30AM, 12:30PM; Fri 10:30AM
 * [email](mailto:cygus@mcmaster.ca)
 
 __George Long__
