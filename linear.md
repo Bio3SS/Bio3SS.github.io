@@ -5,10 +5,11 @@ title: Unit 2
 
 # Content
 
-{% comment %} 
 * [Lecture notes](/materials/linear.handouts.pdf)
-  * [Complete version (not recommended for printing)](materials/linear.complete.pdf)
-  * [Large format](/materials/linear.large.pdf)
+	* [docx version _use at your own risk_](/materials/linear.handouts.docx)
+{% comment %} 
+	* [Complete version (not recommended for printing)](materials/linear.complete.pdf)
+	* [Large format](/materials/linear.large.pdf)
 {% endcomment %} 
 
 # Resources

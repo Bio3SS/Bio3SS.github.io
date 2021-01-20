@@ -40,8 +40,8 @@ __This page currently reflects information from Winter 2020.__ It will be update
 # Course content
 
 * [Unit 1: Course introduction](intro.html)
-{% comment %} 
 * [Unit 2: Linear population models](linear.html)
+{% comment %} 
 * [Unit 3: Non-linear population models](nonlinear.html)
 * [Unit X: Coronavirus update](corona.html)
 * [Unit 4: Structured populations models](structure.html)
