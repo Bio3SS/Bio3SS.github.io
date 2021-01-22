@@ -5,13 +5,13 @@ title: Introductory unit
 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
 	* [docx version _use at your own risk_](/materials/intro.handouts.docx)
-{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Math supplement (please review)](/materials/math.handouts.pdf)
-{% comment %} 
   * [Complete notes (for reference only, no need to print)](/materials/math.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -19,7 +19,7 @@ title: Introductory unit
 
 * [Tue 12 Jan](https://web.microsoftstream.com/video/a7d1f4f0-0e42-43ed-8777-5480846b80ec)
 * [Thu 14 Jan](https://web.microsoftstream.com/video/7716b37e-3003-4f7a-8b4f-75f81b822f1c)
-* [Thu 15 Jan](https://web.microsoftstream.com/video/a0516f0b-2298-4265-8175-568a7c4771ba)
+* [Fri 15 Jan](https://web.microsoftstream.com/video/a0516f0b-2298-4265-8175-568a7c4771ba)
 {% endcomment %} 
 
 ## Additional resource
