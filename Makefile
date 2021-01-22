@@ -18,7 +18,7 @@ current: target
 ## https://avenue.mcmaster.ca/
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=371137
 # http://bio3ss.github.io?version=232
-## https://teams.microsoft.com/l/team/19%3a287c0954220846839d68910ac2084692%40thread.tacv2/conversations?groupId=eb56dbf5-4cb5-4f4c-b52e-c3efd7dda1c6&tenantId=44376307-b429-42ad-8c25-28cd496f4772
+## https://teams.microsoft.com/l/channel/19%3a83bcf9115c5c4855bb3bfa19b43dd28d%40thread.tacv2/Introduction?groupId=eb56dbf5-4cb5-4f4c-b52e-c3efd7dda1c6&tenantId=44376307-b429-42ad-8c25-28cd496f4772
 
 ## Avenue main
 # https://avenue.cllmcmaster.ca/d2l/home/371137
