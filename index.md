@@ -62,11 +62,10 @@ __This page currently reflects information from Winter 2020.__ It will be update
 	disease.md
 {% endcomment %} 
 
-{% comment %} 
-REVIEW test issues from FB and post warnings
 
 # Tests and assignments
 * [Assignments](assignments.html)
+{% comment %} 
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)

@@ -12,11 +12,11 @@ _Please_ read these policies
 
 Also, here is [a rant](/rant.html) that I posted a few years ago when I was less mellow, or the students were less subtle. Make of it what you will.
 
+{% comment %} 
 ## Dropboxes
 
 On the first floor of the Life Sciences building. The "bank" of dropboxes is in two sections between Rooms 115 and 116, near the door to the lobby. Our dropboxes are on the lower right (one for each TA).
 
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -31,12 +31,14 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% endcomment %} 
 
 * [Population growth assignment](/materials/pg.asn.pdf)
-  * [key](materials/pg.key.pdf)
 {% comment %} 
+  * [key](materials/pg.key.pdf)
 {% endcomment %} 
 
+{% comment %} 
 * [Population regulation assignment](/materials/regulation.asn.pdf)
   * [key](/materials/regulation.key.pdf)
+{% endcomment %} 
 
 {% comment %} 
 * [Structured population assignment](/materials/structure.asn.pdf)
