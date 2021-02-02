@@ -10,7 +10,9 @@ title: Teaching team
 
 __Jonathan Dushoff__
 
-* Office hours TBA
+* Office hours:
+	* Mon 10:30-11:20
+	* Wed 9:30-10:20
 * or [email for an appointment](mailto:dushoff@mcmaster.ca)
 
 ## Tutorial TAs
