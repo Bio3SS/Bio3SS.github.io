@@ -15,7 +15,7 @@ current: target
 # psterm jekyll ##
 
 ## Posting
-## https://avenue.mcmaster.ca/
+## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
 # https://teams.microsoft.com/l/channel/19%3ad2cbbfd7f003419ea5071d2ceb626a2f%40thread.tacv2/Classroom?groupId=eb56dbf5-4cb5-4f4c-b52e-c3efd7dda1c6&tenantId=44376307-b429-42ad-8c25-28cd496f4772
 # https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=371137
 # http://bio3ss.github.io?version=231
