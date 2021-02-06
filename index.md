@@ -45,10 +45,10 @@ __This page currently reflects information from Winter 2020.__ It will be update
 {% comment %} 
 * [Unit X: Coronavirus update](corona.html)
 * [Unit 4: Structured populations models](structure.html)
+* [Unit 7: Predation](exploitation.html)
+* [Unit 8: Disease](disease.html)
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
-* [Unit 7: Exploitation](exploitation.html)
-* [Unit 8: Disease](disease.html)
 {% endcomment %} 
 
 {% comment %} 
