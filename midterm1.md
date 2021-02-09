@@ -19,6 +19,8 @@ The midterm will focus primarily on Units 2 and 3, but _may_ also include _conce
 There will be 17 multiple-choice questions (worth 17 points in total) and two short-answer questions (worth 8 points in total).
 {% endcomment %} 
 
+{% comment %} 
+
 # Tests
 
 All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same. It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
@@ -37,7 +39,6 @@ All versions are similar. MC questions are scrambled, but are otherwise the same
 
 * [Version 5](materials/midterm1.5.test.pdf)
     * [Key](materials/midterm1.5.key.pdf)
-{% comment %} 
 {% endcomment %} 
 
 # Resources
@@ -45,20 +46,27 @@ All versions are similar. MC questions are scrambled, but are otherwise the same
 Practice tests and study questions are provided as study aids and as a guide to the style of questons. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
 {% comment %} 
-Keys for old midterms will be shared on Tuesday. 
+{% endcomment %} 
+Keys for old midterms will be shared on Friday. 
+
+* [Test from 2020](materials/2020/midterm1.1.test.pdf)
+{% comment %} 
+    * [Key](materials/2019/midterm1.1.key.pdf)
 {% endcomment %} 
 
 * [Test from 2019](materials/2019/midterm1.1.test.pdf)
-    * [Key](materials/2019/midterm1.1.key.pdf)
-
-* [Test from 2018](materials/2018/midterm1.1.test.pdf)
-    * [Key](materials/2018/midterm1.1.key.pdf)
 {% comment %} 
+    * [Key](materials/2019/midterm1.1.key.pdf)
 {% endcomment %} 
 
+* [Test from 2018](materials/2018/midterm1.1.test.pdf)
+{% comment %} 
+    * [Key](materials/2018/midterm1.1.key.pdf)
+{% endcomment %} 
+
+{% comment %} 
 * [Test from 2017](materials/2017/midterm1.1.test.pdf)
     * [Key](materials/2017/midterm1.1.key.pdf)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
