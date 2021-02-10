@@ -3,11 +3,17 @@ layout: page
 title: Midterm 1
 ---
 
+Midterm 1 will be held during class time on Tue 23 Feb. Information about coverage and format will be posted as available.
 {% comment %} 
-Midterm 1 will be held in class on Fri 6 Feb. Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
+{% endcomment %} 
+
+{% comment %} 
+Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
 The midterm will cover Units 1, 2, X and and sections 1 and 2 over Unit 3.
+{% endcomment %} 
 
+{% comment %} 
 * [Complete notes for the covered part of Unit 3](materials/nonlinear.cut.complete.pdf)
 {% endcomment %} 
 

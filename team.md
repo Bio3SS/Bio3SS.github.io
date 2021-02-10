@@ -10,7 +10,7 @@ title: Teaching team
 
 __Jonathan Dushoff__
 
-* Office hours:
+* Office hours (in the [Study hall](https://teams.microsoft.com/l/channel/19%3aac5a398f46f0403a8d783022591e6fd1%40thread.tacv2/Study%2520hall)
 	* Mon 10:30-11:20
 	* Wed 9:30-10:20
 * or [email for an appointment](mailto:dushoff@mcmaster.ca)
