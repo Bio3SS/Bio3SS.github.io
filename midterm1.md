@@ -53,26 +53,25 @@ Practice tests and study questions are provided as study aids and as a guide to 
 
 {% comment %} 
 {% endcomment %} 
-Keys for old midterms will be shared on Friday. 
 
 * [Test from 2020](materials/2020/midterm1.1.test.pdf)
+    * [Key](materials/2020/midterm1.1.key.pdf)
 {% comment %} 
-    * [Key](materials/2019/midterm1.1.key.pdf)
 {% endcomment %} 
 
 * [Test from 2019](materials/2019/midterm1.1.test.pdf)
-{% comment %} 
     * [Key](materials/2019/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm1.1.test.pdf)
-{% comment %} 
     * [Key](materials/2018/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
-* [Test from 2017](materials/2017/midterm1.1.test.pdf)
     * [Key](materials/2017/midterm1.1.key.pdf)
+* [Test from 2017](materials/2017/midterm1.1.test.pdf)
 {% endcomment %} 
 
 {% comment %} 
