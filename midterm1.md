@@ -2,15 +2,23 @@
 layout: page
 title: Midterm 1
 ---
-
-Midterm 1 will be held during class time on Tue 23 Feb. Information about coverage and format will be posted as available.
 {% comment %} 
+Midterm 1 will be held during class time on Tue 23 Feb. Information about coverage and format will be posted as available.
 {% endcomment %} 
 
-{% comment %} 
-Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
+Midterm 1 will be held strictly during class time on Tue 23 Feb (8:30-9:20). 
+The midterm will cover Units 1, 2, and 3.
 
-The midterm will cover Units 1, 2, X and and sections 1 and 2 over Unit 3.
+There will be 25 MC questions, you should prepare a Mac-standard calculator.
+
+Preparation
+* Make sure you have your calculator ready, and that you have a quiet place to work with good internet
+* Prepare to spend an hour out of touch with the rest of the world (just as you would for a regular exam)
+* You may be asked to photograph or scan some of your answers. Be prepared.
+
+{% comment %} 
+There will be no attempts at intrusive monitoring. There will however be an honor statement, and you should take it seriously.
+Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 {% endcomment %} 
 
 {% comment %} 
