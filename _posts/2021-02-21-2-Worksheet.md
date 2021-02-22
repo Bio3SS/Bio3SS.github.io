@@ -8,5 +8,5 @@ slug: 2 Worksheet
 
 * Tutorials this week would usually be _mandatory_, and focus on making sure that you can run R so that you will be able to keep up with future assignments.
 
-Because our scheduling got mixed up (sorry), we understand that some of you won't want to worry about this before the test. But please do find time to make this work; or else communicate with us (ideally in the Study Hall channel).
+Because our scheduling got mixed up (sorry), we understand that some of you won't want to worry about this before the test. But please do find time to make this work; you can communicate with us if you need help (ideally in the Study Hall channel).
 
