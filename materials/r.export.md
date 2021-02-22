@@ -111,4 +111,3 @@ something else. For example, try typing:
 -   For more information on `bd`, see [The BirthDeath
     page](bd.export.html)
 -   Trouble? See [R troubleshooting](/trouble.html)
-
