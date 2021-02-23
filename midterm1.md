@@ -31,6 +31,7 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 * For questions having anything to do with content or meaning, please chat to me on Teams.
 * I will respond to most substantive questions on the [Teams midterm 1 channel](https://teams.microsoft.com/_#/school/conversations/Midterm%201?threadId=19:c3dfa92b76b14ccb80eb4b234054c7c6@thread.tacv2&ctx=channel); you might want to monitor it. If something seems important to me, I will use @channel (which should give you an alert if you have Teams on).
 * You should also use the [channel](https://teams.microsoft.com/_#/school/conversations/Midterm%201?threadId=19:c3dfa92b76b14ccb80eb4b234054c7c6@thread.tacv2&ctx=channel) for _technical_ questions that apply to _everyone's_ exam *you can't find something, you can't download something, etc.
+* Do not communicate with anybody in any other way during the test time
 
 ## Statement
 
