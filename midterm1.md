@@ -4,7 +4,6 @@ title: Midterm 1
 ---
 {% comment %} 
 Midterm 1 will be held during class time on Tue 23 Feb. Information about coverage and format will be posted as available.
-{% endcomment %} 
 
 Midterm 1 will be held strictly during class time on Tue 23 Feb (8:30-9:20). 
 The midterm will cover Units 1, 2, and 3.
@@ -14,13 +13,12 @@ There will be no attempts at intrusive monitoring. There will however be an hono
 ## Preparation
 * Make sure you have your Mac-standard calculator ready, and that you have a quiet place to work with good internet
 * Prepare to spend an hour out of touch with the rest of the world (just as you would for a regular exam)
-{% comment %} 
+
 * You may be asked to photograph or scan some of your answers. Be prepared.
 {% endcomment %} 
 
 {% comment %} 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
-{% endcomment %} 
 
 ## Test
 * Download and review the [resource sheet pdf (midterm1.resource.test)](https://avenue.cllmcmaster.ca/d2l/le/content/371137/Home) from Content/Midterm 1 on Avenue. This will be available at 8:25
@@ -32,6 +30,12 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 * I will respond to most substantive questions on the [Teams midterm 1 channel](https://teams.microsoft.com/_#/school/conversations/Midterm%201?threadId=19:c3dfa92b76b14ccb80eb4b234054c7c6@thread.tacv2&ctx=channel); you might want to monitor it. If something seems important to me, I will use @channel (which should give you an alert if you have Teams on).
 * You should also use the [channel](https://teams.microsoft.com/_#/school/conversations/Midterm%201?threadId=19:c3dfa92b76b14ccb80eb4b234054c7c6@thread.tacv2&ctx=channel) for _technical_ questions that apply to _everyone's_ exam *you can't find something, you can't download something, etc.
 * Do not communicate with anybody in any other way during the test time
+{% endcomment %} 
+
+## Test
+
+* [Paper-style version](materials/midterm1.test.pdf)
+    * [Key](materials/midterm1.key.pdf)
 
 ## Statement
 
