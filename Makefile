@@ -123,6 +123,7 @@ _posts:
 ## much of it was online
 ## Ignore += materials/*.final.*
 Sources += $(wildcard materials/*.*)
+Sources += $(wildcard materials/resources/*.*)
 Sources += $(wildcard materials/2020/*.*)
 Sources += $(wildcard materials/2019/*.*)
 Sources += $(wildcard materials/2018/*.*)
