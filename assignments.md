@@ -19,10 +19,6 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 
 {% endcomment %} 
 
-{% comment %} 
-* [Introduction to R worksheet (not for credit)](http://lalashan.mcmaster.ca/theobio/3SS/index.php/Introduction_to_R)
-{% endcomment %} 
-
 ## Content
 
 * [Introductory assignment (not for credit)](/materials/intro.asn.pdf)
@@ -35,13 +31,16 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% comment %} 
 {% endcomment %} 
 
-{% comment %} 
+* [Introduction to R worksheet (not for credit)](/materials/r.export.html).
+
 * [Population regulation assignment](/materials/regulation.asn.pdf)
+	* Key available Friday
+{% comment %} 
   * [key](/materials/regulation.key.pdf)
 {% endcomment %} 
 
-{% comment %} 
 * [Structured population assignment](/materials/structure.asn.pdf)
+{% comment %} 
   * [key](/materials/structure.key.pdf)
 {% endcomment %} 
 
