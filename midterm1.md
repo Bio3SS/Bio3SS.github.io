@@ -2,6 +2,7 @@
 layout: page
 title: Midterm 1
 ---
+
 {% comment %} 
 Midterm 1 will be held during class time on Tue 23 Feb. Information about coverage and format will be posted as available.
 
