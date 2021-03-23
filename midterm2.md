@@ -4,7 +4,7 @@ title: Midterm 2
 ---
 
 Information about coverage and format will be posted as available.
-The midterm will cover Units 4 and 5, and Unit 6 up to the beginning ot S2.2. 
+The midterm will cover Units 4 and 5, and Unit 6 up to the beginning of S2.2. 
 Units 1, 2, and 3 will be given relatively less emphasis, since they have already been tested.
 
 There will be no attempts at intrusive monitoring. There will however be an honor statement, and you should take it seriously. 
