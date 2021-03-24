@@ -55,18 +55,18 @@ Test keys will be released on Tuesday
 {% endcomment %} 
 
 * [Test from 2020](materials/2019/midterm2.1.test.pdf) 
-{% comment %}
     * [Key](materials/2019/midterm2.1.key.pdf)
+{% comment %}
 {% endcomment %} 
 
 * [Test from 2019](materials/2019/midterm2.2.test.pdf) 
-{% comment %}
     * [Key](materials/2019/midterm2.2.key.pdf)
+{% comment %}
 {% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm2.3.test.pdf) 
-{% comment %}
     * [Key](materials/2018/midterm2.3.key.pdf)
+{% comment %}
 {% endcomment %} 
 
 {% comment %}
