@@ -15,14 +15,15 @@ There will be no attempts at intrusive monitoring. There will however be an hono
 
 ## Test
 
-* Download and review the [resource sheet pdf (midterm2.resource.test)](https://avenue.cllmcmaster.ca/d2l/le/content/371137/Home) from Content/Midterm 2 on Avenue. This will be available at 8:25
+* Download and review the [resource sheet pdf (midterm2.resource.test)](https://avenue.cllmcmaster.ca/d2l/le/content/371137/viewContent/3129640/View) from Content/Midterm 2 on Avenue. This will be available at 8:25
 * Next, fill in the [test on Avenue](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quizzes_list.d2l?ou=371137). This will be available at 8:30
 * The normal test time is 45 minutes; because of possible internet issues, I have alloted 50 (+2 minute grace period); you should make every effort to finish on time.
 
 ## Contact
 * For questions having anything to do with content or meaning, please chat to me on Teams.
-* I will respond to most substantive questions on the [Teams midterm 2 channel](https://teams.microsoft.com/_#/school/conversations/Midterm%201?threadId=19:c3dfa92b76b14ccb80eb4b234054c7c6@thread.tacv2&ctx=channel); you might want to monitor it. If something seems important to me, I will use @channel (which should give you an alert if you have Teams on).
-* You should also use the [channel](https://teams.microsoft.com/_#/school/conversations/Midterm%201?threadId=19:c3dfa92b76b14ccb80eb4b234054c7c6@thread.tacv2&ctx=channel) for _technical_ questions that apply to _everyone's_ exam *you can't find something, you can't download something, etc.
+* I will respond to most substantive questions on the [Teams midterm 2 channel](https://teams.microsoft.com/l/channel/19%3ae436585c048446d9b15242c64ca85d9b%40thread.tacv2/Midterm%25202?groupId=eb56dbf5-4cb5-4f4c-b52e-c3efd7dda1c6&tenantId=44376307-b429-42ad-8c25-28cd496f4772); you might want to monitor it. If something seems important to me, I will use @channel (which should give you an alert if you have Teams on).
+* You should also use the [channel](https://teams.microsoft.com/l/channel/19%3ae436585c048446d9b15242c64ca85d9b%40thread.tacv2/Midterm%25202?groupId=eb56dbf5-4cb5-4f4c-b52e-c3efd7dda1c6&tenantId=44376307-b429-42ad-8c25-28cd496f4772) for _technical_ questions that apply to _everyone's_ exam 
+	* you can't find something, you can't download something, etc.
 * Do not communicate with anybody in any other way during the test time
 
 ## Statement
