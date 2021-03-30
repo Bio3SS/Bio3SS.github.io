@@ -9,7 +9,7 @@ current: target
 
 ######################################################################
 
-# make serve ## jekyll.log ##
+# make serve > jekyll.log ##
 # psterm jekyll ##
 
 ## Posting
