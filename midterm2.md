@@ -3,6 +3,8 @@ layout: page
 title: Midterm 2
 ---
 
+
+{% comment %} 
 Information about coverage and format will be posted as available.
 The midterm will cover Units 4 and 5, and Unit 6 up to the beginning of S2.2. 
 Units 1, 2, and 3 will be given relatively less emphasis, since they have already been tested.
@@ -26,6 +28,8 @@ There will be no attempts at intrusive monitoring. There will however be an hono
 	* you can't find something, you can't download something, etc.
 * Do not communicate with anybody in any other way during the test time
 
+{% endcomment %} 
+
 ## Statement
 
 Within two hours of completing your test, please:
@@ -35,12 +39,12 @@ Within two hours of completing your test, please:
 I take the honor statement seriously, and trust that you will, too.
 Your test _will not be graded_ without it.
 
+# This year's test
+
+* [pdf version](materials/midterm2.test.pdf)
+    * [Key](materials/midterm2.key.pdf)
+
 {% comment %} 
-
-# Tests
-
-* [Version 1](materials/midterm2.1.test.pdf)
-    * [Key](materials/midterm2.1.key.pdf)
 
 * [Version 2](materials/midterm2.2.test.pdf)
     * [Key](materials/midterm2.2.key.pdf)
