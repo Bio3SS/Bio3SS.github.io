@@ -34,9 +34,9 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 * [Introduction to R worksheet (not for credit)](/materials/r.export.html).
 
 * [Population regulation assignment](/materials/regulation.asn.pdf)
-	* Key available Friday
-{% comment %} 
   * [key](/materials/regulation.key.pdf)
+{% comment %} 
+	* Key available Friday
 {% endcomment %} 
 
 * [Structured population assignment](/materials/structure.asn.pdf)
