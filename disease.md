@@ -5,14 +5,12 @@ title: Unit 8
 
 # Content
 
-* [Lecture notes](materials/disease.handouts.pdf)
 {% comment %} 
-    * [Large format](materials/disease.large.pdf)
+NOTE that there are different slidesets for this unit (disease, infection, corona)
 {% endcomment %} 
-    * [Complete notes](materials/disease.complete.pdf)
 
-# Resources
-
-* The suggested reading is:
-  * Molles and Cahill, Second (or Third) Canadian Edition, 15.1, 15.2
-
+* [Lecture notes](materials/infection.handouts.pdf)
+{% comment %} 
+    * [Large format](materials/infection.large.pdf)
+    * [Complete notes](materials/infection.complete.pdf)
+{% endcomment %} 
