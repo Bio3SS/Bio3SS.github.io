@@ -46,9 +46,7 @@ __This page currently reflects information from Winter 2020.__ It will be update
 * [Unit 5: Life history](life_history.html)
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
-{% comment %} 
 * [Unit 8: Disease](disease.html)
-{% endcomment %} 
 {% comment %} 
 * [Unit X: Coronavirus update](corona.html)
 {% endcomment %} 
