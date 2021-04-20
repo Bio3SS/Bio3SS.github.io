@@ -6,15 +6,17 @@ title: Final exam
 {% comment %} 
 REVIEW test issues from FB and post warnings
 * Once you finish the exam, please [send me an email]( from your 
+{% endcomment %} 
 
-The final exam will be at 9 AM on Monday 27 April. It is scheduled for two hours. Further information will be forthcoming.
+The final exam will be at 7:30 PM on Monday 26 April. It is scheduled for two hours. 
 
 The exam is _cumulative_, but with extra emphasis on material not yet tested.
 
 There will be 40 MC questions, you should prepare a Mac-standard calculator.
 
 There will be no attempts at intrusive monitoring. There will be an honor statement, and you should take it seriously.
-{% endcomment %} 
+
+{% comment %} 
 
 # Instructions
 
@@ -34,21 +36,29 @@ Before Noon, please
 * [Email me](mailto:dushoff@mcmaster.ca) from your McMaster address to say "I certify that I completed the 3SS exam without any assistance of any kind other than course notes."
 
 Have a safe, sane and enjoyable summer!
+{% endcomment %} 
 
 # Resources
 
-* Below are some previous final exams. The length and style of questions will be matched by this year's final, but the material covered will be slightly different. Don't worry if there are things there that I didn't quite cover this year.
+* Below are some previous final exams. The length and style of questions will be matched by this year's final, but the material covered will be slightly different. Don't worry if there are things there that I didn't quite cover this year. Keys will be released mid-week.
+
+* [2020](materials/2020/final.x.test.pdf)
+{% comment %} 
+	* [key](/materials/2020/)
+{% endcomment %} 
 
 * [2019](/materials/2019/final.1.test.pdf)
+{% comment %} 
 	* [key](/materials/2019/final.1.key.pdf)
+{% endcomment %} 
 
 * [2018](/materials/2018/final.1.test.pdf)
+{% comment %} 
 	* [key](/materials/2018/final.1.key.pdf)
 	* Answer 21 is wrong (this was fixed in the grading stage)
 
 * [2017](/materials/2017/final.1.test.pdf)
 	* [key](/materials/2017/final.1.key.pdf)
-{% comment %} 
 
 # Content
 
