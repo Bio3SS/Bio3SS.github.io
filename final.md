@@ -38,23 +38,22 @@ Have a safe, sane and enjoyable summer!
 * Below are some previous final exams. The length and style of questions will be matched by this year's final, but the material covered will be slightly different. Don't worry if there are things there that I didn't quite cover this year. Keys will be released mid-week.
 
 * [2020](materials/2020/final.test.pdf)
-{% comment %} 
 	* [key](materials/2020/final.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [2019](/materials/2019/final.1.test.pdf)
-{% comment %} 
 	* [key](/materials/2019/final.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [2018](/materials/2018/final.1.test.pdf)
-{% comment %} 
 	* [key](/materials/2018/final.1.key.pdf) Answer 21 is wrong (fixed in grading)
+{% comment %} 
 {% endcomment %} 
 
 * [A mystery test (no key available)](materials/2020/final.x.test.pdf)
 {% comment %} 
-	* [key](/materials/2020/)
 {% endcomment %} 
 
 {% comment %} 
