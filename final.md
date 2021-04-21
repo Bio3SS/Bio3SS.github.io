@@ -3,11 +3,6 @@ layout: page
 title: Final exam
 ---
 
-{% comment %} 
-REVIEW test issues from FB and post warnings
-* Once you finish the exam, please [send me an email]( from your 
-{% endcomment %} 
-
 The final exam will be at 7:30 PM on Monday 26 April. It is scheduled for two hours. 
 
 The exam is _cumulative_, but with extra emphasis on material not yet tested.
@@ -62,9 +57,12 @@ Have a safe, sane and enjoyable summer!
 	* [key](/materials/2020/)
 {% endcomment %} 
 
+{% comment %} 
 * [2017](/materials/2017/final.1.test.pdf)
 	* [key](/materials/2017/final.1.key.pdf)
+{% endcomment %} 
 
+{% comment %} 
 # Content
 
 Questions can be hard to classify. The exam questions will _approximately_ break down as follows:
