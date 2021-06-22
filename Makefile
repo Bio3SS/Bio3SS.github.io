@@ -10,8 +10,8 @@ current: target
 ######################################################################
 ## Posting
 
+Ignore += .jekyll-cache
 # psterm jekyll ##
-
 # make serve ## jekyll.log ##
 
 ## cw ##
