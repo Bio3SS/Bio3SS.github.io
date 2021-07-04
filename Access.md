@@ -11,11 +11,11 @@ Don't worry if you don't have Avenue access yet; everything you need should be o
 
 # Waivers 
 
+{% comment %}
 If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
 Waivers for Jan 2022 are not yet available. I will open the waiver process at some point between 30 Sep (if enrollment is low) and 31 Dec (if enrollment is high). I will announce a date in early September.
-{% comment %}
-I will open the waivers process on 30 Sep.
 {% endcomment %}
+I will open the waivers process for 2021 on 1 Sep.
 
 You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M) and an upper-level course with some relationship to evolution or ecology.
 
@@ -25,7 +25,7 @@ This is no longer available, and nobody was paying attention!
 {% endcomment %}
 
 If you would like a waiver, please [send an email to dushoff@mcmaster.ca](mailto:dushoff@mcmaster.ca),
-explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please include your macid. 
+explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please include your macid (that's the email address; you never need to send me your student number)
 You must email _after_ the opening date (not now!) because I want to be sure that you are still interested before I ask an administrator to process your waiver. 
 {% comment %}
 {% endcomment %}
