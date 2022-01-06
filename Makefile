@@ -110,11 +110,11 @@ mara.crop.jpg: mara.jpg Makefile
 
 ## Restarting the year
 
-Sources += 2020_posts.list
+Sources += Oldposts.list
 post_archive:
-	git mv _posts _2020_posts
-	ls _2020_posts/* > 2020_posts.list
-	git rm 2019_posts.list 
+	git rm -r Oldposts
+	git mv _posts Oldposts
+	ls Oldposts/* > Oldposts.list
 
 _posts:
 	$(mkdir)

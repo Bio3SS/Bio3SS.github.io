@@ -22,8 +22,8 @@ There will be no attempts at intrusive monitoring. There will however be an hono
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
 ## Test
-* Download and review the [resource sheet pdf (midterm1.resource.test)](https://avenue.cllmcmaster.ca/d2l/le/content/371137/Home) from Content/Midterm 1 on Avenue. This will be available at 8:25
-* Next, fill in the [test on Avenue](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quizzes_list.d2l?ou=371137). This will be available at 8:30
+* Download and review the [resource sheet pdf (midterm1.resource.test)](https://avenue.cllmcmaster.ca/d2l/le/content/413706/Home) from Content/Midterm 1 on Avenue. This will be available at 8:25
+* Next, fill in the [test on Avenue](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quizzes_list.d2l?ou=413706). This will be available at 8:30
 * The normal test time is 45 minutes; because of possible internet issues, I have alloted 50 (+1 minute grace period); you should make every effort to finish on time.
 
 ## Contact
