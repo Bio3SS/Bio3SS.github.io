@@ -14,3 +14,5 @@ I will post all announcements in three places:
 * The [course resource page](/index.html); this is where I actually organize the course
 * The [course Avenue page](https://avenue.cllmcmaster.ca/d2l/home/413706); this is where I'm used to getting people's attention
 * The [course Team](https://teams.microsoft.com/l/team/19%3apv40J-1SM7O8BP6oXpEQ6a0dgaMRzyngCWh62OIyhEQ1%40thread.tacv2/conversations?groupId=88fcb621-4c4c-4603-b746-737c99b739ad&tenantId=44376307-b429-42ad-8c25-28cd496f4772); this is where lectures are held and where we should try to have two-way communication.
+
+This is for your convenience. You should never need to look at the same content twice (if you've seen a post in one place, the posts in the other two places will be identical).
