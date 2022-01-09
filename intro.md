@@ -3,15 +3,15 @@ layout: page
 title: Introductory unit
 ---
 
-{% comment %} 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
+{% comment %} 
 	* [docx version _use at your own risk_](/materials/intro.handouts.docx)
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
 {% endcomment %} 
 
-{% comment %} 
 * [Math supplement (please review)](/materials/math.handouts.pdf)
   * [Complete notes (for reference only, no need to print)](/materials/math.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 ## Additional resource

@@ -3,9 +3,9 @@ layout: page
 title: Overview
 ---
 
+{% comment %} 
 __This page in _not_ updated for Winter 2022 yet.__
 
-{% comment %} 
 __This page currently reflects information from Winter 2020.__ It will be updated in December.
 {% endcomment %} 
 
