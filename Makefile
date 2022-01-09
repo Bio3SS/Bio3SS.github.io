@@ -133,6 +133,10 @@ materials_archive:
 	mkdir materials/2020
 	git mv materials/*.* materials/2020
 
+######################################################################
+
+## Stuff you want to share from others
+Sources += $(wildcard postings/*.*)
 
 ######################################################################
 
