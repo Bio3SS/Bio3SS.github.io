@@ -12,7 +12,7 @@ current: target
 
 # psterm jekyll ##
 
-# make serve > jekyll.log ##
+# make serve ## jekyll.log ##
 
 ## cw ##
 # http://localhost:4913/
