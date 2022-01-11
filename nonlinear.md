@@ -5,9 +5,9 @@ title: Unit 3
 
 # Content
 
+{% comment %} 
 * [Lecture notes](/materials/nonlinear.handouts.pdf)
   * [Complete version (not recommended for printing)](/materials/nonlinear.complete.pdf)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
