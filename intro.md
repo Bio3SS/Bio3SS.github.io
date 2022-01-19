@@ -4,14 +4,15 @@ title: Introductory unit
 ---
 
 * [Handouts (please print and bring to class)](/materials/intro.handouts.pdf)
-{% comment %} 
-	* [docx version _use at your own risk_](/materials/intro.handouts.docx)
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
-{% endcomment %} 
 
 * [Math supplement (please review)](/materials/math.handouts.pdf)
-  * [Complete notes (for reference only, no need to print)](/materials/math.complete.pdf)
 {% comment %} 
+  * [Completed supplement (for reference only, no need to print)](/materials/math.complete.pdf)
+{% endcomment %} 
+
+{% comment %} 
+	* [docx version _use at your own risk_](/materials/intro.handouts.docx)
 {% endcomment %} 
 
 ## Additional resource
