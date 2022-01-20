@@ -4,4 +4,4 @@ title: Linear population models
 slug: 1_linear_notes
 ---
 
-[Handouts](/materials/linear.handouts.pdf) for the [Introductory unit](/linear) are now available.
+[Handouts](/materials/linear.handouts.pdf) for the [Linear populations unit](/linear) are now available.
