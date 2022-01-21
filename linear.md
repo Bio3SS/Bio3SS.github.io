@@ -5,10 +5,13 @@ title: Unit 2
 
 # Content
 
-{% comment %} 
 * [Lecture notes](/materials/linear.handouts.pdf)
-	* [docx version _use at your own risk_](/materials/linear.handouts.docx)
+{% comment %} 
 	* [Complete version (not recommended for printing)](materials/linear.complete.pdf)
+{% endcomment %} 
+
+{% comment %} 
+	* [docx version _use at your own risk_](/materials/linear.handouts.docx)
 	* [Large format](/materials/linear.large.pdf)
 {% endcomment %} 
 
@@ -26,8 +29,8 @@ title: Unit 2
 
 # Simulations
 
+* [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2022)
 {% comment %} 
-* [The Dandelion spreadsheet](http://tinyurl.com/DandelionModel2021)
 * [The Moth spreadsheet](http://tinyurl.com/MothModel2016) (http://tinyurl.com/MothModel2016)
 {% endcomment %} 
 * [Google spreadsheets](spreadsheets.html)
