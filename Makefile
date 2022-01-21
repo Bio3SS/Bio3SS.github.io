@@ -14,8 +14,6 @@ Ignore += .jekyll-cache
 # psterm jekyll ##
 # make serve ## jekyll.log ##
 
-# make serve ## jekyll.log ##
-
 ## cw ##
 # http://localhost:4913/
 ## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue
