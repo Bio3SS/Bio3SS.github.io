@@ -18,8 +18,8 @@ __This page currently reflects information from Winter 2022.__
 		</li>
 	{% endfor %}
 </ul>
-{% comment %} 
 # [Older updates](updates.html)
+{% comment %} 
 {% endcomment %} 
 
 # Course information
