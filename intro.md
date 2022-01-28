@@ -7,8 +7,8 @@ title: Introductory unit
   * [Complete notes (for reference only, no need to print)](/materials/intro.complete.pdf)
 
 * [Math supplement (please review)](/materials/math.handouts.pdf)
-{% comment %} 
   * [Completed supplement (for reference only, no need to print)](/materials/math.complete.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
