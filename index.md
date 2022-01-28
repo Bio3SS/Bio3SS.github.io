@@ -4,9 +4,8 @@ title: Overview
 ---
 
 {% comment %} 
-__This page in _not_ updated for Winter 2022 yet.__
 
-__This page currently reflects information from Winter 2020.__ It will be updated in December.
+__This page currently reflects information from Winter 2022.__
 {% endcomment %} 
 
 # Updates (newest at top)
