@@ -3,6 +3,21 @@ layout: page
 title: Assignments
 ---
 
+## Assignments 
+
+Most weeks we will have a short-ish assignment. The current not-for-credit assignment is probably a good example.  We will skip exam weeks, and only about half of the assignments will be marked for credit.
+
+You should plan to take time every week to do the assignment, whether we will mark it or not.
+
+The _current_ plan is to _release_ for-credit assignments on:
+
+* 30 Jan
+* 27 Feb
+* 6 Mar
+* 25 Mar
+
+The plan will depend on how busy the course team is.
+
 ## Policies
 
 _Please_ read these policies
@@ -27,21 +42,23 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% endcomment %} 
 
 * [Population growth assignment](/materials/pg.asn.pdf)
-  * [key](materials/pg.key.pdf)
 {% comment %} 
+  * [key](materials/pg.key.pdf)
 {% endcomment %} 
 
+{% comment %} 
 * [Introduction to R worksheet (not for credit)](/materials/r.export.html).
+{% endcomment %} 
 
+{% comment %} 
 * [Population regulation assignment](/materials/regulation.asn.pdf)
   * [key](/materials/regulation.key.pdf)
-{% comment %} 
 	* Key available Friday
 {% endcomment %} 
 
+{% comment %} 
 * [Structured population assignment](/materials/structure.asn.pdf)
   * [key](/materials/structure.key.pdf)
-{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
@@ -49,7 +66,7 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
   * [key](/materials/life_history.key.pdf)
 {% endcomment %} 
 
+{% comment %} 
 * [Competition assignment](/materials/competition.asn.pdf)
   * [key](/materials/competition.key.pdf)
-{% comment %} 
 {% endcomment %} 
