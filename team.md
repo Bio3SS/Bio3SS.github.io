@@ -20,6 +20,7 @@ __Jonathan Dushoff__
 __Celine Lajoie__
 
 * Contact via Teams chat
+* Or [email](mailto:lajoic1@mcmaster.ca)
 
 ## Questions
 
