@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Assignment due date
-slug: 1_due_dates
+title: Return to classroom
+slug: 1_return
 ---
 
-[Assignments are due on Fridays](/assignments)
-
-Because I failed to update the web site in a timely fashion, however, the _current_ assignment will be accepted without penalty until Monday noon (and accepted with reason and penalty until Tuesday noon).
+Starting next week, you are encouraged to join lectures and tutorials in person.
