@@ -5,7 +5,9 @@ title: Practice materials
 
 Practice tests and study questions are provided as study aids and as a guide to the style of questions in the course. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
-## Midterms ## 
+## Midterm 1 ## 
+
+Answers keys will be made available on Wed.
 
 * [Test from 2021](materials/2021/midterm1.test.pdf)
 {% comment %} 
@@ -23,8 +25,8 @@ Practice tests and study questions are provided as study aids and as a guide to 
 {% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm1.1.test.pdf)
-    * [Key](materials/2018/midterm1.1.key.pdf)
 {% comment %} 
+    * [Key](materials/2018/midterm1.1.key.pdf)
 {% endcomment %} 
 
 {% comment %} 
