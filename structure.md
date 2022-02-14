@@ -5,8 +5,8 @@ title: Unit 4
 
 # Content
 
-{% comment %} 
 * [Lecture notes](materials/structure.handouts.pdf)
+{% comment %} 
   * [Complete version](materials/structure.complete.pdf)
 {% endcomment %} 
 
