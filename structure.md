@@ -6,6 +6,7 @@ title: Unit 4
 # Content
 
 * [Lecture notes](materials/structure.handouts.pdf)
+  * [Midterm notes](materials/structure.cut.complete.pdf)
 {% comment %} 
   * [Complete version](materials/structure.complete.pdf)
 {% endcomment %} 
