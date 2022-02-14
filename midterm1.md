@@ -3,24 +3,11 @@ layout: page
 title: Midterm 1
 ---
 
-{% comment %} 
-Midterm 1 will be held during class time on Tue 23 Feb. Information about coverage and format will be posted as available.
+Midterm 1 will be held during class time on Fri 19 Feb. It will cover Units 1-3 and parts of Unit 4; coverage and format will be finalized on Monday.
 
-Midterm 1 will be held strictly during class time on Tue 23 Feb (8:30-9:20). 
-The midterm will cover Units 1, 2, and 3.
-
-There will be no attempts at intrusive monitoring. There will however be an honor statement, and you should take it seriously. Because of logistical issues raised by students, you will not be asked to photograph your work.
-
-## Preparation
-* Make sure you have your Mac-standard calculator ready, and that you have a quiet place to work with good internet
-* Prepare to spend an hour out of touch with the rest of the world (just as you would for a regular exam)
-
-* You may be asked to photograph or scan some of your answers. Be prepared.
-{% endcomment %} 
-
-{% comment %} 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
+{% comment %} 
 ## Test
 * Download and review the [resource sheet pdf (midterm1.resource.test)](https://avenue.cllmcmaster.ca/d2l/le/content/413706/Home) from Content/Midterm 1 on Avenue. This will be available at 8:25
 * Next, fill in the [test on Avenue](https://avenue.cllmcmaster.ca/d2l/lms/quizzing/user/quizzes_list.d2l?ou=413706). This will be available at 8:30
@@ -33,11 +20,14 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 * Do not communicate with anybody in any other way during the test time
 {% endcomment %} 
 
+{% comment %} 
 ## Test
 
 * [Paper-style version](materials/midterm1.test.pdf)
     * [Key](materials/midterm1.key.pdf)
+{% endcomment %} 
 
+{% comment %} 
 ## Statement
 
 Within two hours of completing your test, please:
@@ -47,7 +37,6 @@ Within two hours of completing your test, please:
 I take the honor statement seriously, and trust that you will, too.
 Your test _will not be graded_ without it.
 
-{% comment %} 
 * [Complete notes for the covered part of Unit 3](materials/nonlinear.cut.complete.pdf)
 {% endcomment %} 
 
@@ -83,43 +72,4 @@ All versions are similar. MC questions are scrambled, but are otherwise the same
 
 ## Resources
 
-Practice tests and study questions are provided as study aids and as a guide to the style of questons. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
-
-{% comment %} 
-{% endcomment %} 
-
-* [Test from 2020](materials/2020/midterm1.1.test.pdf)
-    * [Key](materials/2020/midterm1.1.key.pdf)
-{% comment %} 
-{% endcomment %} 
-
-* [Test from 2019](materials/2019/midterm1.1.test.pdf)
-    * [Key](materials/2019/midterm1.1.key.pdf)
-{% comment %} 
-{% endcomment %} 
-
-* [Test from 2018](materials/2018/midterm1.1.test.pdf)
-    * [Key](materials/2018/midterm1.1.key.pdf)
-{% comment %} 
-{% endcomment %} 
-
-{% comment %} 
-    * [Key](materials/2017/midterm1.1.key.pdf)
-* [Test from 2017](materials/2017/midterm1.1.test.pdf)
-{% endcomment %} 
-
-{% comment %} 
-* [Test from 2016](materials/2016/midterm1.1.test.pdf)
-    * [Key](materials/2016/midterm1.1.key.pdf)
-{% endcomment %} 
-
-{% comment %} 
-* [Test from 2015](http://lalashan.mcmaster.ca/3SS/midterm1.1.test.pdf)
-  * [Key](http://lalashan.mcmaster.ca/3SS/midterm1.1.key.pdf)
-
-* [Some study questions](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.test.pdf)
-  * [Key](http://lalashan.mcmaster.ca/3SS/2014/midterm1sq.key.pdf)
-
-* [An older test](http://lalashan.mcmaster.ca/3SS/2015/midterm13.test.pdf)
-  * [Key](http://lalashan.mcmaster.ca/3SS/2015/midterm13.key.pdf)
-{% endcomment %} 
+See [practice page](practice) for practice questions.
