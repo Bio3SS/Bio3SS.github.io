@@ -7,7 +7,12 @@ Practice tests and study questions are provided as study aids and as a guide to 
 
 ## Midterm 1 ## 
 
+{% comment %} 
 Answers keys will be made available on Wed.
+{% endcomment %} 
+
+* [Life table supplement](materials/life.test.pdf)
+    * [Key](materials/life.key.pdf)
 
 * [Test from 2021](materials/2021/midterm1.test.pdf)
     * [Key](materials/2021/midterm1.key.pdf)
