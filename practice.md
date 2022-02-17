@@ -10,23 +10,23 @@ Practice tests and study questions are provided as study aids and as a guide to 
 Answers keys will be made available on Wed.
 
 * [Test from 2021](materials/2021/midterm1.test.pdf)
-{% comment %} 
     * [Key](materials/2021/midterm1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Test from 2020](materials/2020/midterm1.1.test.pdf)
-{% comment %} 
     * [Key](materials/2020/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Test from 2019](materials/2019/midterm1.1.test.pdf)
-{% comment %} 
     * [Key](materials/2019/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 * [Test from 2018](materials/2018/midterm1.1.test.pdf)
-{% comment %} 
     * [Key](materials/2018/midterm1.1.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
