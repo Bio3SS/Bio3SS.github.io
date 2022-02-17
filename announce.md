@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Midterm coverage
-slug: 1 coverage
+title: Midterm information
+slug: 1 midterm
 ---
 
-[Midterm 1](/midterm1) will cover material through the end of Monday's class (i.e., through the end of the just-posted [midterm notes](/materials/structure.cut.complete.pdf) for [Unit 4](/structure)).
+We have updated the [midterm 1 page](/midterm1) page. Please ask questions in the Teams Classroom channel, or Chat at Dushoff if you prefer privacy.
