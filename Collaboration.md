@@ -17,8 +17,7 @@ The best way to communicate about assignments is _verbally_.  Do not take any sp
 
 # Electronic and other written communication 
 
-* _No_ electronic or other _written_ communications about assignments are allowed, _except_ on:
-  * [The class Avenue to Learn site]({{site.avenue}})
+* _No_ electronic or other _written_ communications about assignments are allowed, _except_ on the class Teams site.
 
 * Communications there should follow the guidelines above:
   * _general_ discussion of how to do things.
