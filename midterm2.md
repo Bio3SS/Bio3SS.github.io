@@ -77,6 +77,12 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it. 
 
 {% comment %} 
+This all seems a mess!
+{% endcomment %} 
+
+{% comment %} 
+pdfjam -o materials/life.test.pdf materials/2019/midterm2.1.test.pdf 1,7 ##
+pdfjam -o materials/life.key.pdf materials/2019/midterm2.1.key.pdf 5,6 ##
 {% endcomment %} 
 
 * [Test from 2020](materials/2019/midterm2.1.test.pdf) 
@@ -93,6 +99,8 @@ Practice tests and study questions are provided as study aids. Material content 
     * [Key](materials/2018/midterm2.3.key.pdf)
 {% comment %}
 {% endcomment %} 
+
+* [Life table example](materials/
 
 {% comment %}
 2017 was apparently posted in 2019, but now it's gone?

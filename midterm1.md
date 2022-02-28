@@ -3,9 +3,13 @@ layout: page
 title: Midterm 1
 ---
 
-Midterm 1 will be held during class time on Fri 19 Feb. It will cover Units 1-3 and parts of Unit 4; coverage and format will be finalized on Monday.
+{% comment %} 
+Midterm 1 will be held in our classroom during class time on Fri 19 Feb. It will cover Units 1-3 and parts of Unit 4.
+
+There will be 20 multiple-choice questions (worth 20 points in total) and five points worth of short-answer questions.
 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
+{% endcomment %} 
 
 {% comment %} 
 ## Test
@@ -40,19 +44,14 @@ Your test _will not be graded_ without it.
 * [Complete notes for the covered part of Unit 3](materials/nonlinear.cut.complete.pdf)
 {% endcomment %} 
 
-{% comment %} 
-The midterm will focus primarily on Units 2 and 3, but _may_ also include _conceptual_ questions from Sections 1 and 2 of Unit 4 (no calculations will be required from Unit 4).
-
-* [Complete notes for the covered part of Unit 3 (not intended for printing)](/materials/structure_prelim.complete.pdf)
-
-There will be 17 multiple-choice questions (worth 17 points in total) and two short-answer questions (worth 8 points in total).
-{% endcomment %} 
-
-{% comment %} 
 
 ## Tests
 
-All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same. It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
+All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same.
+
+{% comment %} 
+It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
+{% endcomment %} 
 
 * [Version 1](materials/midterm1.1.test.pdf)
     * [Key](materials/midterm1.1.key.pdf)
@@ -63,6 +62,7 @@ All versions are similar. MC questions are scrambled, but are otherwise the same
 * [Version 3](materials/midterm1.3.test.pdf)
     * [Key](materials/midterm1.3.key.pdf)
 
+{% comment %} 
 * [Version 4](materials/midterm1.4.test.pdf)
     * [Key](materials/midterm1.4.key.pdf)
 
