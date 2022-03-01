@@ -5,11 +5,12 @@ title: Unit 5
 
 # Content
 
-{% comment %} 
 * [Lecture notes](/materials/life_history.handouts.pdf)
-    * [Complete notes](materials/life_history.complete.pdf)
+   * [Provisional complete notes](materials/life_history.cut.complete.pdf)
+{% comment %} 
+   * [Complete notes](materials/life_history.complete.pdf)
 	* [Midterm notes](materials/life_history.cut.complete.pdf)
-    * [Large format](/materials/life_history.large.pdf)
+   * [Large format](/materials/life_history.large.pdf)
 {% endcomment %} 
 
 # Resources
