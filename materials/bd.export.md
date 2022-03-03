@@ -19,7 +19,7 @@ installed with your version of R. If you are not sure, type:
 
 **You only have to do this once per installation of R.** If you want,
 you can skip this step and come back if you get an error saying you do
-not have deSolve.
+not have the package deSolve.
 
 Loading
 =======
@@ -28,14 +28,12 @@ To load `bd`, type:
 
     source("https://raw.githubusercontent.com/Bio3SS/Exponential_figures/master/bd.R") 
 
-    ## Loading required package: deSolve
-
 This should work if you are connected to the internet. `source` is a
 function; it tells R to load some information. The thing inside the
 parentheses is an argument; it tells R what information to load.
 
 You can also open [the
-file](https://raw.githubusercontent.com/Bio3SS/Birth_death_models/master/bd.R)
+file](https://raw.githubusercontent.com/Bio3SS/Exponential_figures/master/bd.R)
 directly. It’s a good idea to open it directly if you want to work on
 this project somewhere without an internet connection.
 
