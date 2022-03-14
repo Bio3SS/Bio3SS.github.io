@@ -15,6 +15,7 @@ while(<>){
 	last if /^---/;
 }
 
+## I'm parsing the yaml myself!
 while(<>){
 	last if /^---/;
 	chomp;
@@ -24,5 +25,6 @@ while(<>){
 }
 
 $att{slug} =~ s/ /-/g;
+## $att{slug} =~ "$att{slug}_$att{title}
 
 say "cp $fn _posts/$att{date}-$att{slug}.$ext";
