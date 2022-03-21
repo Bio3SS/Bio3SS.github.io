@@ -3,7 +3,6 @@ layout: page
 title: Midterm 2
 ---
 
-
 {% comment %} 
 Information about coverage and format will be posted as available.
 The midterm will cover Units 4 and 5, and Unit 6 up to the beginning of S2.2. 
@@ -30,6 +29,8 @@ There will be no attempts at intrusive monitoring. There will however be an hono
 
 {% endcomment %} 
 
+{% comment %} 
+
 ## Statement
 
 Within two hours of completing your test, please:
@@ -43,8 +44,6 @@ Your test _will not be graded_ without it.
 
 * [pdf version](materials/midterm2.test.pdf)
     * [Key](materials/midterm2.key.pdf)
-
-{% comment %} 
 
 * [Version 2](materials/midterm2.2.test.pdf)
     * [Key](materials/midterm2.2.key.pdf)
@@ -99,8 +98,6 @@ pdfjam -o materials/life.key.pdf materials/2019/midterm2.1.key.pdf 5,6 ##
     * [Key](materials/2018/midterm2.3.key.pdf)
 {% comment %}
 {% endcomment %} 
-
-* [Life table example](materials/
 
 {% comment %}
 2017 was apparently posted in 2019, but now it's gone?

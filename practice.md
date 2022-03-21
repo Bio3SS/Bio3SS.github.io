@@ -50,3 +50,44 @@ Answers keys will be made available on Wed.
 * [An older test](http://lalashan.mcmaster.ca/3SS/2015/midterm13.test.pdf)
   * [Key](http://lalashan.mcmaster.ca/3SS/2015/midterm13.key.pdf)
 {% endcomment %} 
+
+## Midterm 2 ## 
+
+* [Test from 2021](materials/2021/midterm2.test.pdf) 
+{% comment %}
+    * [Key](materials/2021/midterm2.key.pdf)
+{% endcomment %} 
+
+* [Test from 2020](materials/2020/midterm2.1.test.pdf) 
+{% comment %}
+    * [Key](materials/2020/midterm2.1.key.pdf)
+{% endcomment %} 
+
+* [Test from 2019](materials/2019/midterm2.2.test.pdf) 
+{% comment %}
+    * [Key](materials/2019/midterm2.2.key.pdf)
+{% endcomment %} 
+
+* [Test from 2018](materials/2018/midterm2.3.test.pdf) 
+{% comment %}
+    * [Key](materials/2018/midterm2.3.key.pdf)
+{% endcomment %} 
+
+## Final ## 
+
+* [Test from 2020](materials/2020/final.test.pdf)
+{% comment %}
+	* [Key](materials/2020/final.key.pdf)
+{% endcomment %} 
+* [Test from 2019](materials/2019/final.1.test.pdf)
+{% comment %}
+	* [Key](materials/2019/final.1.key.pdf)
+{% endcomment %} 
+* [Test from 2018](materials/2018/final.1.test.pdf)
+{% comment %}
+	* [Key](materials/2018/final.1.key.pdf)
+{% endcomment %} 
+* [Test from 2017](materials/2017/final.1.test.pdf)
+{% comment %}
+	* [Key](materials/2017/final.1.key.pdf)
+{% endcomment %} 
