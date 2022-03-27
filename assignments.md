@@ -9,14 +9,21 @@ Most weeks we will have a short-ish assignment. The current not-for-credit assig
 
 You should plan to take time every week to do the assignment, whether we will mark it or not.
 
-The _current_ plan is to _release_ for-credit assignments on:
+The original plan was to _release_ for-credit assignments on:
+{% comment %} 
+The current plan is to _release_ for-credit assignments on:
+{% endcomment %} 
 
 * 30 Jan
 * 27 Feb
 * 6 Mar
-* 25 Mar
+* 27 Mar
 
+The 6 Mar was changed to not-for-credit because of time constraints
+
+{% comment %} 
 The plan will depend on how busy the course team is.
+{% endcomment %} 
 
 ## Policies
 
@@ -51,22 +58,22 @@ On the first floor of the Life Sciences building. The "bank" of dropboxes is in 
 {% endcomment %} 
 
 * [Population regulation assignment](materials/regulation.asn.pdf)
-{% comment %} 
   * [key](/materials/regulation.key.pdf)
+{% comment %} 
 	* Key available Friday
 {% endcomment %} 
 
-{% comment %} 
 * [Structured population assignment](/materials/structure.asn.pdf)
   * [key](/materials/structure.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
-{% comment %} 
 * [Life-history assignment (not for credit)](/materials/life_history.asn.pdf)
   * [key](/materials/life_history.key.pdf)
+{% comment %} 
 {% endcomment %} 
 
-{% comment %} 
 * [Competition assignment](/materials/competition.asn.pdf)
+{% comment %} 
   * [key](/materials/competition.key.pdf)
 {% endcomment %} 
