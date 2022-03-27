@@ -46,9 +46,6 @@ __This page currently reflects information from Winter 2022.__
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
 * [Unit 8: Disease](disease.html)
-{% comment %} 
-* [Unit X: Coronavirus update](corona.html)
-{% endcomment %} 
 
 {% comment %} 
 	intro.md

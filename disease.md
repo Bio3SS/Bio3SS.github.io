@@ -11,8 +11,8 @@ NOTE ⇒ JD: there are different slidesets for this unit (disease, infection, co
 Note that lecture notes go beyond the end of the class material (we ran out of time). The class (and complete notes) end at the end of section 3.
 {% endcomment %} 
 
+* [Lecture notes](materials/disease.handouts.pdf)
 {% comment %} 
-* [Lecture notes](materials/infection.handouts.pdf)
     * [Complete notes](materials/infection.complete.pdf)
     * [Large format](materials/infection.large.pdf)
 {% endcomment %} 
