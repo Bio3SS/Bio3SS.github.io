@@ -36,7 +36,7 @@ Ignore += .jekyll-cache
 
 Sources += $(wildcard *.md) updates.html
 
-subdirs += competition
+subdirs += compAsn explAsn
 Ignore += $(subdirs) 
 
 ## Was this necessary?
