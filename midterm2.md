@@ -14,15 +14,11 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 
 * [Practice page](practice)
 
-{% comment %} 
-{% endcomment %} 
-
-{% comment %} 
 
 # This year's test
 
-* [pdf version](materials/midterm2.test.pdf)
-    * [Key](materials/midterm2.key.pdf)
+* [pdf version](materials/midterm2.1.test.pdf)
+    * [Key](materials/midterm2.1.key.pdf)
 
 * [Version 2](materials/midterm2.2.test.pdf)
     * [Key](materials/midterm2.2.key.pdf)
@@ -30,6 +26,7 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 * [Version 3](materials/midterm2.3.test.pdf)
     * [Key](materials/midterm2.3.key.pdf)
 
+{% comment %} 
 * [Version 4](materials/midterm2.4.test.pdf)
     * [Key](materials/midterm2.4.key.pdf)
 
@@ -41,13 +38,6 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 Between 13 and 19 Mar, maybe? Think about lectures or sessional span?
 {% endcomment %} 
 
-{% comment %} 
-
-# Resources
-
-Practice tests and study questions are provided as study aids. Material content and coverage will change slightly from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it. 
-
-{% endcomment %} 
 
 {% comment %} 
 pdfjam -o materials/life.test.pdf materials/2019/midterm2.1.test.pdf 1,7 ##
