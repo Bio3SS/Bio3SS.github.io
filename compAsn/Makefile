@@ -1,3 +1,4 @@
+# This is the competition subdirectory of Bio3SS web
 # http://localhost:4913/
 # http://localhost:4913/announce.html
 # http://bio3ss.github.io
