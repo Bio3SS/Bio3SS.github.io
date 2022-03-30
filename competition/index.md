@@ -56,7 +56,7 @@ One time plot for each orbit on the phase plots:
 
 ### Don't worry
 
-Depending on how R is set up, it will probably show a blank plot window
+Depending on how R is set up, it may show a blank plot window
 first when you run `compPlots`. Just hit enter to see the first plot,
 and so on.
 
@@ -82,7 +82,6 @@ To see the arguments for compPlots, type
 args(compPlots)
 ```
 
-
 ### What the arguments do
 
 (units in parens)
@@ -100,3 +99,7 @@ args(compPlots)
     (indiv1, indiv2)
 -   `MaxTime`: How long to simulate (t)
 -   `steps`: Number of points to plot in simulation (1)
+
+### Plot format
+
+rstudio built-in plot windows are unpredictable. If you're having trouble with the plot looking squashed, or the fonts looking too big, you can launch a "regular" R plot window using `dev.new()`
