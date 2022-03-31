@@ -36,10 +36,10 @@ Ignore += .jekyll-cache
 
 Sources += $(wildcard *.md) updates.html
 
-subdirs += compAsn explAsn
-Ignore += $(subdirs) 
+## move competition to compCode next time (already promulgated assignment!)
+subdirs += competition explCode 
 
-## Was this necessary?
+Ignore += $(subdirs) 
 alldirs += $(subdirs)
 alldirs += makestuff
 
