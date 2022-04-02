@@ -1,0 +1,94 @@
+
+== Intro ==
+See also [[Introduction to R]] page.
+
+== Loading ==
+To load compPlots, type
+
+<source-file filename="load.R" display="load.Rout">
+source ("http://lalashan.mcmaster.ca/3SS/comp.R")
+</source-file>
+
+
+You can also [http://lalashan.mcmaster.ca/3SS/comp.R open the file directly] (see [[Problems with source]]).  It's a good idea to open it directly if you want to work on this project somewhere without an internet connection. 
+
+=== A new library ===
+
+<code>compPlots</code> uses a library called deSolve, which may not be installed with your version of R.  If you are not sure, type:
+
+<source-file filename="library.R" display="source">
+install.packages("deSolve")
+</source-file>
+
+You only have to do this once per installation of R.  You may have already done this in an earlier assignment.
+
+== Sample plots ==
+
+If we say, for example:
+
+<source-file filename="try.R" display="source">
+library(deSolve)
+compPlots(x1=c(0.2, 0.4, 0.8), x2=c(0.8, 0.4, 0.2)
+	, K1=200, alp12=1, alp21=1
+)
+</source-file>
+
+=== Phase plots ===
+
+<project-file filename="try.Rout-0.png"/>
+
+==== Log scale ====
+
+The same data as the plot above; only the scale is different.
+<project-file filename="try.Rout-1.png"/>
+
+=== Time plots ===
+
+One time plot for each orbit on the phase plots:
+
+<project-file filename="try.Rout-2.png"/>
+
+<project-file filename="try.Rout-3.png"/>
+
+<project-file filename="try.Rout-4.png"/>
+
+=== Don't worry ===
+
+Depending on how R is set up, it will probably show a blank plot window first when you run <code>compPlots</code>.  Just hit enter to see the first plot, and so on.
+
+== Basic idea ==
+
+<code>compPlots</code> simulates a simple system with two competing species.  You should be able to document dominance, coexistence and mutual exclusion.  If you give lists for x1 and x2 (see strange format above), it puts all of the simulations onto the same phase plot, but makes a different time plot for each simulation.
+
+Note that <code>compPlots</code> simulates for only as long as you tell it to using MaxTime; if you suspect it hasn't reached the end, MaxTime can be increased (you should first look at the default value below for reference).
+
+== Arguments ==
+
+To see the arguments for compPlots, type
+<source-file filename="args.R" display="args.Rout">
+args(compPlots)
+</source-file>
+
+=== What the arguments do ===
+
+(units in parens)
+
+=== Parameters ===
+* <code>r1, r2</code>: $$r_\mbox{max}$$ for each species (1/t)
+* <code>K1, K2</code>: equilibrium value for each species when alone (indiv1, indiv2)
+* <code>alp12, alp21</code>: cross-species competitive effects
+
+=== Simulation ===
+* <code>x1, x2</code>: starting point(s) for simulations.
+* <code>MaxTime</code>: How long to simulate (t)
+* <code>steps</code>: Number of points to plot in simulation (1) 
+
+== Machinery ==
+
+The code below makes the page work.  You don't need it at all, but are free to look if you are curious.
+
+<source-file filename="Makefile" display="source">
+try.Rout args.Rout: %.Rout: load.R %.R
+	$(run-R)
+</source-file>
+

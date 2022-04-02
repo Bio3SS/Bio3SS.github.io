@@ -3,10 +3,9 @@ layout: page
 title: Overview
 ---
 
-__This page is _not_ updated for Winter 2022 yet.__
-
 {% comment %} 
-__This page currently reflects information from Winter 2020.__ It will be updated in December.
+
+__This page currently reflects information from Winter 2022.__
 {% endcomment %} 
 
 # Updates (newest at top)
@@ -47,9 +46,6 @@ __This page currently reflects information from Winter 2020.__ It will be update
 * [Unit 6: Competition](competition.html)
 * [Unit 7: Exploitation](exploitation.html)
 * [Unit 8: Disease](disease.html)
-{% comment %} 
-* [Unit X: Coronavirus update](corona.html)
-{% endcomment %} 
 
 {% comment %} 
 	intro.md
@@ -65,10 +61,11 @@ __This page currently reflects information from Winter 2020.__ It will be update
 
 # Tests and assignments
 * [Assignments](assignments.html)
+* [Practice materials](practice)
 * [Midterm 1](midterm1.html)
 * [Midterm 2](midterm2.html)
-* [Final exam](final.html)
 {% comment %} 
+* [Final exam](final.html)
 {% endcomment %} 
 
 # Policies

@@ -15,7 +15,7 @@ I could choose to:
 
 All of those would make the class less pleasant for everyone.
 
-I have been told directly that tutorials “aren't mandatory” because we don't take attendance or punish people who don't attend. Wrong. Tutorials are mandatory because I say so, and you are expected to make a good-faith effort to follow the rules. The same applies to [class](/sorry.html) and tutorial attendance, and to using electronics in class. You should make all reasonable attempts to follow the rules (without me needing to enforce them), for the good of:
+I have been told directly that tutorials “aren't mandatory” because we don't take attendance or punish people who don't attend. Wrong. Tutorials are mandatory because I say so, and you are expected to make a good-faith effort to follow the rules. The same applies to class and tutorial attendance, and to using electronics in class. You should make all reasonable attempts to follow the rules (without me needing to enforce them), for the good of:
 
 * yourselves
 * your classmates
@@ -23,3 +23,6 @@ I have been told directly that tutorials “aren't mandatory” because we don't
 
 Thank you for your attention.
 
+{% comment %} 
+[class](/sorry.html)
+{% endcomment %} 

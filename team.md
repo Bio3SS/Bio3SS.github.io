@@ -10,24 +10,20 @@ title: Teaching team
 
 __Jonathan Dushoff__
 
-* Office hours (in the [Study hall](https://teams.microsoft.com/l/channel/19%3aac5a398f46f0403a8d783022591e6fd1%40thread.tacv2/Study%2520hall))
-	* Mon 10:30-11:20
-	* Wed 9:30-10:20
-* or [email for an appointment](mailto:dushoff@mcmaster.ca)
+* Office hours (in the [Office hours channel](https://teams.microsoft.com/l/channel/19%3a775900bb09884c3ca60c783b249cfb55%40thread.tacv2/Office%2520hours?groupId=88fcb621-4c4c-4603-b746-737c99b739ad&tenantId=44376307-b429-42ad-8c25-28cd496f4772))
+	* Tue 11:30–12:20
+	* Thu 9:30–10:20
+* or contact via Teams chat
 
-## Tutorial TAs
+## TA
 
-__Steve Cygu__
+__Celine Lajoie__
 
-* Tue 10:30AM, 12:30PM; Fri 10:30AM
-* [email](mailto:cygus@mcmaster.ca)
-
-__George Long__
-* Mon 2:30PM; Thu 3:30PM
-* [email](mailto:longg2@mcmaster.ca)
+* Contact via Teams chat
+* Or [email](mailto:lajoic1@mcmaster.ca)
 
 ## Questions
 
-Questions should be submitted on Teams (_Classroom_ for administrative questions and _Study hall_ for more substantive questions). Feel free to tag some or all of us with your question.
+* Questions should be submitted on Teams (_Classroom_ for administrative questions and unit channels for more substantive questions). Feel free to tag some or all of us with your question.
 
-If you really want to email us with a question, please use a subject that starts with "3SS", and is informative about your question.
+* If you don't want to share your question with others, you can ask Dushoff on Teams chat.

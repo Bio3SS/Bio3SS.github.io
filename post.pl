@@ -15,6 +15,7 @@ while(<>){
 	last if /^---/;
 }
 
+## I'm parsing the yaml myself!
 while(<>){
 	last if /^---/;
 	chomp;
@@ -23,6 +24,8 @@ while(<>){
 	}
 }
 
+## The slug is parsed here, but is also used by Jekyll and can't be just an integer
+$att{slug} = "$att{slug}-$att{title}";
 $att{slug} =~ s/ /-/g;
 
 say "cp $fn _posts/$att{date}-$att{slug}.$ext";

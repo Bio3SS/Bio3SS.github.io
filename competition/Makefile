@@ -15,21 +15,22 @@ Sources += Makefile
 
 ms = makestuff
 -include local.mk
--include $(ms)/os.mk
+-include makestuff/os.mk
 
-Makefile: $(ms)
-$(ms): 
+Makefile: | makestuff
+makestuff: 
 	ls -d ../makestuff && /bin/ln -fs ../makestuff .
 
-Ignore += $(ms)
+Ignore += makestuff
 
--include $(ms)/perl.def
+-include makestuff/perl.def
 
 ##################################################################
 
 ## Content
 
-Sources += index.md 
+Sources += index.md index.mw
+# index.md: index.mw
 
 Ignore += index.R
 index.R: index.md
@@ -38,15 +39,13 @@ index.R: index.md
 index.Rout: index.md
 
 indexFiles += index.Rout-0.png index.Rout-1.png index.Rout-2.png index.Rout-3.png index.Rout-4.png
-
-### Temporarily disable (need codedown)
-### Sources += $(indexFiles)
+Sources += $(indexFiles)
 index.update: index.md $(indexFiles) ;
 
 ######################################################################
 
--include $(ms)/git.mk
--include $(ms)/visual.mk
+-include makestuff/git.mk
+-include makestuff/visual.mk
 
--include $(ms)/wrapR.mk
-# -include $(ms)/oldlatex.mk
+-include makestuff/wrapR.mk
+# -include makestuff/oldlatex.mk
