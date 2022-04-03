@@ -6,14 +6,15 @@ title: explPlots
 To load explPlots, type
 
 ``` R
-source ("https://raw.githubusercontent.com/Bio3SS/Competition_models/master/comp.R")
+source ("https://github.com/Bio3SS/Exploitation_models/raw/master/exploitation.R")
 ```
 
-You can also [open the file directly](https://raw.githubusercontent.com/Bio3SS/Competition_models/master/comp.R). It's a good idea to open it directly if you want to work on this project somewhere without an internet connection.
+You can also [open the file directly](https://github.com/Bio3SS/Exploitation_models/raw/master/exploitation.R)
+It's a good idea to open it directly if you want to work on this project somewhere without an internet connection.
 
 ### A new library
 
-`compPlots` uses a library called deSolve, which may not be installed
+`explPlots` uses a library called deSolve, which may not be installed
 with your version of R. If you are not sure, type:
 
 ``` RR
@@ -30,9 +31,7 @@ If we say, for example:
 
 ``` R
 library(deSolve)
-compPlots(x1=c(0.2, 0.4, 0.8), x2=c(0.8, 0.4, 0.2)
-	, K1=200, alp12=1, alp21=1
-)
+explPlots(Nf=c(5, 10), Ne=c(1, 2), rf=2)
 ``` 
 
 ### Phase plots
@@ -52,24 +51,24 @@ One time plot for each orbit on the phase plots:
 
 ![phase plot](index.Rout-3.png)
 
-![phase plot](index.Rout-4.png)
+One possibly confusing part is how the lists work. It goes through values of Ne and Nf one at a time, so in this case, it will start first at (5, 1) and then at (10, 2).
 
 ### Don't worry
 
-Depending on how R is set up, it will probably show a blank plot window
-first when you run `compPlots`. Just hit enter to see the first plot,
+Depending on how R is set up, it may show a blank plot window
+first when you run `explPlots`. Just hit enter to see the first plot,
 and so on.
 
 Basic idea
 ----------
 
-`compPlots` simulates a simple system with two competing species. You
+`explPlots` simulates a simple system with two competing species. You
 should be able to document dominance, coexistence and mutual exclusion.
 If you give lists for x1 and x2 (see strange format above), it puts all
 of the simulations onto the same phase plot, but makes a different time
 plot for each simulation.
 
-Note that `compPlots` simulates for only as long as you tell it to using
+Note that `explPlots` simulates for only as long as you tell it to using
 MaxTime; if you suspect it hasn't reached the end, MaxTime can be
 increased (you should first look at the default value below for
 reference).
@@ -77,11 +76,10 @@ reference).
 Arguments
 ---------
 
-To see the arguments for compPlots, type
+To see the arguments for explPlots, type
 ``` R
-args(compPlots)
+args(explPlots)
 ```
-
 
 ### What the arguments do
 
@@ -89,14 +87,17 @@ args(compPlots)
 
 #### Parameters
 
--   `r1,` `r2`: rmax for each species (1/t)
--   `K1,` `K2`: equilibrium value for each species when alone
-    (indiv1, indiv2)
--   `alp12,` `alp21`: cross-species competitive effects (1)
+* `satF`: Characteristic value for exploiter satiation (resource density). If resource density is high compared to this number, then exploiter satiation is important. If set to NULL, there is no exploiter satiation.
+* `Ke`; `Kf`: equilibrium value for each species when alone (exploiter density; resource density). If set to NULL then there is no density dependence for that species.
+* `rf`; `de`: Characteristic growth rate of resource; decline rate of exploiter (1/time)
+* `Ce`; `Cf`: Density of exploiter; resource that would balance the growth of the resource; exploiter in the absence of density dependence or satiation (exploiter density; resource density)
 
 #### Simulation
 
--   `x1,` `x2`: starting point(s) for simulations.
-    (indiv1, indiv2)
--   `MaxTime`: How long to simulate (t)
--   `steps`: Number of points to plot in simulation (1)
+* `Nf`; `Ne`: starting point(s) for simulations.
+* `MaxTime`: How long to simulate (time)
+* `steps`: Number of points to plot in simulation (1)
+
+## Harvest
+* `fHarv`; `eHarv`: per capita rate of harvesting for each species (1/time)
+* `harvTime`: Amount of time to simulate before harvesting starts (time)
