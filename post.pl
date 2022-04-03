@@ -24,6 +24,8 @@ while(<>){
 	}
 }
 
+$att{title}=~s/[('")]/_/g;
+
 ## The slug is parsed here, but is also used by Jekyll and can't be just an integer
 $att{slug} = "$att{slug}-$att{title}";
 $att{slug} =~ s/ /-/g;
