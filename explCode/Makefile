@@ -20,10 +20,10 @@ index.R: index.md
 
 index.Rout: index.md
 
-## indexFiles += index.Rout-0.png index.Rout-1.png index.Rout-2.png index.Rout-3.png index.Rout-4.png
+indexFiles += index.Rout-0.png index.Rout-1.png index.Rout-2.png index.Rout-3.png
 
 ### Temporarily disable (need codedown)
-### Sources += $(indexFiles)
+Sources += $(indexFiles)
 index.update: index.md $(indexFiles) ;
 
 ######################################################################

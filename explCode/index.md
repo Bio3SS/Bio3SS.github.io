@@ -98,6 +98,6 @@ args(explPlots)
 * `MaxTime`: How long to simulate (time)
 * `steps`: Number of points to plot in simulation (1)
 
-## Harvest
+#### Harvest
 * `fHarv`; `eHarv`: per capita rate of harvesting for each species (1/time)
 * `harvTime`: Amount of time to simulate before harvesting starts (time)
