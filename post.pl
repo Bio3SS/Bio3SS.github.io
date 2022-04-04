@@ -27,6 +27,7 @@ while(<>){
 $att{title}=~s/[('")]/_/g;
 
 ## The slug is parsed here, but is also used by Jekyll and can't be just an integer
+## Our slug is the filename and the yaml/Jekyll is the URL component
 $att{slug} = "$att{slug}-$att{title}";
 $att{slug} =~ s/ /-/g;
 
