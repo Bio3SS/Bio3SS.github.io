@@ -33,19 +33,19 @@ Sources += Makefile
 
 ms = makestuff
 -include local.mk
--include $(ms)/os.mk
+-include makestuff/os.mk
 
-Makefile: $(ms)
-$(ms): 
+Makefile: makestuff
+makestuff: 
 	ls -d ../makestuff && /bin/ln -fs ../makestuff .
 
-Ignore += $(ms)
+Ignore += makestuff
 
--include $(ms)/perl.def
+-include makestuff/perl.def
 
 ##################################################################
 
--include $(ms)/git.mk
--include $(ms)/visual.mk
+-include makestuff/git.mk
+-include makestuff/visual.mk
 
--include $(ms)/wrapR.mk
+-include makestuff/pipeR.mk
