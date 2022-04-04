@@ -36,10 +36,10 @@ Ignore += index.R
 index.R: index.md
 	codedown R < $< > $@
 
-index.Rout: index.md
+## index.Rout: index.md
 
 indexFiles += index.Rout-0.png index.Rout-1.png index.Rout-2.png index.Rout-3.png index.Rout-4.png
-Sources += $(indexFiles)
+## Sources += $(indexFiles)
 index.update: index.md $(indexFiles) ;
 
 ######################################################################
