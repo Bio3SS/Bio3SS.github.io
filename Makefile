@@ -59,6 +59,8 @@ Sources += post.pl
 Ignore += announce.post
 announce.post: announce.md
 
+waiting.post: waiting.md
+
 ######################################################################
 
 ## Template import 2020 Jun 28 (Sun)
