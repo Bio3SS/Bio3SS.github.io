@@ -1,3 +1,6 @@
+## competition documentation for the web directory
+## This subdirectory should be renamed to compCode (and the corresponding assignment changed)
+
 # http://localhost:4913/
 # http://localhost:4913/announce.html
 # http://bio3ss.github.io
