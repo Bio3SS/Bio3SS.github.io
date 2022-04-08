@@ -56,8 +56,10 @@ Sources += post.pl
 	$(PUSH)
 	$(shell_execute)
 
-Ignore += announce.post
+Ignore += *.post
 announce.post: announce.md
+
+waiting.post: waiting.md
 
 ######################################################################
 
