@@ -6,13 +6,19 @@ title: Unit 8
 # Content
 
 {% comment %} 
-NOTE ⇒ JD: there are different slidesets for this unit (disease, infection, corona, moreinfection)
-
-Note that lecture notes go beyond the end of the class material (we ran out of time). The class (and complete notes) end at the end of section 3.
+NOTE ⇒ JD: the slidesets for this unit are:
+• disease (original)
+• infection, moreinfection (deprecated and deleted)
+• corona (two versions; the 2020 sudden one and the 2022 supplemental one)
 {% endcomment %} 
 
 * [Lecture notes](materials/disease.handouts.pdf)
+    * [Complete notes](materials/disease.complete.pdf)
 {% comment %} 
-    * [Complete notes](materials/infection.complete.pdf)
-    * [Large format](materials/infection.large.pdf)
+    * [Large format](materials/disease.large.pdf)
+{% endcomment %} 
+
+* [Coronavirus notes](materials/corona.handouts.pdf)
+{% comment %} 
+    * [Complete notes](materials/disease.complete.pdf)
 {% endcomment %} 
