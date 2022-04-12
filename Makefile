@@ -37,7 +37,9 @@ Ignore += .jekyll-cache
 Sources += $(wildcard *.md) updates.html
 
 ## move competition to compCode next time (already promulgated assignment!)
-subdirs += competition explCode 
+subdirs += compCode explCode 
+
+Sources += competition/index.md
 
 Ignore += $(subdirs) 
 alldirs += $(subdirs)
