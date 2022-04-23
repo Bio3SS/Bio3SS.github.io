@@ -19,6 +19,6 @@ NOTE ⇒ JD: the slidesets for this unit are:
 {% endcomment %} 
 
 * [Coronavirus notes](materials/corona.handouts.pdf)
+    * [Complete notes](materials/corona.complete.pdf)
 {% comment %} 
-    * [Complete notes](materials/disease.complete.pdf)
 {% endcomment %} 
