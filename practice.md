@@ -75,6 +75,11 @@ Answers keys will be made available on Wed.
 
 ## Final ## 
 
+* [Test from 2021](materials/2021/final.test.pdf)
+	* [Key](materials/2021/final.key.pdf)
+{% comment %}
+{% endcomment %} 
+
 * [Test from 2020](materials/2020/final.test.pdf)
 	* [Key](materials/2020/final.key.pdf)
 {% comment %}

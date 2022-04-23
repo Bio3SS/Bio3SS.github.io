@@ -1,4 +1,3 @@
-## This is Bio3SS.github.io, a screens project directory
 ## 3SS/web
 ## makestuff/project.Makefile
 
