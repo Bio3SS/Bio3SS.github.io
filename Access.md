@@ -11,11 +11,11 @@ Don't worry if you don't have Avenue access yet; everything you need should be o
 
 # Waivers 
 
-{% comment %}
 If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
-Waivers for Jan 2022 are not yet available. I will open the waiver process at some point between 30 Sep (if enrollment is low) and 31 Dec (if enrollment is high). I will announce a date in early September.
-{% endcomment %}
+Waivers for Jan 2024 are not yet available. I will open the waiver process at some point between 1 Sep (if enrollment is low) and 1 Dec (if enrollment is high). I will announce the date in August.
+{% comment %}
 I will open the waivers process for 2021 on 1 Sep.
+{% endcomment %}
 
 You should have at least one introductory course with some coverage of ecology (e.g., Bio 1M) and an upper-level course with some relationship to evolution or ecology.
 
