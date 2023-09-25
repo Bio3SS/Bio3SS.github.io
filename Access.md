@@ -11,9 +11,9 @@ Don't worry if you don't have Avenue access yet; everything you need should be o
 
 # Waivers 
 
+{% comment %}
 If you want to take Bio 3SS without the prerequisite (Bio 2F), you will need a waiver.
 Waivers for Jan 2024 are not yet available. I will open the waiver process at some point between 1 Sep (if enrollment is low) and 1 Dec (if enrollment is high). I will announce the date in August.
-{% comment %}
 I will open the waivers process for 2021 on 1 Sep.
 {% endcomment %}
 
@@ -26,11 +26,11 @@ This is no longer available, and nobody was paying attention!
 
 If you would like a waiver, please [send an email to dushoff@mcmaster.ca](mailto:dushoff@mcmaster.ca),
 explaining which courses you have taken to meet these requirements and stating that you are willing to be personally responsible for learning concepts you may require from second-year ecology.  Please include your macid (that's the email address; you never need to send me your student number)
-You must email _after_ the opening date (not now!) because I want to be sure that you are still interested before I ask an administrator to process your waiver. 
 {% comment %}
+You must email _after_ the opening date (not now!) because I want to be sure that you are still interested before I ask an administrator to process your waiver. 
 {% endcomment %}
 
-Although you will probably get in, you should be aware that the waiver _does not guarantee you a spot in the course._  The waiver will allow you to try to register for the course online, once you receive confirmation from the department that the waiver has been processed.
+Although you will probably get in, you should be aware that the waiver does not guarantee you a spot in the course.  The waiver will allow you to try to register for the course online, once you receive confirmation from the department that the waiver has been processed.
 
 ## Equivalent courses 
 
