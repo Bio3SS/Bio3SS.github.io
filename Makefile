@@ -81,7 +81,7 @@ Sources += outline.pdf
 
 ## Avenue banner 2400x960
 
-Ignore += gazelle*.jpg
+Ignore += *.jpg
 
 gazelles.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grant%27s-gazelle.jpg"
