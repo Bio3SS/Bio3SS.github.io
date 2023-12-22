@@ -79,8 +79,21 @@ Sources += outline.pdf
 
 ######################################################################
 
+## Avenue banner 2400x960
+
+Ignore += gazelle*.jpg
+
+gazelles.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grant%27s-gazelle.jpg"
+
+gazelles.txt:
+
+gazelles.crop.jpg: gazelles.jpg Makefile
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grant%27s-gazelle.jpg"
+
 ## Logos
 
+## Not working
 zebras.jpg:
 	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
 
@@ -100,6 +113,7 @@ caribou.jpg:
 caribou.crop.jpg: caribou.jpg 
 	convert -crop 600x180+0+170 $< $@
 
+## Not working
 Ignore += mara*.jpg
 mara.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/en/3/3f/Herds_Maasi_Mara_%28cropped_and_straightened%29.jpg"
