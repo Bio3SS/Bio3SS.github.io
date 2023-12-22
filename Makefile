@@ -89,7 +89,7 @@ gazelles.jpg:
 gazelles.txt:
 
 gazelles.crop.jpg: gazelles.jpg Makefile
-	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grant%27s-gazelle.jpg"
+	convert -crop 1600x640+18+100 $< $@
 
 ## Logos
 
