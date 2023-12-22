@@ -86,7 +86,7 @@ Ignore += *.jpg
 gazelles.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grant%27s-gazelle.jpg"
 
-gazelles.txt:
+Sources += gazelles.txt
 
 gazelles.crop.jpg: gazelles.jpg Makefile
 	convert -crop 1600x640+18+100 $< $@
