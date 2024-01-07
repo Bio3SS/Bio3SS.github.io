@@ -15,11 +15,11 @@ Ignore += .jekyll-cache
 
 ## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue ##
 # https://teams.microsoft.com/l/channel/19%3apv40J-1SM7O8BP6oXpEQ6a0dgaMRzyngCWh62OIyhEQ1%40thread.tacv2/General?groupId=88fcb621-4c4c-4603-b746-737c99b739ad&tenantId=44376307-b429-42ad-8c25-28cd496f4772
-# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=413706
+# https://avenue.cllmcmaster.ca/d2l/lms/news/newedit.d2l?ou=595825
 # http://bio3ss.github.io?version=232
 
 ## Avenue main
-# https://avenue.cllmcmaster.ca/d2l/home/413706
+# https://avenue.cllmcmaster.ca/d2l/home/595825
 
 ## To CP using keyboard?
 ## works with shift-arrows, V seems not helpful
