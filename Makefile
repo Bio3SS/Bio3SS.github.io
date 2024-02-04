@@ -140,7 +140,12 @@ _posts:
 ## 2021 Jan 05 (Tue) Not really sure what's up with 2020 test material since 
 ## much of it was online
 ## Ignore += materials/*.final.*
+## Why do I need so many such statements?
+## Did not teach in 2023 (sabbatical), but I'm less clear why there's no 2021
+## That would have been the second of two sort-of-hybrid years
+## The true online-only semester would have been Fall 2020
 Sources += $(wildcard materials/*.*)
+Sources += $(wildcard materials/2022/*.*)
 Sources += $(wildcard materials/resources/*.*)
 Sources += $(wildcard materials/2020/*.*)
 Sources += $(wildcard materials/2019/*.*)
