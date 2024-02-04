@@ -4,12 +4,12 @@ title: Midterm 1
 ---
 
 {% comment %} 
-Midterm 1 will be held in our classroom during class time on Fri 19 Feb. It will cover Units 1-3 and parts of Unit 4.
+{% endcomment %} 
+Midterm 1 will be held in our classroom during class time on Mon 12 Feb. It will cover Units 1-3 and parts of Unit 4.
 
 There will be 20 multiple-choice questions (worth 20 points in total) and five points worth of short-answer questions.
 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
-{% endcomment %} 
 
 {% comment %} 
 ## Test
@@ -24,7 +24,40 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 * Do not communicate with anybody in any other way during the test time
 {% endcomment %} 
 
+
 {% comment %} 
+## Tests
+
+All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same.
+
+* [Version 1](materials/midterm1.1.test.pdf)
+    * [Key](materials/midterm1.1.key.pdf)
+
+* [Version 2](materials/midterm1.2.test.pdf)
+    * [Key](materials/midterm1.2.key.pdf)
+
+* [Version 3](materials/midterm1.3.test.pdf)
+    * [Key](materials/midterm1.3.key.pdf)
+
+* [Version 4](materials/midterm1.4.test.pdf)
+    * [Key](materials/midterm1.4.key.pdf)
+
+* [Version 5](materials/midterm1.5.test.pdf)
+    * [Key](materials/midterm1.5.key.pdf)
+{% endcomment %} 
+
+{% comment %} 
+It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
+{% endcomment %} 
+
+## Resources
+
+See [practice page](practice) for practice questions.
+
+{% comment %} 
+
+Below here was for COVID web versions
+
 ## Test
 
 * [Paper-style version](materials/midterm1.test.pdf)
@@ -43,33 +76,3 @@ Your test _will not be graded_ without it.
 
 * [Complete notes for the covered part of Unit 3](materials/nonlinear.cut.complete.pdf)
 {% endcomment %} 
-
-
-## Tests
-
-All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same.
-
-{% comment %} 
-It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
-{% endcomment %} 
-
-* [Version 1](materials/midterm1.1.test.pdf)
-    * [Key](materials/midterm1.1.key.pdf)
-
-* [Version 2](materials/midterm1.2.test.pdf)
-    * [Key](materials/midterm1.2.key.pdf)
-
-* [Version 3](materials/midterm1.3.test.pdf)
-    * [Key](materials/midterm1.3.key.pdf)
-
-{% comment %} 
-* [Version 4](materials/midterm1.4.test.pdf)
-    * [Key](materials/midterm1.4.key.pdf)
-
-* [Version 5](materials/midterm1.5.test.pdf)
-    * [Key](materials/midterm1.5.key.pdf)
-{% endcomment %} 
-
-## Resources
-
-See [practice page](practice) for practice questions.

@@ -5,11 +5,16 @@ title: Practice materials
 
 Practice tests and study questions are provided as study aids and as a guide to the style of questions in the course. Content and coverage will change from year to year. If it's not mentioned in the notes we're covering for the test, you don't need to know it.
 
+You are advised to be patient and spend some time looking at a test and thinking about what's hard for you before opening the associated key.
+
 ## Midterm 1 ## 
 
 {% comment %} 
 Answers keys will be made available on Wed.
 {% endcomment %} 
+
+* [Test from 2022](materials/2022/midterm1.1.test.pdf)
+    * [Key](materials/2022/midterm1.1.key.pdf)
 
 * [Life table supplement](materials/life.test.pdf)
     * [Key](materials/life.key.pdf)
@@ -53,6 +58,11 @@ Answers keys will be made available on Wed.
 
 ## Midterm 2 ## 
 
+* [Test from 2022](materials/2022/midterm2.1.test.pdf) 
+    * [Key](materials/2022/midterm2.1.key.pdf)
+{% comment %}
+{% endcomment %} 
+
 * [Test from 2021](materials/2021/midterm2.test.pdf) 
     * [Key](materials/2021/midterm2.key.pdf)
 {% comment %}
@@ -75,6 +85,9 @@ Answers keys will be made available on Wed.
 
 ## Final ## 
 
+* [Test from 2022](materials/2022/final.test.pdf)
+	* [Key](materials/2022/final.key.pdf)
+
 * [Test from 2021](materials/2021/final.test.pdf)
 	* [Key](materials/2021/final.key.pdf)
 {% comment %}
@@ -94,6 +107,3 @@ Answers keys will be made available on Wed.
 {% endcomment %} 
 * [Test from 2017](materials/2017/final.1.test.pdf)
 	* [Key](materials/2017/final.1.key.pdf)
-{% comment %}
-	* [Key](materials/2017/final.1.key.pdf)
-{% endcomment %} 

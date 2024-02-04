@@ -6,7 +6,6 @@ title: Overview
 {% comment %} 
 
 __This page currently reflects information from Winter 2022.__
-{% endcomment %} 
 
 # Updates (newest at top)
 <!-- # [Updates](updates.html) -->
@@ -19,16 +18,18 @@ __This page currently reflects information from Winter 2022.__
 	{% endfor %}
 </ul>
 # [Older updates](updates.html)
+{% endcomment %} 
+
 {% comment %} 
 {% endcomment %} 
 
+{% comment %} 
 # Course information
 
 * [Official course outline](outline.pdf)
 * [Class participation](participation.html)
 * [About note-taking](http://www.vox.com/2014/6/4/5776804/note-taking-by-hand-versus-laptop)
 * [Teaching team](team.html)
-{% comment %} 
 * [Teaching team](team.html) (includes office hour information)
 * [Note takers](notes.html)
 {% endcomment %} 
@@ -36,6 +37,7 @@ __This page currently reflects information from Winter 2022.__
 * [Course calendar](https://calendar.google.com/calendar/embed?src=f9g0s57fganutu9q5ugp5jhmuo%40group.calendar.google.com&ctz=America/Toronto)
 {% endcomment %} 
 
+{% comment %} 
 # Course content
 
 * [Unit 1: Course introduction](intro.html)
@@ -47,7 +49,6 @@ __This page currently reflects information from Winter 2022.__
 * [Unit 7: Exploitation](exploitation.html)
 * [Unit 8: Disease](disease.html)
 
-{% comment %} 
 	intro.md
 	linear.md
 	nonlinear.md
@@ -60,12 +61,12 @@ __This page currently reflects information from Winter 2022.__
 
 
 # Tests and assignments
-* [Assignments](assignments.html)
 * [Practice materials](practice)
 * [Midterm 1](midterm1.html)
+{% comment %} 
 * [Midterm 2](midterm2.html)
 * [Final exam](final.html)
-{% comment %} 
+* [Assignments](assignments.html)
 {% endcomment %} 
 
 # Policies
