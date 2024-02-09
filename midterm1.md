@@ -5,7 +5,7 @@ title: Midterm 1
 
 {% comment %} 
 {% endcomment %} 
-Midterm 1 will be held in our classroom during class time on Mon 12 Feb. It will cover Units 1-3 and parts of Unit 4.
+Midterm 1 will be held in our classroom during class time on Mon 12 Feb. It will cover Units 1-3 only.
 
 There will be 20 multiple-choice questions (worth 20 points in total) and five points worth of short-answer questions.
 
