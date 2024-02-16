@@ -4,12 +4,12 @@ title: Midterm 1
 ---
 
 {% comment %} 
-{% endcomment %} 
 Midterm 1 will be held in our classroom during class time on Mon 12 Feb. It will cover Units 1-3 only.
 
 There will be 20 multiple-choice questions (worth 20 points in total) and five points worth of short-answer questions.
 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
+{% endcomment %} 
 
 {% comment %} 
 ## Test
@@ -24,8 +24,8 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 * Do not communicate with anybody in any other way during the test time
 {% endcomment %} 
 
-
 {% comment %} 
+{% endcomment %} 
 ## Tests
 
 All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions use different values, but are otherwise the same.
@@ -44,7 +44,6 @@ All versions are similar. MC questions are scrambled, but are otherwise the same
 
 * [Version 5](materials/midterm1.5.test.pdf)
     * [Key](materials/midterm1.5.key.pdf)
-{% endcomment %} 
 
 {% comment %} 
 It's weird but irrelevant that Version 5 is labelled "Deferred" instead of "Version 5".
