@@ -26,6 +26,8 @@ already done this in an earlier assignment.
 Sample plots
 ------------
 
+See [our plot hints page](../plotHints)
+
 If we say, for example:
 
 ``` R
