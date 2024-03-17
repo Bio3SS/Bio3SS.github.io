@@ -1,6 +1,6 @@
 ---
 layout: page
-title: compPlots
+title: The compPlots function
 ---
 
 To load compPlots, type
