@@ -1,6 +1,6 @@
 ---
 layout: page
-title: compPlots
+title: Plotting hints
 ---
 
 rstudio is weird about plot size. You're supposed to be able to make the window bigger (and therefore make nice plots) by manually adjusting the plot window, or using the Zoom button. It can also help to use the rstudio "restart R" option, or to actually restart rstudio. It's also possible that this will not work for you.
