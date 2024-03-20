@@ -18,6 +18,8 @@ Please arrive promptly, with your Mac-standard calculator, a pencil for multiple
 
 # This year's test
 
+All versions are similar. MC questions are scrambled, but are otherwise the same. SA questions may use different values, but are otherwise the same.
+
 * [pdf version](materials/midterm2.1.test.pdf)
     * [Key](materials/midterm2.1.key.pdf)
 
