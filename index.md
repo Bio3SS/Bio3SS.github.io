@@ -63,8 +63,8 @@ __This page currently reflects information from Winter 2022.__
 # Tests and assignments
 * [Practice materials](practice)
 * [Midterm 1](midterm1.html)
-{% comment %} 
 * [Midterm 2](midterm2.html)
+{% comment %} 
 * [Final exam](final.html)
 * [Assignments](assignments.html)
 {% endcomment %} 
