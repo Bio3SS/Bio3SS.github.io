@@ -85,23 +85,24 @@ Sources += outline.pdf
 
 Ignore += *.jpg
 
+## 2026 not big enough but I like it
+
+escarpment.jpg:
+	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/5/52/Kelso_Conservation_Area-_Escarpment_-_Milton_Heights-Ontario_%282%29.jpg"
+
+escarpment.crop.jpg: escarpment.jpg Makefile
+	convert -crop 1600x640+0+100 $< $@
+
+## 2024 probably
 gazelles.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/b/ba/Grant%27s-gazelle.jpg"
 
 Sources += gazelles.txt
 
-gazelles.crop.jpg: gazelles.jpg Makefile
+gazelles.crop.jpg: gazelles.jpg
 	convert -crop 1600x640+18+100 $< $@
 
 ## Logos
-
-## Not working
-zebras.jpg:
-	wget -O $@ "http://www.webmastergrade.com/wp-content/uploads/2009/09/Animal-Group-01.jpg"
-
-zebras.crop.jpg: zebras.jpg
-	convert -crop 800x440+0+60 $< $@
-Sources += caribou.crop.jpg
 
 dinosaur.jpg:
 	wget -O $@ "https://upload.wikimedia.org/wikipedia/commons/9/92/Edmontonia_dinosaur.png"
@@ -117,11 +118,8 @@ caribou.crop.jpg: caribou.jpg
 
 ## Not working
 Ignore += mara*.jpg
-mara.jpg:
-	wget -O $@ "https://upload.wikimedia.org/wikipedia/en/3/3f/Herds_Maasi_Mara_%28cropped_and_straightened%29.jpg"
 
-mara.crop.jpg: mara.jpg Makefile
-	convert -crop 966x360+0+100 $< $@
+## Herds Masai Mara
 
 ######################################################################
 
