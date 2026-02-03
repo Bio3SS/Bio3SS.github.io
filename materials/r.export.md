@@ -4,46 +4,42 @@ title: Introduction to R page
 ---
 
 
-Installing
-----------
+## Installing
 
 You should gain access to a laptop and bring it to your tutorial. If
 this will be a problem for you, please communicate with Dushoff.
 
 Install and run the program R from
-<a href="http://cran.r-project.org/bin/windows/base/" class="uri">http://cran.r-project.org/bin/windows/base/</a>
-(windows) or
-<a href="http://cran.r-project.org/bin/macosx/" class="uri">http://cran.r-project.org/bin/macosx/</a>
-(mac). *You should try this step before your tutorial*. In each case you
-want to download and then run the first file on the page.
+<http://cran.r-project.org/bin/windows/base/> (windows) or
+<http://cran.r-project.org/bin/macosx/> (mac). *You should try this step
+before your tutorial*. In each case you want to download and then run
+the first file on the page.
 
-You should also install RStudio
-(<a href="http://www.rstudio.com/ide/" class="uri">http://www.rstudio.com/ide/</a>).
-It’s possible to do everything in plain R, but RStudio will enhance your
+You should also install RStudio (<http://www.rstudio.com/ide/>). It’s
+possible to do everything in plain R, but RStudio will enhance your
 experience, and it will be the way the TAs teach things.
 
-Command line
-------------
+## Command line
 
 R gives you a command line where you can type commands. For example,
 type
 
 `2+2`
 
-followed by <enter> to see what R thinks the sum is.
+followed by <enter> to see what R thinks the sum is. You can also see
+whether you agree with this answer.
 
 Type `q()` to quit. The parentheses are weird, they let R know that q is
 a *function* it is supposed to try to execute, in this case by quitting.
-After you type `q()` R will ask you some sort of confusing question:
-answer either yes or no, it probably shouldn’t matter.
+After you type `q()` R may ask you one or more confusing question:
+answer either yes or no, it shouldn’t matter.
 
 If R ever gets confused, you should be able to get it to give you an
 error and go back to normal by typing `;` and then <enter> . If that
 doesn’t work, try `";` (it’s hard to make a single quote in Rstudio,
 though). If that doesn’t work, kill the window by force and start over.
 
-Library
--------
+## Library
 
 The time plots in bd use something called deSolve, which may not be
 installed with your version of R. You can install it by typing:
@@ -55,14 +51,11 @@ Rstudio window.
 
 **You only have to do this once per installation of R.**
 
-The function
-------------
+## The function
 
 To load `bd`, type:
 
     source("https://raw.githubusercontent.com/Bio3SS/Exponential_figures/master/bd.R") 
-
-    ## Loading required package: deSolve
 
 This should work if you are connected to the internet. `source` is a
 function; it tells R to load some information. The thing inside the
@@ -72,8 +65,7 @@ You can also open [the
 file](https://raw.githubusercontent.com/Bio3SS/Birth_death_models/master/bd.R)
 directly, or right-click to save it to your computer.
 
-Running
--------
+## Running
 
 Now you have loaded a function. Let’s try running it.
 
@@ -85,8 +77,7 @@ Type:
 
 That’s basically what you need from the introduction.
 
-Exploring further
------------------
+## Exploring further
 
 We can learn more about `bd` by using the function `args`; this tells
 you what arguments the function takes:
