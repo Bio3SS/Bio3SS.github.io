@@ -9,9 +9,8 @@ You are advised to be patient and spend some time looking at a test and thinking
 
 ## Midterm 1 ## 
 
-{% comment %} 
-Answers keys will be made available on Wed.
-{% endcomment %} 
+* [Test from 2024](materials/2024/midterm1.1.test.pdf)
+    * [Key](materials/2024/midterm1.1.key.pdf)
 
 * [Test from 2022](materials/2022/midterm1.1.test.pdf)
     * [Key](materials/2022/midterm1.1.key.pdf)
@@ -57,6 +56,9 @@ Answers keys will be made available on Wed.
 {% endcomment %} 
 
 ## Midterm 2 ## 
+
+* [Test from 2024](materials/2024/midterm2.1.test.pdf)
+    * [Key](materials/2024/midterm2.1.key.pdf)
 
 * [Test from 2022](materials/2022/midterm2.1.test.pdf) 
     * [Key](materials/2022/midterm2.1.key.pdf)

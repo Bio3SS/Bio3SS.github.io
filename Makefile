@@ -11,6 +11,8 @@ current: target
 
 Ignore += .jekyll-cache
 ## serve: jekyll.log ##
+bundle:
+	sudo bundle install
 
 # http://bio3ss.github.io?version=232
 # http://localhost:4913/
