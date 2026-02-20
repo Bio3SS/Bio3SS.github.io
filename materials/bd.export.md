@@ -4,13 +4,11 @@ title: BirthDeath
 ---
 
 
-Intro
-=====
+# Intro
 
 See also [Introduction to R page](r.export.html).
 
-A new library
-=============
+# A new library
 
 The time plots in bd use a “library” called deSolve, which may not be
 installed with your version of R. If you are not sure, type:
@@ -21,8 +19,7 @@ installed with your version of R. If you are not sure, type:
 you can skip this step and come back if you get an error saying you do
 not have the package deSolve.
 
-Loading
-=======
+# Loading
 
 To load `bd`, type:
 
@@ -37,8 +34,7 @@ file](https://raw.githubusercontent.com/Bio3SS/Exponential_figures/master/bd.R)
 directly. It’s a good idea to open it directly if you want to work on
 this project somewhere without an internet connection.
 
-Sample plots
-============
+# Sample plots
 
 If we say, for example:
 
@@ -46,15 +42,13 @@ If we say, for example:
 
 ![](bd.rmd_files/figure-markdown_strict/unnamed-chunk-2-1.png)![](bd.rmd_files/figure-markdown_strict/unnamed-chunk-2-2.png)
 
-Don’t worry
------------
+## Don’t worry
 
 Depending on how R is set up, it will probably show a blank plot window
 first when you run `bd`. Just hit enter to see the first plot, and so
 on.
 
-Basic idea
-==========
+# Basic idea
 
 We construct a birth rate and a death rate using a starting value (which
 is a rate, with units 1/time) and characteristic values for density
@@ -73,7 +67,7 @@ are strong when the population is smaller than the characteristic value
 for Allee effects.
 
 The equation for per-capita birth rate is
-*b*(*N*) = *b*<sub>0</sub>exp ( − *N*/*D*<sub>*b*</sub>)exp ( − *A*<sub>*b*</sub>/*N*)
+*b*(*N*) = *b*<sub>0</sub>exp (−*N*/*D*<sub>*b*</sub>)exp (−*A*<sub>*b*</sub>/*N*)
 . The negative signs are because when things get worse the birth rate
 gets lower. If either
 *D*<sub>*b*</sub>
@@ -95,8 +89,7 @@ units as the population. When Allee effect parameters get bigger, or
 density-dependence parameters get smaller, that means that these effects
 kick in sooner, with stronger effects.
 
-Arguments
-=========
+# Arguments
 
 To see the arguments for bd, type:
 
@@ -111,8 +104,7 @@ To see the arguments for bd, type:
 
 (units in parens)
 
-Parameters
-----------
+## Parameters
 
 -   `b0`: Per capita birth rate before Allee or DD effects (1/t)
 -   `bDD` –
@@ -129,8 +121,7 @@ Parameters
     *A*<sub>*d*</sub>
     : Scale for Allee effects on death rate (indiv)
 
-Simulation
-----------
+## Simulation
 
 -   `N0`: sets the value of
     *N*<sub>0</sub>
@@ -138,15 +129,13 @@ Simulation
 -   `MaxTime`: How long to simulate (t)
 -   `steps`: Number of points to plot in simulation (1)
 
-Rates
------
+## Rates
 
 -   `popMax`: Maximum population to plot for rates (indiv)
 -   `reportPcTotal`: Report growth rates as **p**er capita, **t**otal
     **b**oth or **n**either.
 
-Appearance
-----------
+## Appearance
 
 -   `legendSize` controls the size of the legend. The default is 1, so
     use e.g., 0.5 to make the legend half as big.
