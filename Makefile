@@ -14,7 +14,7 @@ Ignore += .jekyll-cache
 bundle:
 	sudo bundle install
 
-# http://bio3ss.github.io?version=232
+# http://bio3ss.github.io
 # http://localhost:4913/
 
 ## https://cap.mcmaster.ca/mcauth/login.jsp?app_id=1505&app_name=Avenue ##
