@@ -5,9 +5,7 @@ title: Midterm 2
 
 Midterm 2 will be held in our classroom during class time on Mon 16 Mar. 
 
-The midterm will focus on new material, but there will be some questions from earlier units as well. 
-
-A cut-point will be announced on Monday. 
+The midterm will focus on new material (Structure unit S3.2 until the end of competition, no exploitation), but there will be some questions from earlier units as well. 
 
 Please arrive promptly, with your Mac-standard calculator, a pencil for multiple-choice questions, and a pen for short-answer questions. Please wait _outside_ the classroom until we call you, so that we can set up the room.
 
