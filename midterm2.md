@@ -3,6 +3,7 @@ layout: page
 title: Midterm 2
 ---
 
+{% comment %} 
 Midterm 2 will be held in our classroom during class time on Mon 16 Mar. 
 
 The midterm will focus on new material (Structure unit S3.2 until the end of competition, no exploitation), but there will be some questions from earlier units as well. 
@@ -13,13 +14,13 @@ There will be 20 multiple-choice questions and 5 points from  short-answer quest
 
 * [Practice page](practice)
 
-{% comment %} 
 Between 13 and 19 Mar, maybe? Think about lectures or sessional span?
 
 There will be 25 multiple-choice questions and no short-answer questions.
 {% endcomment %} 
 
 {% comment %} 
+{% endcomment %} 
 
 # This year's test
 
@@ -39,6 +40,8 @@ All versions are similar. MC questions are scrambled, but are otherwise the same
 
 * [Version 5](materials/midterm2.5.test.pdf)
     * [Key](materials/midterm2.5.key.pdf)
+
+{% comment %} 
 {% endcomment %} 
 
 {% comment %} 
