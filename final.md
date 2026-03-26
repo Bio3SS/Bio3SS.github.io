@@ -3,11 +3,11 @@ layout: page
 title: Final exam
 ---
 
-The final exam will be at 9:00 AM on Mon 25 April, in person in a room to be assigned by the Registrar. It is scheduled for two hours. 
+The final exam will be at 4:00pm on Friday 10 April in a room to be assigned by the Registrar. It is scheduled for two hours. 
 
 The exam is _cumulative_, with extra emphasis on material not yet tested.
 
-There will be 40 MC questions, you should prepare a Mac-standard calculator.
+There will be 40 MC questions. You should prepare a Mac-standard calculator.
 
 {% comment %}
 There will be no attempts at intrusive monitoring. There will be an honor statement, and you should take it seriously.
