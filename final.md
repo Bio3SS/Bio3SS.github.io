@@ -30,4 +30,4 @@ Before 11 PM, please:
 * [Email me](mailto:dushoff@mcmaster.ca) from your McMaster address to say "I certify that I completed the 3SS exam without any assistance of any kind."
 {% endcomment %} 
 
-Wish everyone a safe, and enjoyable summer!
+Wish everyone a safe and enjoyable summer!
