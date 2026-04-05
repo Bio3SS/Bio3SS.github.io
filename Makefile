@@ -189,7 +189,7 @@ sb:
 ######################################################################
 
 vim_session:
-	bash -cl "vmt index.md announce.md"
+	bash -ic "vmt index.md announce.md"
 
 ### Makestuff
 
